@@ -1,0 +1,14 @@
+---
+title: IDEA导入别人项目
+date: 2020-01-16 10:41:36.0
+updated: 2021-05-14 22:00:50.066
+url: https://yayi.site/archives/idea导入别人项目
+categories: 笔记
+tags: 
+---
+
+
+﻿![在这里插入图片描述](http://img.yayi.site/csdn/20200105095643957.png-watermaskStyle)
+一般要改maven 路径成自己的。我连在哪都 不知道
+	Invalid Maven home directory configured  导入项目
+https://blog.csdn.net/xiaodingzi127/article/details/96975698

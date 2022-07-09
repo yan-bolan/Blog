@@ -1,0 +1,15 @@
+---
+title: mysql导入报错 [Err] 1273 - Unknown collation ‘utf8mb4_0900_ai_ci‘
+date: 2019-11-16 07:57:57.0
+updated: 2021-05-14 22:02:51.26
+url: https://yayi.site/archives/mysql导入报错err1273-unknowncollationutf8mb40900aici
+categories: 数据库
+tags: 
+---
+
+﻿
+首先查看你服务器的字符排序规则
+然后把对应的sql文件中，替换成相应的字符集
+我在na vcat中设置好像没有用
+
+![在这里插入图片描述](http://img.yayi.site/csdn/20191116075739823.png-watermaskStyle)
