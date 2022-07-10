@@ -4,6 +4,7 @@ date: 2019-10-16 23:11:02.0
 updated: 2021-05-14 22:00:50.073
 url: https://yayi.site/archives/idea局部类运行
 categories: IDE
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png
 tags: 
 ---
 

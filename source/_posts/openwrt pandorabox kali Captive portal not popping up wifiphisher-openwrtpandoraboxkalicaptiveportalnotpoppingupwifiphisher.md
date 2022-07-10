@@ -4,6 +4,7 @@ date: 2021-02-06 11:05:03.0
 updated: 2021-05-14 22:02:56.574
 url: https://yayi.site/archives/openwrtpandoraboxkalicaptiveportalnotpoppingupwifiphisher
 categories: Linux
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png
 tags: openwrt
 ---
 

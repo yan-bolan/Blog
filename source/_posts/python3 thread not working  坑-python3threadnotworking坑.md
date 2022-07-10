@@ -4,6 +4,7 @@ date: 2021-03-30 19:58:31.0
 updated: 2021-05-14 22:02:20.427
 url: https://yayi.site/archives/python3threadnotworking坑
 categories: python
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png
 tags: python,多进程,tuple
 ---
 

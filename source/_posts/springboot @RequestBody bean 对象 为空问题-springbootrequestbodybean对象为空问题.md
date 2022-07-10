@@ -4,6 +4,7 @@ date: 2020-10-11 19:19:24.0
 updated: 2021-05-14 22:03:55.61
 url: https://yayi.site/archives/springbootrequestbodybean对象为空问题
 categories: # springboot
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
 tags: spring,RequestBody
 ---
 

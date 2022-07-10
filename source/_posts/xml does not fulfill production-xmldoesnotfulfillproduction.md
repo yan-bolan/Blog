@@ -4,6 +4,7 @@ date: 2020-06-26 20:29:47.0
 updated: 2021-05-14 22:03:48.913
 url: https://yayi.site/archives/xmldoesnotfulfillproduction
 categories: 
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png
 tags: 
 ---
 

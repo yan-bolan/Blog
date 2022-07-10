@@ -4,6 +4,7 @@ date: 2019-10-23 10:32:00.0
 updated: 2021-05-14 22:04:25.165
 url: https://yayi.site/archives/win10远程唤醒网卡驱动电源管理是灰色
 categories: win10
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png
 tags: 
 ---
 

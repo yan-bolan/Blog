@@ -4,6 +4,7 @@ date: 2021-05-08 22:12:38.0
 updated: 2021-05-14 22:05:08.237
 url: https://yayi.site/archives/代理设置wsl为wsl2一键设置代理clash
 categories: win10
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
 tags: 
 ---
 

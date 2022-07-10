@@ -4,6 +4,7 @@ date: 2020-10-04 19:05:32.0
 updated: 2021-05-14 22:04:01.622
 url: https://yayi.site/archives/toavoidscopeambiguitythedefaultslotshouldalsousetemplatesyntaxwhenthereareotherna
 categories: 前端
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png
 tags: vue slot,slot,插槽：
 ---
 

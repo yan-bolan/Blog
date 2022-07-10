@@ -4,6 +4,7 @@ date: 2019-11-14 20:55:32.0
 updated: 2021-05-14 22:01:12.907
 url: https://yayi.site/archives/bootstrap3
 categories: 
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png
 tags: 
 ---
 

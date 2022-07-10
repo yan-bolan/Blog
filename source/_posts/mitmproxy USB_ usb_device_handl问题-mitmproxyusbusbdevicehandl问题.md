@@ -4,6 +4,7 @@ date: 2021-03-25 13:47:12.0
 updated: 2021-05-14 22:02:48.524
 url: https://yayi.site/archives/mitmproxyusbusbdevicehandl问题
 categories: python
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png
 tags: python,多线程,mitmproxy,函数线程
 ---
 

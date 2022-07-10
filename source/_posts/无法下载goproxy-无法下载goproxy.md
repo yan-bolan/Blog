@@ -4,6 +4,7 @@ date: 2019-10-25 20:59:27.0
 updated: 2021-05-14 22:05:00.648
 url: https://yayi.site/archives/无法下载goproxy
 categories: Linux
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png
 tags: 
 ---
 

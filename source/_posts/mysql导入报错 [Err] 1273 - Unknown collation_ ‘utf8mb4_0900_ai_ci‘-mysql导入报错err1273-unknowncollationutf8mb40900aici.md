@@ -4,6 +4,7 @@ date: 2019-11-16 07:57:57.0
 updated: 2021-05-14 22:02:51.26
 url: https://yayi.site/archives/mysql导入报错err1273-unknowncollationutf8mb40900aici
 categories: 数据库
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png
 tags: 
 ---
 

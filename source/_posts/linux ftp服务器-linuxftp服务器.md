@@ -4,6 +4,7 @@ date: 2019-10-22 19:26:51.0
 updated: 2021-05-14 22:02:39.993
 url: https://yayi.site/archives/linuxftp服务器
 categories: Linux
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png
 tags: 
 ---
 

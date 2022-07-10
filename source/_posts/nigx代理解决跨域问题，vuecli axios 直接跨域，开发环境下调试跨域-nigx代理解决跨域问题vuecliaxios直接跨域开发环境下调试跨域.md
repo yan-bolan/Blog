@@ -4,6 +4,7 @@ date: 2019-12-27 18:16:48.0
 updated: 2021-05-14 22:06:33.336
 url: https://yayi.site/archives/nigx代理解决跨域问题vuecliaxios直接跨域开发环境下调试跨域
 categories: 网络
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png
 tags: nginx
 ---
 

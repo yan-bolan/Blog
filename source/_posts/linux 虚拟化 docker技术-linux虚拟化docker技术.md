@@ -4,6 +4,7 @@ date: 2020-11-02 15:07:28.0
 updated: 2021-05-14 22:02:43.061
 url: https://yayi.site/archives/linux虚拟化docker技术
 categories: Linux
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: 内核,linux,虚拟化,docker
 ---
 

@@ -4,6 +4,7 @@ date: 2020-03-19 12:08:26.0
 updated: 2021-05-14 22:02:13.798
 url: https://yayi.site/archives/ping不通问题
 categories: 
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png
 tags: 
 ---
 

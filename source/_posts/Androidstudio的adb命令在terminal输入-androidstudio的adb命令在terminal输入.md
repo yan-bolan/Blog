@@ -4,6 +4,7 @@ date: 2019-10-14 20:01:11.0
 updated: 2021-05-14 22:01:00.396
 url: https://yayi.site/archives/androidstudio的adb命令在terminal输入
 categories: andriod
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png
 tags: 
 ---
 

@@ -4,6 +4,7 @@ date: 2020-05-15 23:26:29.0
 updated: 2021-05-14 22:04:15.351
 url: https://yayi.site/archives/vscodessh密钥登录
 categories: 
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
 tags: 
 ---
 

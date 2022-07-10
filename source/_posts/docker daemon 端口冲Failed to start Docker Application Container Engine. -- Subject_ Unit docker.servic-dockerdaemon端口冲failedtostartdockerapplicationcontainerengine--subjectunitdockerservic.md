@@ -4,6 +4,7 @@ date: 2021-03-23 20:43:17.0
 updated: 2021-05-14 22:01:21.932
 url: https://yayi.site/archives/dockerdaemon端口冲failedtostartdockerapplicationcontainerengine--subjectunitdockerservic
 categories: Linux
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png
 tags: docker,端口冲突,dockerd,docker服务无法启动
 ---
 

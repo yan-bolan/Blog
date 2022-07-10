@@ -4,6 +4,7 @@ date: 2021-05-13 23:20:08.032
 updated: 2021-05-14 19:17:26.038
 url: https://yayi.site/archives/wen-ji--yu-lu
 categories: 文集
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: 语录
 ---
 

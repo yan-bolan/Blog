@@ -4,6 +4,7 @@ date: 2019-11-16 08:38:33.0
 updated: 2021-05-14 22:04:25.16
 url: https://yayi.site/archives/windows根据端口查看进行pid并杀掉进程
 categories: 
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png
 tags: 
 ---
 

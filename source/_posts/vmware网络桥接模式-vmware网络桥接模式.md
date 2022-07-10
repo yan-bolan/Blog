@@ -4,6 +4,7 @@ date: 2019-10-22 13:14:50.0
 updated: 2021-05-14 22:04:09.863
 url: https://yayi.site/archives/vmware网络桥接模式
 categories: Linux
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png
 tags: 
 ---
 

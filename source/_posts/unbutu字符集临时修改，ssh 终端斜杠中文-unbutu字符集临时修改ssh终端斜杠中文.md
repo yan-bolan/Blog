@@ -4,6 +4,7 @@ date: 2021-03-25 19:59:50.0
 updated: 2021-05-14 22:04:07.478
 url: https://yayi.site/archives/unbutu字符集临时修改ssh终端斜杠中文
 categories: 
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png
 tags: 
 ---
 

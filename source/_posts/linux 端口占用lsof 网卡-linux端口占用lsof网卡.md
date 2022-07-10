@@ -4,6 +4,7 @@ date: 2020-05-16 18:20:43.0
 updated: 2021-05-14 22:02:43.031
 url: https://yayi.site/archives/linux端口占用lsof网卡
 categories: 
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: vm docker,网卡,端口占用
 ---
 

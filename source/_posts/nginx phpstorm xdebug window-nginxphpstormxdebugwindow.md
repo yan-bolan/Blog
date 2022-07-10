@@ -4,6 +4,7 @@ date: 2020-05-10 09:35:47.0
 updated: 2021-05-14 22:02:54.046
 url: https://yayi.site/archives/nginxphpstormxdebugwindow
 categories: php
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: php,nginx,phpstorm,xdebug
 ---
 

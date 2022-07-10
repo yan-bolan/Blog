@@ -4,6 +4,7 @@ date: 2020-09-29 22:33:27.0
 updated: 2021-05-14 22:03:52.27
 url: https://yayi.site/archives/springcontroller一些写法
 categories: # springboot
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: springboot,controller
 ---
 

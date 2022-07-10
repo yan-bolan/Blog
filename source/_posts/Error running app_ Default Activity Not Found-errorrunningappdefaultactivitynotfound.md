@@ -4,6 +4,7 @@ date: 2019-10-14 19:56:22.0
 updated: 2021-05-14 22:01:24.506
 url: https://yayi.site/archives/errorrunningappdefaultactivitynotfound
 categories: andriod
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: 
 ---
 

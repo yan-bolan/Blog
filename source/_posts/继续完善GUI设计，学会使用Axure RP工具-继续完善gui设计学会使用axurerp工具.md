@@ -4,6 +4,7 @@ date: 2019-10-03 13:13:20.0
 updated: 2021-05-14 22:05:13.388
 url: https://yayi.site/archives/继续完善gui设计学会使用axurerp工具
 categories: 笔记
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png
 tags: Axure RP
 ---
 

@@ -4,6 +4,7 @@ date: 2021-05-11 12:15:36.0
 updated: 2021-05-14 22:02:13.802
 url: https://yayi.site/archives/php字符串表示类概念知识点
 categories: php
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: php类概念,php字符串
 ---
 

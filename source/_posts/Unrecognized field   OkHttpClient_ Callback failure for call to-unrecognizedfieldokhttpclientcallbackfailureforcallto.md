@@ -4,6 +4,7 @@ date: 2020-09-13 13:31:42.0
 updated: 2021-05-14 22:04:07.474
 url: https://yayi.site/archives/unrecognizedfieldokhttpclientcallbackfailureforcallto
 categories: 
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png
 tags: android,Progouard,bean,okhttp
 ---
 

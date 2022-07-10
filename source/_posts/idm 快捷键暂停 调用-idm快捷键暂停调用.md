@@ -4,6 +4,7 @@ date: 2021-03-11 16:35:11.0
 updated: 2021-05-14 22:00:53.704
 url: https://yayi.site/archives/idm快捷键暂停调用
 categories: win10
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: IDM
 ---
 

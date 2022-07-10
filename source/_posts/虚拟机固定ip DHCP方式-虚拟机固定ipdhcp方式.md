@@ -4,6 +4,7 @@ date: 2020-05-18 21:24:43.0
 updated: 2021-05-14 22:05:03.089
 url: https://yayi.site/archives/虚拟机固定ipdhcp方式
 categories: win10,Linux
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: ip vm
 ---
 

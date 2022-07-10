@@ -4,6 +4,7 @@ date: 2019-10-20 13:07:33.0
 updated: 2021-05-14 22:04:22.659
 url: https://yayi.site/archives/win10控制鼠标滚轮速度word文档
 categories: win10
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
 tags: 
 ---
 

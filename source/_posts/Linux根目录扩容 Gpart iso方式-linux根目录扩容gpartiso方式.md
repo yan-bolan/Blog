@@ -4,6 +4,7 @@ date: 2020-06-11 18:31:18.0
 updated: 2021-05-14 22:02:45.749
 url: https://yayi.site/archives/linux根目录扩容gpartiso方式
 categories: Linux
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png
 tags: Gpart,vm,centos7
 ---
 

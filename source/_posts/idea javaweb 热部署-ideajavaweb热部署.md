@@ -4,6 +4,7 @@ date: 2019-10-08 18:38:20.0
 updated: 2021-05-14 22:00:42.682
 url: https://yayi.site/archives/ideajavaweb热部署
 categories: 
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: 
 ---
 

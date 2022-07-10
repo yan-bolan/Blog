@@ -4,6 +4,7 @@ date: 2020-06-01 17:38:55.0
 updated: 2021-05-14 22:02:59.004
 url: https://yayi.site/archives/phparraymerge和加法数组的区别
 categories: php
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png
 tags: php,数组加法,数组合并,区别
 ---
 

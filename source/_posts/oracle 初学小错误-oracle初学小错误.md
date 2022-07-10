@@ -4,6 +4,7 @@ date: 2020-05-30 16:21:08.0
 updated: 2021-05-14 22:02:56.557
 url: https://yayi.site/archives/oracle初学小错误
 categories: 数据库
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png
 tags: oracle
 ---
 

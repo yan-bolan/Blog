@@ -4,6 +4,7 @@ date: 2019-10-21 20:13:01.0
 updated: 2021-05-14 22:01:06.556
 url: https://yayi.site/archives/apache配置代理
 categories: 网络
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
 tags: 
 ---
 

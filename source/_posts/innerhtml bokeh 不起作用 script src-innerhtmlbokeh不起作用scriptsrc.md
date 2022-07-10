@@ -4,6 +4,7 @@ date: 2021-04-09 18:36:46.0
 updated: 2021-05-14 22:00:53.714
 url: https://yayi.site/archives/innerhtmlbokeh不起作用scriptsrc
 categories: JavaScript
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: js
 ---
 

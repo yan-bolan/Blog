@@ -4,6 +4,7 @@ date: 2019-09-18 18:32:40.0
 updated: 2021-05-14 22:01:27.424
 url: https://yayi.site/archives/github删除release
 categories: andriod
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png
 tags: github
 ---
 

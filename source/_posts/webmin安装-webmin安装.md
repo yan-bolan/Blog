@@ -4,6 +4,7 @@ date: 2019-12-06 09:52:28.0
 updated: 2021-05-14 22:04:18.011
 url: https://yayi.site/archives/webmin安装
 categories: Linux
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png
 tags: webmin,ipv6,install
 ---
 

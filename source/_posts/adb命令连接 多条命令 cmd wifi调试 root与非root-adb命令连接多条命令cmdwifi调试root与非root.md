@@ -4,6 +4,7 @@ date: 2020-06-28 12:00:31.0
 updated: 2021-05-14 22:00:57.052
 url: https://yayi.site/archives/adb命令连接多条命令cmdwifi调试root与非root
 categories: win10,andriod
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png
 tags: adb,cmd,多条
 ---
 

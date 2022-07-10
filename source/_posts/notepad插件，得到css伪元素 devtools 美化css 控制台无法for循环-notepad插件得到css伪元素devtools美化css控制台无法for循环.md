@@ -4,6 +4,7 @@ date: 2021-03-16 16:26:00.0
 updated: 2021-05-14 22:02:56.549
 url: https://yayi.site/archives/notepad插件得到css伪元素devtools美化css控制台无法for循环
 categories: 前端
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png
 tags: 安装插件,控制台for代码,伪元素抓取
 ---
 

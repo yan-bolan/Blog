@@ -4,6 +4,7 @@ date: 2021-01-01 14:00:27.0
 updated: 2021-05-14 22:02:10.175
 url: https://yayi.site/archives/php调试-环境选择-window原理principle调试流程解析dbgp是什么cmd乱码
 categories: IDE,php
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: phpstorm调试,xdebug调试,cmd乱码,调试原理,调试流程
 ---
 

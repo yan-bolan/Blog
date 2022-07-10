@@ -4,6 +4,7 @@ date: 2020-10-08 15:03:12.0
 updated: 2021-05-14 22:02:30.598
 url: https://yayi.site/archives/jenkins支持的steps
 categories: Linux
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: jenkins
 ---
 

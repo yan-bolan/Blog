@@ -4,6 +4,7 @@ date: 2020-10-11 23:11:57.0
 updated: 2021-05-14 22:04:18.012
 url: https://yayi.site/archives/vue表单验证htmlinput
 categories: 
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png
 tags: 
 ---
 

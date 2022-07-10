@@ -4,6 +4,7 @@ date: 2020-09-23 17:47:45.0
 updated: 2021-05-14 22:05:10.785
 url: https://yayi.site/archives/赫哈霍夫曼huffman编码游程编码
 categories: 算法与设计
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
 tags: Huffman,游程编码
 ---
 

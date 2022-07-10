@@ -4,6 +4,7 @@ date: 2021-03-20 17:35:19.0
 updated: 2021-05-14 22:02:51.287
 url: https://yayi.site/archives/nginx44380httphttps301
 categories: 
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: 
 ---
 

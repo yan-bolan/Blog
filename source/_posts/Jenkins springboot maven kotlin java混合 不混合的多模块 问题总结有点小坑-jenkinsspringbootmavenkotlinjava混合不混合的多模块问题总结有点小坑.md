@@ -4,6 +4,7 @@ date: 2020-10-07 10:33:10.0
 updated: 2021-05-14 22:02:30.591
 url: https://yayi.site/archives/jenkinsspringbootmavenkotlinjava混合不混合的多模块问题总结有点小坑
 categories: java,Linux,# springboot
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png
 tags: jenkins,maven问题,kotlinJAVA混合,多模块下的问题
 ---
 

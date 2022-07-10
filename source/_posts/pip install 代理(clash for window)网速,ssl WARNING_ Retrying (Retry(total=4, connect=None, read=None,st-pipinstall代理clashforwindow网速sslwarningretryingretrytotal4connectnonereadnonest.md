@@ -4,6 +4,7 @@ date: 2021-01-25 20:56:13.0
 updated: 2021-05-14 22:02:17.227
 url: https://yayi.site/archives/pipinstall代理clashforwindow网速sslwarningretryingretrytotal4connectnonereadnonest
 categories: python
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png
 tags: anaconda,proxy,pip,pip install,proxy error
 ---
 

@@ -4,6 +4,7 @@ date: 2019-12-05 18:31:35.0
 updated: 2021-05-14 22:02:45.77
 url: https://yayi.site/archives/linux学习记录
 categories: 
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
 tags: 
 ---
 

@@ -4,6 +4,7 @@ date: 2019-10-03 11:20:39.0
 updated: 2021-05-14 22:04:20.366
 url: https://yayi.site/archives/win101903最新版截图快捷键winshifts
 categories: win10
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: 快捷键
 ---
 

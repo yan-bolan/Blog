@@ -4,6 +4,7 @@ date: 2020-06-18 21:22:10.0
 updated: 2021-05-14 22:01:30.24
 url: https://yayi.site/archives/hugowercker
 categories: 网络
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png
 tags: hugo,themes
 ---
 

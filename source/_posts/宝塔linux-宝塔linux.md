@@ -4,6 +4,7 @@ date: 2019-11-15 19:36:20.0
 updated: 2021-05-14 22:05:05.944
 url: https://yayi.site/archives/宝塔linux
 categories: 
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png
 tags: 
 ---
 

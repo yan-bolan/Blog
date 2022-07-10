@@ -4,6 +4,7 @@ date: 2019-11-22 21:48:26.0
 updated: 2021-05-14 22:04:04.718
 url: https://yayi.site/archives/ubuntu网络图标不见
 categories: Linux
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: 
 ---
 

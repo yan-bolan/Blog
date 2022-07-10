@@ -4,6 +4,7 @@ date: 2020-03-05 19:45:07.0
 updated: 2021-05-14 22:02:20.477
 url: https://yayi.site/archives/pythonpycharmspiderpipdocker
 categories: python
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png
 tags: python,linux,docker
 ---
 

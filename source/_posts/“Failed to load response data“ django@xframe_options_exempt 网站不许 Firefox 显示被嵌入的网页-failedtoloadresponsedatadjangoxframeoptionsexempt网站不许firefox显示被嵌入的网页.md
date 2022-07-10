@@ -4,6 +4,7 @@ date: 2021-04-06 17:48:00.0
 updated: 2021-05-14 22:00:57.038
 url: https://yayi.site/archives/failedtoloadresponsedatadjangoxframeoptionsexempt网站不许firefox显示被嵌入的网页
 categories: 
+cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: 
 ---
 

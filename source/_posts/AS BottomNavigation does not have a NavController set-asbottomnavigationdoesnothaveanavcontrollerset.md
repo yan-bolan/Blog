@@ -4,6 +4,7 @@ date: 2020-09-13 22:06:36.0
 updated: 2021-05-14 22:01:06.558
 url: https://yayi.site/archives/asbottomnavigationdoesnothaveanavcontrollerset
 categories: andriod
+cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png
 tags: Navigation,ANDROID
 ---
 
