@@ -20,6 +20,10 @@ hexo new [layout] <title>
 hexo new <titile>
 ```
 
+git add .
+
+git push
+
 ### 图片
 
 #### 绝对路径（本地推荐）
@@ -35,5 +39,3 @@ source/images/image.jpg
 _config.yml
 
 ### CDN引用（推荐）
-
-
