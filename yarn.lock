@@ -1320,6 +1320,11 @@
     "nib" "^1.2.0"
     "stylus" "^0.57.0"
 
+"hexo-robotstxt-multisitemaps@^1.0.0":
+  "integrity" "sha512-L2atxvAokXGPjbxnl9BOs7f/7+1E9eFMCuQBPHWLqB69tamk6u0jehV6sK5HBW3ALRyxyZ7tXadX3HOOWqwdLw=="
+  "resolved" "https://registry.npmjs.org/hexo-robotstxt-multisitemaps/-/hexo-robotstxt-multisitemaps-1.0.0.tgz"
+  "version" "1.0.0"
+
 "hexo-server@^3.0.0":
   "integrity" "sha512-u4s0ty9Aew6jV+a9oMrXBwhrRpUQ0U8PWM/88a5aHgDru58VY81mVrxOFxs788NAsWQ8OvsJtF5m7mnXoRnSIA=="
   "resolved" "https://registry.npmjs.org/hexo-server/-/hexo-server-3.0.0.tgz"

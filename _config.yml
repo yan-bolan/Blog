@@ -102,8 +102,21 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins:
+- hexo-robotstxt-multisitemaps
+
 ## Themes: https://hexo.io/themes/
 theme: nexmoe
+
+robotstxt: #https://github.com/anthonyweidai/hexo-robotstxt-multisitemaps
+  useragent: "*"
+  disallow:
+    - /one_file_to_disallow.html
+  allow:
+    - /
+  sitemap: 
+    - /sitemap.xml
+    - /baidu_sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
