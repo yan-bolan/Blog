@@ -45,7 +45,7 @@ widgets:
       options: 
         search: 
             type: engine # 可选engine（用搜索引擎搜索）、swiftype、或local（本地搜索）
-            url: https://cn.bing.com/search?q=site:nexmoe.com # 搜索引擎地址，在type为swiftype时无效 e.g:https://www.google.com/search?q={你的博客链接}
+            url: https://cn.bing.com/search?q=site:yuris.site # 搜索引擎地址，在type为swiftype时无效 e.g:https://www.google.com/search?q={你的博客链接}
             id: <swiftype-id> # swiftype的id，见启用教程。在type为engine时无效
     - name: social
       enable: true
@@ -106,7 +106,7 @@ widgets:
       enable: true
       options: 
         widgetLink: #链接组件
-            - title: 犬吠·埼-樹
+            - title: 犬吠·埼樹
               img: http://www.yuris.site/Common/img/%e7%8a%ac%e5%90%a0%c2%b7%e5%9f%bc%20%e6%a8%b9.png
               link : http://www.yuris.site/Common/img/%e7%8a%ac%e5%90%a0%c2%b7%e5%9f%bc%20%e6%a8%b9.png
             - title: 東郷·美森
@@ -120,7 +120,7 @@ slotHead: ''
 slotFooter: '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2058306854838448" crossorigin="anonymous"></script>'
 
 # 自定义侧边栏尾部内容
-slotSidebar: '<br><a target="_blank" href="https://beian.miit.gov.cn/">鄂ICP备2020018486号</a>
+slotSidebar: '<br><a target="_blank" href="https://beian.miit.gov.cn/">桂ICP备2020018486号</a>
     <br><a target="_blank" href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">
     <img src="" width="150px"></a>'
 
