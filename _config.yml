@@ -127,4 +127,4 @@ deploy:
     port: 21
     user: Adachi-Shimamura@yuris.site
     password: tyghbn147
-  root: /public_html/Blog/
+  root: / #/public_html/Blog/
