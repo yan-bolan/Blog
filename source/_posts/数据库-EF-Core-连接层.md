@@ -156,8 +156,6 @@ class FactorySample
 
             不建议同一业务内两种模式；因为同一业务可能是逻辑差不多的，两个就得两种维护；
 
-
-
 ## 更换数据库
 
 1. <mark>先add migration 或者删除旧的remove migration 等；不然不同的数据库生成的sql无法执行的问题；</mark>

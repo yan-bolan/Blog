@@ -35,3 +35,15 @@ pre build 预构建事件；
 ### interactive 交互式窗口；
 
 学习csahrp ；可以琢句执行；像python 一样；
+
+互式执行环境 (REPL) [C# 交互式执行环境 (REPL) (zzz.buzz)](https://zzz.buzz/zh/2016/08/14/c-sharp-interactive-repl/)
+
+## 其它
+
+enum可以与switch 使用；
+
+新语法特性中：根据enum快捷生成switch 好用；
+
+```csharp
+
+```
