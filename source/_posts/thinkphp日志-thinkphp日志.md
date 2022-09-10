@@ -1,11 +1,12 @@
 ---
 title: thinkphp日志
-date: 2019-11-16 09:40:08.0
-updated: 2021-05-14 22:03:58.865
-url: https://yayi.site/archives/thinkphp日志
+url: 'https://yayi.site/archives/thinkphp日志'
 categories: php
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png
-tags: 
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+abbrlink: 8c82bc09
+date: 2019-11-16 09:40:08
+updated: 2021-05-14 22:03:58
+tags:
 ---
 
 

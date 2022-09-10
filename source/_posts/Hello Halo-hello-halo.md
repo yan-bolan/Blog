@@ -1,11 +1,12 @@
 ---
 title: Hello Halo
-date: 2021-03-10 19:37:22.795
-updated: 2021-05-14 19:17:48.951
-url: https://yayi.site/archives/hello-halo
+url: 'https://yayi.site/archives/hello-halo'
 categories: 默认分类
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png
-tags: 
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
+abbrlink: 88d26380
+date: 2021-03-10 19:37:22
+updated: 2021-05-14 19:17:48
+tags:
 ---
 
 ## Hello Halo

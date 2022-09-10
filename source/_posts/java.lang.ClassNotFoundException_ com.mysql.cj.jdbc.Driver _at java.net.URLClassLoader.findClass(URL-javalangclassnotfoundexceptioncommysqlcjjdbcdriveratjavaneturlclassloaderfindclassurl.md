@@ -1,11 +1,15 @@
 ---
-title: java.lang.ClassNotFoundException com.mysql.cj.jdbc.Driver     at java.net.URLClassLoader.findClass(URL
-date: 2019-10-16 22:50:35.0
-updated: 2021-05-14 22:02:23.936
-url: https://yayi.site/archives/javalangclassnotfoundexceptioncommysqlcjjdbcdriveratjavaneturlclassloaderfindclassurl
+title: >-
+  java.lang.ClassNotFoundException com.mysql.cj.jdbc.Driver     at
+  java.net.URLClassLoader.findClass(URL
+url: >-
+  https://yayi.site/archives/javalangclassnotfoundexceptioncommysqlcjjdbcdriveratjavaneturlclassloaderfindclassurl
 categories: javaweb
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png
-tags: 
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
+abbrlink: 1559ec4
+date: 2019-10-16 22:50:35
+updated: 2021-05-14 22:02:23
+tags:
 ---
 
 ﻿如果是少jar包的话，idea,

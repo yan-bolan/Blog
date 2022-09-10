@@ -1,11 +1,13 @@
 ---
 title: vscode html js css 格式化插件问题
-date: 2021-04-15 13:51:53.0
-updated: 2021-05-14 22:04:12.888
-url: https://yayi.site/archives/vscodehtmljscss格式化插件问题
+url: 'https://yayi.site/archives/vscodehtmljscss格式化插件问题'
 categories: JavaScript
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: 字符串
+abbrlink: 80d7f7e6
+date: 2021-04-15 13:51:53
+updated: 2021-05-14 22:04:12
 ---
 
 

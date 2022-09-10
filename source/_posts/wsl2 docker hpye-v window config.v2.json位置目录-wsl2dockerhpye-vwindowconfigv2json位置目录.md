@@ -1,11 +1,12 @@
 ---
 title: wsl2 docker hpye-v window config.v2.json位置目录
-date: 2021-03-31 19:09:05.0
-updated: 2021-05-14 22:03:48.935
-url: https://yayi.site/archives/wsl2dockerhpye-vwindowconfigv2json位置目录
-categories: 
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png
-tags: 
+url: 'https://yayi.site/archives/wsl2dockerhpye-vwindowconfigv2json位置目录'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
+abbrlink: 3a6fd2e9
+date: 2021-03-31 19:09:05
+updated: 2021-05-14 22:03:48
+categories:
+tags:
 ---
 
 

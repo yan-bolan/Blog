@@ -1,11 +1,13 @@
 ---
 title: 用idea + ssh+ maven 搭一个大概框架样式
-date: 2019-10-04 16:44:03.0
-updated: 2021-05-14 22:05:03.085
-url: https://yayi.site/archives/用ideasshmaven搭一个大概框架样式
+url: 'https://yayi.site/archives/用ideasshmaven搭一个大概框架样式'
 categories: 笔记
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: ssｈ
+abbrlink: 285cf44f
+date: 2019-10-04 16:44:03
+updated: 2021-05-14 22:05:03
 ---
 
 

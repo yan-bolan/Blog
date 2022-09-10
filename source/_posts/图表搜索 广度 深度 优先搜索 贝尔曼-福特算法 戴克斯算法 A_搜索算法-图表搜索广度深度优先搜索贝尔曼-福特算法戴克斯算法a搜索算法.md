@@ -1,11 +1,12 @@
 ---
 title: 图表搜索 广度 深度 优先搜索 贝尔曼-福特算法 戴克斯算法 A*搜索算法
-date: 2020-09-23 21:58:21.0
-updated: 2021-05-14 22:04:58.083
-url: https://yayi.site/archives/图表搜索广度深度优先搜索贝尔曼-福特算法戴克斯算法a搜索算法
+url: 'https://yayi.site/archives/图表搜索广度深度优先搜索贝尔曼-福特算法戴克斯算法a搜索算法'
 categories: 算法与设计
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png
-tags: 图表搜索,深度广度搜索,A star 搜索算法,戴克斯算法,贝尔曼-福特算法
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+tags: '图表搜索,深度广度搜索,A star 搜索算法,戴克斯算法,贝尔曼-福特算法'
+abbrlink: 8f99a990
+date: 2020-09-23 21:58:21
+updated: 2021-05-14 22:04:58
 ---
 
 

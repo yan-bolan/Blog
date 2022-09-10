@@ -1,11 +1,12 @@
 ---
 title: win10系统变量的列表显示方法
-date: 2019-09-13 16:57:58.0
-updated: 2021-05-14 22:04:22.649
-url: https://yayi.site/archives/win10系统变量的列表显示方法
+url: 'https://yayi.site/archives/win10系统变量的列表显示方法'
 categories: win10
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
 tags: win10
+abbrlink: a95d7fe0
+date: 2019-09-13 16:57:58
+updated: 2021-05-14 22:04:22
 ---
 
 

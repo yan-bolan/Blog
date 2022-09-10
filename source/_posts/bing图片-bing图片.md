@@ -1,11 +1,12 @@
 ---
 title: bing图片
-date: 2019-11-14 09:22:05.0
-updated: 2021-05-14 22:01:09.688
-url: https://yayi.site/archives/bing图片
+url: 'https://yayi.site/archives/bing图片'
 categories: javaweb
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png
-tags: 
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+abbrlink: 65ea1d1b
+date: 2019-11-14 09:22:05
+updated: 2021-05-14 22:01:09
+tags:
 ---
 
 

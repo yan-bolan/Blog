@@ -1,11 +1,13 @@
 ---
 title: idea select all occurrences 正则表达式复制  查找结果复制
-date: 2020-11-26 12:46:20.0
-updated: 2021-05-14 22:00:42.787
-url: https://yayi.site/archives/ideaselectalloccurrences正则表达式复制查找结果复制
+url: 'https://yayi.site/archives/ideaselectalloccurrences正则表达式复制查找结果复制'
 categories: IDE
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
 tags: 正则表达式
+abbrlink: c7f44292
+date: 2020-11-26 12:46:20
+updated: 2021-05-14 22:00:42
 ---
 
 

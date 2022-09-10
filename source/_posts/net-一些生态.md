@@ -1,7 +1,8 @@
 ---
 title: net 一些生态
-date: 2022-09-09 22:14:58
 tags: net
+abbrlink: 8736f653
+date: 2022-09-09 22:14:58
 ---
 
 # 应用场景类
@@ -25,3 +26,4 @@ nuget:一个包管理库；
 1. Sharprompt 交互性命令库；
 2. CliWrap 
    - Airtight abstraction over `System.Diagnostics.Process` 调用其它进程执行命令；封装库
+3. command_line : 微软官方的命令行参数解析；

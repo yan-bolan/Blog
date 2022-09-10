@@ -1,11 +1,13 @@
 ---
 title: Centos8虚拟机安装后IP问题
-date: 2020-05-17 20:30:50.0
-updated: 2021-05-14 22:01:16.066
-url: https://yayi.site/archives/centos8虚拟机安装后ip问题
+url: 'https://yayi.site/archives/centos8虚拟机安装后ip问题'
 categories: Linux
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
-tags: linux,vmare ip
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
+tags: 'linux,vmare ip'
+abbrlink: e76bfc3c
+date: 2020-05-17 20:30:50
+updated: 2021-05-14 22:01:16
 ---
 
 

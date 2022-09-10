@@ -1,11 +1,12 @@
 ---
 title: word快捷键记录
-date: 2020-01-16 10:41:14.0
-updated: 2021-05-14 22:03:48.903
-url: https://yayi.site/archives/word快捷键记录
-categories: 
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png
-tags: 
+url: 'https://yayi.site/archives/word快捷键记录'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
+abbrlink: 1a0fed03
+date: 2020-01-16 10:41:14
+updated: 2021-05-14 22:03:48
+categories:
+tags:
 ---
 
 

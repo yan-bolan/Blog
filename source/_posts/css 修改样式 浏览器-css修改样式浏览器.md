@@ -1,11 +1,12 @@
 ---
 title: css 修改样式 浏览器
-date: 2020-10-04 20:24:23.0
-updated: 2021-05-14 22:01:18.9
-url: https://yayi.site/archives/css修改样式浏览器
-categories: 
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png
-tags: 
+url: 'https://yayi.site/archives/css修改样式浏览器'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
+abbrlink: a9f36936
+date: 2020-10-04 20:24:23
+updated: 2021-05-14 22:01:18
+categories:
+tags:
 ---
 
 

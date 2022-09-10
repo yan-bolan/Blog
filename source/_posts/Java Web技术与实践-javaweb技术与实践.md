@@ -1,11 +1,13 @@
 ---
 title: Java Web技术与实践
-date: 2021-05-12 17:50:10.0
-updated: 2021-05-15 15:43:07.718
-url: https://yayi.site/archives/javaweb技术与实践
+url: 'https://yayi.site/archives/javaweb技术与实践'
 categories: javaweb
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
-tags: Javaweb概述,web技术,spring
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
+tags: 'Javaweb概述,web技术,spring'
+abbrlink: 1b052525
+date: 2021-05-12 17:50:10
+updated: 2021-05-15 15:43:07
 ---
 
 

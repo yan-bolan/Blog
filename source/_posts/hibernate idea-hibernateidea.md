@@ -1,11 +1,12 @@
 ---
 title: hibernate idea
-date: 2019-10-24 17:08:37.0
-updated: 2021-05-14 22:01:27.467
-url: https://yayi.site/archives/hibernateidea
+url: 'https://yayi.site/archives/hibernateidea'
 categories: javaweb
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
 tags: hibernate
+abbrlink: d2ff0fb9
+date: 2019-10-24 17:08:37
+updated: 2021-05-14 22:01:27
 ---
 
 

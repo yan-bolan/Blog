@@ -1,11 +1,12 @@
 ---
 title: tomcat开发手册
-date: 2019-11-17 15:13:48.0
-updated: 2021-05-14 22:04:01.602
-url: https://yayi.site/archives/tomcat开发手册
-categories: 
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png
-tags: 
+url: 'https://yayi.site/archives/tomcat开发手册'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
+abbrlink: a88136fd
+date: 2019-11-17 15:13:48
+updated: 2021-05-14 22:04:01
+categories:
+tags:
 ---
 
 

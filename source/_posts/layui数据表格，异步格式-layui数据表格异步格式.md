@@ -1,11 +1,12 @@
 ---
 title: layui数据表格，异步格式
-date: 2019-11-09 14:54:29.0
-updated: 2021-05-14 22:02:39.99
-url: https://yayi.site/archives/layui数据表格异步格式
+url: 'https://yayi.site/archives/layui数据表格异步格式'
 categories: javaweb
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png
-tags: 
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
+abbrlink: e44eae33
+date: 2019-11-09 14:54:29
+updated: 2021-05-14 22:02:39
+tags:
 ---
 
 

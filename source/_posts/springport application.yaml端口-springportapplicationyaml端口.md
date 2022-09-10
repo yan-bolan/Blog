@@ -1,11 +1,12 @@
 ---
 title: springport application.yaml端口
-date: 2020-10-08 21:06:20.0
-updated: 2021-05-14 22:03:55.595
-url: https://yayi.site/archives/springportapplicationyaml端口
-categories: # springboot
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png
+url: 'https://yayi.site/archives/springportapplicationyaml端口'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
 tags: java
+abbrlink: 5c40672e
+date: 2020-10-08 21:06:20
+updated: 2021-05-14 22:03:55
+categories:
 ---
 
 

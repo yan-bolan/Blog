@@ -1,11 +1,12 @@
 ---
 title: android存储，布局约束
-date: 2020-05-30 16:18:45.0
-updated: 2021-05-14 22:01:03.544
-url: https://yayi.site/archives/android存储布局约束
-categories: 
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png
-tags: android,存储
+url: 'https://yayi.site/archives/android存储布局约束'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
+tags: 'android,存储'
+abbrlink: 4bcb4106
+date: 2020-05-30 16:18:45
+updated: 2021-05-14 22:01:03
+categories:
 ---
 
 

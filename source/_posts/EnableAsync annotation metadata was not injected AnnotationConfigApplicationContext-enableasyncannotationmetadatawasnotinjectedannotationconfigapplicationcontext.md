@@ -1,11 +1,15 @@
 ---
-title: EnableAsync annotation metadata was not injected AnnotationConfigApplicationContext
-date: 2020-04-21 20:17:35.0
-updated: 2021-05-14 22:00:57.065
-url: https://yayi.site/archives/enableasyncannotationmetadatawasnotinjectedannotationconfigapplicationcontext
-categories: # springboot
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png
+title: >-
+  EnableAsync annotation metadata was not injected
+  AnnotationConfigApplicationContext
+url: >-
+  https://yayi.site/archives/enableasyncannotationmetadatawasnotinjectedannotationconfigapplicationcontext
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
 tags: spring context
+abbrlink: db6b87b4
+date: 2020-04-21 20:17:35
+updated: 2021-05-14 22:00:57
+categories:
 ---
 
 ﻿#### 错误解读

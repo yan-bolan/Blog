@@ -1,11 +1,13 @@
 ---
 title: android改app版本号
-date: 2019-10-15 20:07:56.0
-updated: 2021-05-14 22:01:03.551
-url: https://yayi.site/archives/android改app版本号
+url: 'https://yayi.site/archives/android改app版本号'
 categories: andriod
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
-tags: 
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
+abbrlink: bbbd38a3
+date: 2019-10-15 20:07:56
+updated: 2021-05-14 22:01:03
+tags:
 ---
 
 

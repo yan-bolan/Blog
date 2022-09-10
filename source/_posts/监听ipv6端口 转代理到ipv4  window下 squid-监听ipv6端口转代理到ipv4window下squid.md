@@ -1,11 +1,12 @@
 ---
 title: 监听ipv6端口 转代理到ipv4  window下 squid
-date: 2019-12-07 18:15:17.0
-updated: 2021-05-14 22:04:45.918
-url: https://yayi.site/archives/监听ipv6端口转代理到ipv4window下squid
-categories: 网络,win10,Linux
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png
-tags: ipv6,squid
+url: 'https://yayi.site/archives/监听ipv6端口转代理到ipv4window下squid'
+categories: '网络,win10,Linux'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
+tags: 'ipv6,squid'
+abbrlink: 310a9c9d
+date: 2019-12-07 18:15:17
+updated: 2021-05-14 22:04:45
 ---
 
 

@@ -7,14 +7,14 @@ title: Yuris|Blog
 subtitle: ''
 description: '你会写代码有什么用？出来混要有势力，要有背景；你混哪个道的？哼，原来是小瘪三'
 keywords:
-author: John Doe
+author: yanbolan
 language: zh
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://yuris.site/Blog
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:abbrlink.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -128,3 +128,18 @@ deploy:
     user: Adachi-Shimamura@yuris.site
     password: tyghbn147
   root: / #/public_html/Blog/
+
+# abbrlink config
+abbrlink:
+  alg: crc32      #support crc16(default) and crc32
+  rep: hex        #support dec(default) and hex
+  drafts: false   #(true)Process draft,(false)Do not process draft. false(default) 
+  # Generate categories from directory-tree
+  # depth: the max_depth of directory-tree you want to generate, should > 0
+  auto_category:
+     enable: true  #true(default)
+     depth:        #3(default)
+     over_write: false 
+  auto_title: false #enable auto title, it can auto fill the title by path
+  auto_date: false #enable auto date, it can auto fill the date by time today
+  force: false #enable force mode,in this mode, the plugin will ignore the cache, and calc the abbrlink for every post even it already had abbrlink. This only updates abbrlink rather than other front variables.

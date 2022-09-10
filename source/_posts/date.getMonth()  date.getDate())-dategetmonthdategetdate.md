@@ -1,11 +1,12 @@
 ---
 title: date.getMonth()  date.getDate())
-date: 2020-11-01 13:16:08.0
-updated: 2021-05-14 22:01:18.909
-url: https://yayi.site/archives/dategetmonthdategetdate
+url: 'https://yayi.site/archives/dategetmonthdategetdate'
 categories: java
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png
-tags: java,getMonth,getDate
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+tags: 'java,getMonth,getDate'
+abbrlink: '472078e4'
+date: 2020-11-01 13:16:08
+updated: 2021-05-14 22:01:18
 ---
 
 

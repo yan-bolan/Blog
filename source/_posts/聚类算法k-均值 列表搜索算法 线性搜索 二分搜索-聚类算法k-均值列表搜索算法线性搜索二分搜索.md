@@ -1,11 +1,13 @@
 ---
 title: 聚类算法k-均值 列表搜索算法 线性搜索 二分搜索
-date: 2020-09-21 12:17:44.0
-updated: 2021-05-14 22:04:45.976
-url: https://yayi.site/archives/聚类算法k-均值列表搜索算法线性搜索二分搜索
+url: 'https://yayi.site/archives/聚类算法k-均值列表搜索算法线性搜索二分搜索'
 categories: 算法与设计
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
-tags: 聚类,算法,列表搜索算法,k-均值算法
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
+tags: '聚类,算法,列表搜索算法,k-均值算法'
+abbrlink: 20b77bb9
+date: 2020-09-21 12:17:44
+updated: 2021-05-14 22:04:45
 ---
 
 

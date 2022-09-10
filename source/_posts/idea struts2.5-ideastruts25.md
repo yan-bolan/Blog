@@ -1,11 +1,12 @@
 ---
 title: idea struts2.5
-date: 2019-10-24 10:07:18.0
-updated: 2021-05-14 22:00:46.404
-url: https://yayi.site/archives/ideastruts25
+url: 'https://yayi.site/archives/ideastruts25'
 categories: javaweb
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
 tags: struts2.5
+abbrlink: 9d2360d0
+date: 2019-10-24 10:07:18
+updated: 2021-05-14 22:00:46
 ---
 
 

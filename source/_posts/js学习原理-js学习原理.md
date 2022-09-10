@@ -1,11 +1,12 @@
 ---
 title: js学习原理
-date: 2020-11-06 12:19:41.0
-updated: 2021-05-14 22:02:36.869
-url: https://yayi.site/archives/js学习原理
+url: 'https://yayi.site/archives/js学习原理'
 categories: JavaScript
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png
-tags: javascript,学习,函数闭包,函数
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
+tags: 'javascript,学习,函数闭包,函数'
+abbrlink: 5b751401
+date: 2020-11-06 12:19:41
+updated: 2021-05-14 22:02:36
 ---
 
 

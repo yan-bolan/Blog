@@ -1,11 +1,12 @@
 ---
 title: mybatis一些细节
-date: 2020-10-09 21:58:39.0
-updated: 2021-05-14 22:02:48.52
-url: https://yayi.site/archives/mybatis一些细节
-categories: 数据库,# springboot
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png
-tags: mybatis,springboot
+url: 'https://yayi.site/archives/mybatis一些细节'
+categories: '数据库,# springboot'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
+tags: 'mybatis,springboot'
+abbrlink: 6a1335e9
+date: 2020-10-09 21:58:39
+updated: 2021-05-14 22:02:48
 ---
 
 

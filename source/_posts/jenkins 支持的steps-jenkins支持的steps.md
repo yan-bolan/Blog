@@ -1,11 +1,13 @@
 ---
 title: jenkins 支持的steps
-date: 2020-10-08 15:03:12.0
-updated: 2021-05-14 22:02:30.598
-url: https://yayi.site/archives/jenkins支持的steps
+url: 'https://yayi.site/archives/jenkins支持的steps'
 categories: Linux
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: jenkins
+abbrlink: e9c52fd1
+date: 2020-10-08 15:03:12
+updated: 2021-05-14 22:02:30
 ---
 
 

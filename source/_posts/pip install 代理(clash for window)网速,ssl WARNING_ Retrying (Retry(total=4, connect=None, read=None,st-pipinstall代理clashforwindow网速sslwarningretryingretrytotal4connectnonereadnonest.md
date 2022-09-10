@@ -1,11 +1,15 @@
 ---
-title: pip install 代理(clash for window)网速,ssl WARNING Retrying (Retry(total=4, connect=None, read=None,st
-date: 2021-01-25 20:56:13.0
-updated: 2021-05-14 22:02:17.227
-url: https://yayi.site/archives/pipinstall代理clashforwindow网速sslwarningretryingretrytotal4connectnonereadnonest
+title: >-
+  pip install 代理(clash for window)网速,ssl WARNING Retrying (Retry(total=4,
+  connect=None, read=None,st
+url: >-
+  https://yayi.site/archives/pipinstall代理clashforwindow网速sslwarningretryingretrytotal4connectnonereadnonest
 categories: python
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png
-tags: anaconda,proxy,pip,pip install,proxy error
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
+tags: 'anaconda,proxy,pip,pip install,proxy error'
+abbrlink: 33440b77
+date: 2021-01-25 20:56:13
+updated: 2021-05-14 22:02:17
 ---
 
 ﻿> pip install FileNotFoundError: [Errno 2] No such file or directory:

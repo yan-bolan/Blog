@@ -1,11 +1,13 @@
 ---
 title: Your anti-virus program might be impacting  防火墙
-date: 2020-04-17 15:00:53.0
-updated: 2021-05-14 22:03:52.266
-url: https://yayi.site/archives/youranti-virusprogrammightbeimpacting防火墙
+url: 'https://yayi.site/archives/youranti-virusprogrammightbeimpacting防火墙'
 categories: andriod
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
-tags: anti-virus,window Defender,排除
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
+tags: 'anti-virus,window Defender,排除'
+abbrlink: a88e955
+date: 2020-04-17 15:00:53
+updated: 2021-05-14 22:03:52
 ---
 
 

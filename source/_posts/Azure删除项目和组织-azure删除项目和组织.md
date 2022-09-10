@@ -1,11 +1,12 @@
 ---
 title: Azure删除项目和组织
-date: 2019-10-03 12:42:01.0
-updated: 2021-05-14 22:01:09.724
-url: https://yayi.site/archives/azure删除项目和组织
+url: 'https://yayi.site/archives/azure删除项目和组织'
 categories: 算法与设计
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
 tags: Azure
+abbrlink: c6de1dfd
+date: 2019-10-03 12:42:01
+updated: 2021-05-14 22:01:09
 ---
 
 

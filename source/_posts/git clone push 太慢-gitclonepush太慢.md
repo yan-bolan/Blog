@@ -1,11 +1,13 @@
 ---
 title: git clone push 太慢
-date: 2020-06-19 20:49:29.0
-updated: 2021-05-14 22:01:24.496
-url: https://yayi.site/archives/gitclonepush太慢
+url: 'https://yayi.site/archives/gitclonepush太慢'
 categories: 网络
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
-tags: proxy,git
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
+tags: 'proxy,git'
+abbrlink: 6df7b723
+date: 2020-06-19 20:49:29
+updated: 2021-05-14 22:01:24
 ---
 
 

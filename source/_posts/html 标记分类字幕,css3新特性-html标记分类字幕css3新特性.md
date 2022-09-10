@@ -1,11 +1,12 @@
 ---
-title: html 标记分类字幕,css3新特性
-date: 2021-05-11 10:30:51.0
-updated: 2021-05-14 22:01:30.266
-url: https://yayi.site/archives/html标记分类字幕css3新特性
+title: 'html 标记分类字幕,css3新特性'
+url: 'https://yayi.site/archives/html标记分类字幕css3新特性'
 categories: 前端
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png
-tags: css3新特性,html标记分类,总结
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
+tags: 'css3新特性,html标记分类,总结'
+abbrlink: 38bd0430
+date: 2021-05-11 10:30:51
+updated: 2021-05-14 22:01:30
 ---
 
 

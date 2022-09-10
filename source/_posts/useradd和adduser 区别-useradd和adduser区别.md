@@ -1,11 +1,12 @@
 ---
 title: useradd和adduser 区别
-date: 2020-06-07 12:40:25.0
-updated: 2021-05-14 22:04:07.482
-url: https://yayi.site/archives/useradd和adduser区别
-categories: 
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png
-tags: 
+url: 'https://yayi.site/archives/useradd和adduser区别'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+abbrlink: 7a9d6084
+date: 2020-06-07 12:40:25
+updated: 2021-05-14 22:04:07
+categories:
+tags:
 ---
 
 

@@ -1,11 +1,14 @@
 ---
 title: vscode latex workshop recipe terminated with fatal error spawn latexmk enoent
-date: 2021-01-03 18:15:50.0
-updated: 2021-05-14 22:04:12.876
-url: https://yayi.site/archives/vscodelatexworkshoprecipeterminatedwithfatalerrorspawnlatexmkenoent
+url: >-
+  https://yayi.site/archives/vscodelatexworkshoprecipeterminatedwithfatalerrorspawnlatexmkenoent
 categories: win10
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
-tags: TexLive,latex,latexmk,vscode 环境变量
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
+tags: 'TexLive,latex,latexmk,vscode 环境变量'
+abbrlink: f87749d0
+date: 2021-01-03 18:15:50
+updated: 2021-05-14 22:04:12
 ---
 
 

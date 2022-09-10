@@ -1,11 +1,13 @@
 ---
 title: 文集/语录
-date: 2021-05-13 23:20:08.032
-updated: 2021-05-14 19:17:26.038
-url: https://yayi.site/archives/wen-ji--yu-lu
+url: 'https://yayi.site/archives/wen-ji--yu-lu'
 categories: 文集
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
 tags: 语录
+abbrlink: 3ae0ab83
+date: 2021-05-13 23:20:08
+updated: 2021-05-14 19:17:26
 ---
 
 # 语录

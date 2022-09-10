@@ -1,11 +1,12 @@
 ---
 title: matlab 指定python 路径 64bit
-date: 2020-09-03 11:14:52.0
-updated: 2021-05-14 22:02:45.738
-url: https://yayi.site/archives/matlab指定python路径64bit
-categories: 
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png
-tags: 
+url: 'https://yayi.site/archives/matlab指定python路径64bit'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+abbrlink: 9789d32
+date: 2020-09-03 11:14:52
+updated: 2021-05-14 22:02:45
+categories:
+tags:
 ---
 
 

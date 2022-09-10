@@ -1,11 +1,13 @@
 ---
 title: 要使HTML表单生成文件上传变量必须满足哪3个条件
-date: 2020-06-02 17:33:35.0
-updated: 2021-05-14 22:05:03.078
-url: https://yayi.site/archives/要使html表单生成文件上传变量必须满足哪3个条件
+url: 'https://yayi.site/archives/要使html表单生成文件上传变量必须满足哪3个条件'
 categories: php
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
-tags: php文件上传,http协议
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png
+tags: 'php文件上传,http协议'
+abbrlink: d7ab8dc5
+date: 2020-06-02 17:33:35
+updated: 2021-05-14 22:05:03
 ---
 
 

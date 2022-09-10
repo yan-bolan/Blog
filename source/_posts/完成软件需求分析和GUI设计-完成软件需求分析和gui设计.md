@@ -1,11 +1,12 @@
 ---
 title: 完成软件需求分析和GUI设计
-date: 2019-10-01 22:55:49.0
-updated: 2021-05-14 22:05:00.649
-url: https://yayi.site/archives/完成软件需求分析和gui设计
+url: 'https://yayi.site/archives/完成软件需求分析和gui设计'
 categories: 笔记
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
 tags: GUI
+abbrlink: c858520b
+date: 2019-10-01 22:55:49
+updated: 2021-05-14 22:05:00
 ---
 
 

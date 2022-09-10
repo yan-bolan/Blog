@@ -1,11 +1,13 @@
 ---
 title: Error running app Default Activity Not Found
-date: 2019-10-14 19:56:22.0
-updated: 2021-05-14 22:01:24.506
-url: https://yayi.site/archives/errorrunningappdefaultactivitynotfound
+url: 'https://yayi.site/archives/errorrunningappdefaultactivitynotfound'
 categories: andriod
-cover: https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
-tags: 
+cover: >-
+  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png
+abbrlink: efb77c65
+date: 2019-10-14 19:56:22
+updated: 2021-05-14 22:01:24
+tags:
 ---
 
 ﻿https://blog.csdn.net/DeMonliuhui/article/details/83046252

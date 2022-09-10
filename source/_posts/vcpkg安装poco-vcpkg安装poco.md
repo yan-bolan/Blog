@@ -1,11 +1,12 @@
 ---
 title: vcpkg安装poco
-date: 2019-10-31 10:42:43.0
-updated: 2021-05-14 22:04:09.859
-url: https://yayi.site/archives/vcpkg安装poco
-categories: 
-cover: https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png
-tags: 
+url: 'https://yayi.site/archives/vcpkg安装poco'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+abbrlink: 45634d36
+date: 2019-10-31 10:42:43
+updated: 2021-05-14 22:04:09
+categories:
+tags:
 ---
 
 
