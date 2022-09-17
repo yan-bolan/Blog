@@ -162,5 +162,3 @@ class FactorySample
 1. <mark>先add migration 或者删除旧的remove migration 等；不然不同的数据库生成的sql无法执行的问题；</mark>
    
    如pg 到oracle  ：删除旧的migratin文件；
-   
-   

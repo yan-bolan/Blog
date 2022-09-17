@@ -48,3 +48,11 @@ enum可以与switch 使用；
 ```csharp
 
 ```
+
+ctrl k ctrl x 代码片段选择
+
+
+
+
+
+shift esc 关闭窗口 
