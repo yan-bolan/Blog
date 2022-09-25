@@ -24,4 +24,14 @@ sysinternals套件:74个windows工具
 > 
 >  [VMMap](http://technet.microsoft.com/zh-cn/sysinternals/dd535533.aspx) VMMap 是进程虚拟和物理内存分析实用工具。
 
-线程调试；
+## 线程调试；
+
+# 内核调试
+
+[《Windows内核分析》专题-索引目录 - OneTrainee - 博客园 (cnblogs.com)](https://www.cnblogs.com/onetrainee/p/11675224.html)
+
+# windbg
+
+[如何在 C# 程序中注入恶意 DLL ？ (qq.com)](https://mp.weixin.qq.com/s/XO5Ec3M111_2xiOUy7f0-w)
+
+将线程注入到c#进程中； DbgBreakPoint（）函数：int 3 中断函数：将当前进程的所有线程进行中断；
