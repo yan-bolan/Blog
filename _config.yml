@@ -108,6 +108,7 @@ plugins:
 ## Themes: https://hexo.io/themes/
 theme: nexmoe
 
+
 robotstxt: #https://github.com/anthonyweidai/hexo-robotstxt-multisitemaps
   useragent: "*"
   disallow:
