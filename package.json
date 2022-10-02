@@ -12,6 +12,7 @@
     "version": "6.2.0"
   },
   "dependencies": {
+    "axios": "^0.27.2",
     "hexo": "^6.2.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-deployer-ftpsy": "^1.0.0",

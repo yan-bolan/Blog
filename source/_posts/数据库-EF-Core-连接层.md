@@ -162,3 +162,13 @@ class FactorySample
 1. <mark>先add migration 或者删除旧的remove migration 等；不然不同的数据库生成的sql无法执行的问题；</mark>
    
    如pg 到oracle  ：删除旧的migratin文件；
+
+
+
+# 了解底层转换原理
+
+由于数据库与语言有差异；在转换的时候可能并不是你要的结果；
+
+如在Linq时：null 如何判定？where等值对null的处理;？
+
+以及一些数据库有特别的类型；
