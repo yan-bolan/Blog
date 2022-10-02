@@ -15,3 +15,9 @@ date: 2022-10-02 15:43:41
 [kiko.io | Automatic Header Images in Hexo](https://kiko.io/post/Automatic-Header-Images-in-Hexo/)
 
 Hook钩子；
+
+
+
+更新所有包
+
+`yarn upgrade-interactive --latest`
