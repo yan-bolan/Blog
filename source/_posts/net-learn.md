@@ -1,7 +1,8 @@
 ---
 title: net learn
-date: 2022-10-01 20:03:35
 tags: 异步
+abbrlink: 5b047a08
+date: 2022-10-01 20:03:35
 ---
 
 # csproj

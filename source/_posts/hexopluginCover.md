@@ -1,8 +1,9 @@
 ---
 title: hexopluginCover
-cover: https://api.isoyu.com/bing_images.php
+cover: 'https://api.isoyu.com/bing_images.php'
+tags: hexo插件
+abbrlink: 1bf397a2
 date: 2022-10-02 15:43:41
-tags:hexo插件
 ---
 
 [Tag | Hexo](https://hexo.io/api/tag.html)

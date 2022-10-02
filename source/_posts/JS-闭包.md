@@ -1,5 +1,6 @@
 ---
 title: JS 闭包
+abbrlink: f10092bf
 date: 2022-09-21 20:01:09
 tags:
 ---

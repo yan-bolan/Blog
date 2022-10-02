@@ -1,7 +1,8 @@
 ---
 title: RPC远程调用
+tags: RPC Web Services SOAP WSDL WSD
+abbrlink: 56a27354
 date: 2022-09-26 21:36:16
-tags:RPC Web Services SOAP WSDL WSD 
 ---
 
 # 历史
@@ -46,13 +47,7 @@ REST主要是互联网用户多下使用：所以是目前最流行的；
 
 gRPC:更高的性能；
 
-
-
-
-
 ---
-
-
 
 # [WebService基本概念及原理](https://www.cnblogs.com/jing99/p/6221122.html)
 
@@ -62,8 +57,6 @@ gRPC:更高的性能；
 
 ![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220930194741.png)
 
-
-
 XML 规范可以参考[List of web service specifications - Wikipedia](https://en.wikipedia.org/wiki/List_of_web_service_specifications)全是英文；
 
 [Web Services Description Language (WSDL) Version 2.0 Part 1: Core Language (w3.org)](https://www.w3.org/TR/2007/REC-wsdl20-20070626/#component_model)
@@ -72,30 +65,27 @@ XML 规范可以参考[List of web service specifications - Wikipedia](https://e
 
 [ASP.NET WebService(二)_三種存取方式介紹_webmethod屬性大致介紹 (coolmandiary.blogspot.com)](https://coolmandiary.blogspot.com/2020/10/aspnet-webservice.html)
 
-
-
 ```csharp
+    [WebMethod]
+        [ScriptMethod(ResponseFormat = ResponseFormat.Json)]
+        public string MESJITAPPlyMaterial(string JITDataJson) {
+            Spec_MESJIT_L1 Spec_MESJIT_L1 = new Spec_MESJIT_L1();
+            Spec_MESJIT_Response Spec_MESJIT_Response = new Spec_MESJIT_Response();
 
-	[WebMethod]
-		[ScriptMethod(ResponseFormat = ResponseFormat.Json)]
-		public string MESJITAPPlyMaterial(string JITDataJson) {
-			Spec_MESJIT_L1 Spec_MESJIT_L1 = new Spec_MESJIT_L1();
-			Spec_MESJIT_Response Spec_MESJIT_Response = new Spec_MESJIT_Response();
+            #region 將收到的Json字串反序列化，轉成對象
 
-			#region 將收到的Json字串反序列化，轉成對象
+            JavaScriptSerializer js = new JavaScriptSerializer();   //實例化一個能夠序列化數據的類
+            Spec_MESJIT_L1 = js.Deserialize<Spec_MESJIT_L1>(JITDataJson);
 
-			JavaScriptSerializer js = new JavaScriptSerializer();   //實例化一個能夠序列化數據的類
-			Spec_MESJIT_L1 = js.Deserialize<Spec_MESJIT_L1>(JITDataJson);
+            #endregion
 
-			#endregion
+            Spec_MESJIT_Response.Result = "0";
+            Spec_MESJIT_Response.Msg = "";
 
-			Spec_MESJIT_Response.Result = "0";
-			Spec_MESJIT_Response.Msg = "";
+            //将对象序列化成JSON字符串
+            var jss = new JavaScriptSerializer();
 
-			//将对象序列化成JSON字符串
-			var jss = new JavaScriptSerializer();
-
-			return jss.Serialize(Spec_MESJIT_Response);
+            return jss.Serialize(Spec_MESJIT_Response);
         }
 ```
 

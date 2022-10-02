@@ -1,5 +1,6 @@
 ---
 title: CSS3 Learn
+abbrlink: f7bba3ff
 date: 2022-10-01 09:25:12
 tags:
 ---
