@@ -3,6 +3,7 @@ title: net learn
 tags: 异步
 abbrlink: 5b047a08
 date: 2022-10-01 20:03:35
+cover: https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/lycorisRecoil.jpg
 ---
 
 # csproj
