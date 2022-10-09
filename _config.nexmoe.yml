@@ -130,8 +130,7 @@ slotComment: '<script async src="https://comments.app/js/widget.js?3" data-comme
 
 slotCopyright: '<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
 
-slotArticleEnd: '<p><img data-fancybox="gallery" src="http://www.yuris.site/Common/img/%e4%b9%83%e6%9c%a8%c2%b7%e5%9c%92%e5%ad%90.png" 
-alt="53a8c7cf3ad77a0f0a456ce2c6afe88a.png" data-caption="53a8c7cf3ad77a0f0a456ce2c6afe88a.png" loading="lazy"></p>'
+slotArticleEnd: '<p><img data-fancybox="gallery" src="https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/lycorisRecoil2.jpg" data-caption="53a8c7cf3ad77a0f0a456ce2c6afe88a.png" loading="lazy"></p>'
 
 comment: DiscussBot
 DiscussBot:   #<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="SQveIb1b" data-limit="5"></script>
