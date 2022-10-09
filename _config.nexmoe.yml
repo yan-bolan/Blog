@@ -1,6 +1,6 @@
 avatar: http://yuris.site/avtar.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-    path: http://yuris.site/Common/img/%e7%8a%ac%e5%90%a0%c2%b7%e5%9f%bc%20%e9%a2%a8.png
+    path: https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/lycorisRecoil.jpg #http://yuris.site/Common/img/%e7%8a%ac%e5%90%a0%c2%b7%e5%9f%bc%20%e9%a2%a8.png
     width: 1280
     height: 726
 favicon:
