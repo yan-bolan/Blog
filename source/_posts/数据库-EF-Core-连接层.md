@@ -163,8 +163,6 @@ class FactorySample
    
    如pg 到oracle  ：删除旧的migratin文件；
 
-
-
 # 了解底层转换原理
 
 由于数据库与语言有差异；在转换的时候可能并不是你要的结果；
