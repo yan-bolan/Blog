@@ -93,18 +93,24 @@ Using the **Feature Delegation** from the root of IIS:
 
 [An Overview of Feature Delegation in IIS 7.0 | Microsoft Learn](https://learn.microsoft.com/en-us/iis/manage/managing-your-configuration-settings/an-overview-of-feature-delegation-in-iis)
 
-
-
 > 服务器管理员感兴趣的是，默认情况下，在 IIS 7.0 及更高版本上，开发人员/站点所有者可以将默认文档、目录浏览、HTTP 响应标头、HTTP 重定向、处理程序和模块的配置放入其web.config文件中。 这允许开发人员将“start.aspx”配置为其默认文档，并更改网站 URL 结构，以便所有请求 `www.contoso.com/techcareers/` 都重定向到 `www.contoso.com/careers/technical/` - 无需服务器管理员帮助。
-> 
-> 
 > 
 > 可以通过解锁更多配置来实现此目的。 例如，解锁自定义错误配置，以便开发人员可以指定重定向 `www.contoso.com/NotFound.aspx`到所有 404 个，或解锁失败的请求跟踪配置，以便开发人员可以跟踪对页面 *.axd 返回状态 500 的 500 请求。
 > 
-> 
-> 
 > 对于开发人员和站点所有者，IIS 配置无需修改元数据库。 配置更改可以直接在web.config和 ASP.NET 配置中进行。 这解决了需要为应用程序编写 MSI 以进行自定义 IIS 配置更改等问题：有一组手动说明来设置应用程序;或者，尝试记住一年后生产服务器上的应用程序的配置详细信息。
 
-
-
 到目前为止，本文讨论了如何控制开发人员 (或内容提供程序或网站所有者) 可以在web.config文件中配置 *的内容* ，但未涵盖在解锁后 *如何* 设置配置。
+
+--
+
+400 invalid hostname
+
+iis 在.vs文件下配置了只有指定域名或ip能访问
+
+
+
+---
+
+
+
+静态内容有哪些在application.config文件里有列出；

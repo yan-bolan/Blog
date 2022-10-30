@@ -170,3 +170,64 @@ class FactorySample
 如在Linq时：null 如何判定？where等值对null的处理;？
 
 以及一些数据库有特别的类型；
+
+
+
+
+
+# 操作
+
+[Entity Framework 多種刪除 | 我，傑夫。開發人 (wordpress.com)](https://jeffprogrammer.wordpress.com/2016/12/06/entity-framework-%E5%A4%9A%E7%A8%AE%E5%88%AA%E9%99%A4/)
+
+
+
+第一個是常見的寫法：
+
+### Remove()
+
+| 1<br><br>2<br><br>3 | `TestModel` `object` `= context.TestModel.Single(x => x.Name ==` `"John"``);`<br><br>`context.TestModel.Remove(``object``);`<br><br>`context.SaveChanges();` |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+.  
+第二個方式是改變 EntityState 狀態：
+
+### EntityState.Deleted
+
+| 1<br><br>2<br><br>3 | `TestModel` `object` `= context.TestModel.Single(x => x.Name ==` `"John"``);`<br><br>`context.Entry(``object``).State = EntityState.Deleted;`<br><br>`context.SaveChanges();` |
+| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+.  
+或者使用套件 **[Entity Framework Extended Library](https://github.com/loresoft/EntityFramework.Extended)**。就可以使用以下的寫法來刪除資料。<mark> 要安装库啊</mark>
+
+### Delete()
+
+| 1   | `context.TestModel.Delete(x => x.Id == ID);` |
+| --- | -------------------------------------------- |
+
+或是
+
+| 1   | `context.TestModel.Where(x => x.Id == ID).Delete();` |
+| --- | ---------------------------------------------------- |
+
+
+
+[c# - Delete a single record from Entity Framework? - Stack Overflow](https://stackoverflow.com/questions/17723276/delete-a-single-record-from-entity-framework)
+
+
+
+
+
+```csharp
+RemoveRange 移除多个1- For multiple records
+```
+
+
+
+```javascript
+db.People.RemoveRange(db.People.Where(x => x.State == "CA"));
+db.SaveChanges();
+```
+
+```csharp
+context.ExecuteStoreCommand("DELETE FROM YOURTABLE WHERE CustomerID = {0}", customerId);
+```
