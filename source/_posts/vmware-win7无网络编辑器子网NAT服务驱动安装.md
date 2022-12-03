@@ -1,8 +1,9 @@
 ---
 title: vmware_win7无网络编辑器子网NAT服务驱动安装
-cover: https://tva1.sinaimg.cn/large/0072Vf1pgy1foxlnmr18gj31hc0u01ar.jpg
-date: 2022-12-03 21:23:12
+cover: 'https://tva1.sinaimg.cn/large/0072Vf1pgy1foxlnmr18gj31hc0u01ar.jpg'
 tags: vmware
+abbrlink: de25e9bb
+date: 2022-12-03 21:23:12
 ---
 
 1. 在实体机上

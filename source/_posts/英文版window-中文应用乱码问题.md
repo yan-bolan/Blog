@@ -1,6 +1,7 @@
 ---
 title: 英文版window 中文应用乱码问题
-cover: https://tva3.sinaimg.cn/large/0072Vf1pgy1foxk6yzby3j31hc0u0nds.jpg
+cover: 'https://tva3.sinaimg.cn/large/0072Vf1pgy1foxk6yzby3j31hc0u0nds.jpg'
+abbrlink: f270544e
 date: 2022-10-30 15:46:56
 tags:
 ---
@@ -20,7 +21,5 @@ this setting;
 其实微软设置为英文也是合理的；因为大多数软件都是英文；
 
 如下面：乱码；
-
-
 
 ![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221030155534.png)

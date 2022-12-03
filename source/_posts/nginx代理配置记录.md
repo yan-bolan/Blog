@@ -1,3 +1,6 @@
+---
+abbrlink: '0'
+---
 [nginx配置反向代理规则集合 - 不懂123 - 博客园](https://www.cnblogs.com/yxh168/p/13448631.html)
 
 如上：    主要分两部分：模式部分 加内容；

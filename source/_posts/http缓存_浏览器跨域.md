@@ -1,6 +1,7 @@
 ---
 title: http缓存
-cover: https://tva2.sinaimg.cn/large/0072Vf1pgy1foxlhxz1asj31kw0w0e0n.jpg
+cover: 'https://tva2.sinaimg.cn/large/0072Vf1pgy1foxlhxz1asj31kw0w0e0n.jpg'
+abbrlink: 7350ba96
 date: 2022-11-18 21:39:07
 tags:
 ---

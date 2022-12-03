@@ -1,8 +1,9 @@
 ---
 title: netcsharp语法学习
-cover: https://tva3.sinaimg.cn/large/0072Vf1pgy1foxk6u83cvj31hc0u0wxh.jpg
-date: 2022-11-12 17:59:20
+cover: 'https://tva3.sinaimg.cn/large/0072Vf1pgy1foxk6u83cvj31hc0u0wxh.jpg'
 tags: csahrp
+abbrlink: 69d0b943
+date: 2022-11-12 17:59:20
 ---
 
 > 没想到大学写的定理，明了的概括了例子; 评论也好，知识量也足, 没想有大学时随便写的东西，比工作后还要好，工作后真的只是为了工作，只是简单记录;

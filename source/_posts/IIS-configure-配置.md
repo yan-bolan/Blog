@@ -1,8 +1,9 @@
 ---
 title: IIS configure 配置
-cover: https://tva1.sinaimg.cn/large/0072Vf1pgy1foxk3pfp31j31hc0u0kas.jpg
+cover: 'https://tva1.sinaimg.cn/large/0072Vf1pgy1foxk3pfp31j31hc0u0kas.jpg'
+tags: iis
+abbrlink: 20ff60c4
 date: 2022-10-15 21:24:06
-tags: iis 
 ---
 
  HTTPError50019### HTTP Error 500.19 - Internal Server Error

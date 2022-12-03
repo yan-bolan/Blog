@@ -1,6 +1,7 @@
 ---
 title: js 好用常用库
-cover: https://tva2.sinaimg.cn/large/87c01ec7gy1frqdpollutj21hc0u07wh.jpg
+cover: 'https://tva2.sinaimg.cn/large/87c01ec7gy1frqdpollutj21hc0u07wh.jpg'
+abbrlink: 518851b8
 date: 2022-11-20 22:32:39
 tags:
 ---

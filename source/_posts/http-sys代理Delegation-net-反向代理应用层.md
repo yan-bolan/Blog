@@ -1,8 +1,9 @@
 ---
 title: http.sys代理Delegation net 反向代理应用层
-cover: https://api.isoyu.com/bing_images.php
-date: 2022-11-06 17:36:10
+cover: 'https://api.isoyu.com/bing_images.php'
 tags: 代理 yarp
+abbrlink: 820ce945
+date: 2022-11-06 17:36:10
 ---
 
 # winserver

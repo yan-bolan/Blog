@@ -1,6 +1,7 @@
 ---
 title: oracle with net
-cover: https://tva1.sinaimg.cn/large/0072Vf1pgy1foxk78xqdoj31kw0w0dzz.jpg
+cover: 'https://tva1.sinaimg.cn/large/0072Vf1pgy1foxk78xqdoj31kw0w0dzz.jpg'
+abbrlink: 85ef870d
 date: 2022-10-28 20:16:42
 tags:
 ---
