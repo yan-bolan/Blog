@@ -1,0 +1,21 @@
+---
+title: word 通配符小结
+url: 'https://yayi.site/archives/word通配符小结'
+cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+abbrlink: 63f5bbdd
+date: 2021-05-03 16:38:16
+updated: 2021-05-14 22:04:25
+categories:
+tags:
+---
+
+
+﻿ 网上一览表很多，就不重复了。如果，你不要百度，在查找替换栏下方特殊格式中有示例。
+1. 概念。 一览表表分为 查找栏 能用的， 替换栏能用的， 勾没勾通配符能用的。
+2. 真实情况会更复杂。最好使用定界限的方式来减少误差。
+3. 很多情况，==保留查找栏中的内容==。最好使用() 。然后替换栏中\n n是第几个括号。正则表达式还是有点相通的。
+4. 中文，用中文定界限。==非==表达的运用（用！号）  。与 或关系 。
+
+![在这里插入图片描述](http://img.yayi.site/csdn/20210503164052808.png-watermaskStyle)
+![在这里插入图片描述](http://img.yayi.site/csdn/20210503164114160.png-watermaskStyle)
+\1是引用上面查找栏中查找 到的第一括号内容
