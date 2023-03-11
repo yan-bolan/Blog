@@ -1,6 +1,10 @@
 ---
-abbrlink: '0'
+title: nginx代理配置记录
+tags: nginx
+date: 2022-04-12 00:17:55
+
 ---
+
 [nginx配置反向代理规则集合 - 不懂123 - 博客园](https://www.cnblogs.com/yxh168/p/13448631.html)
 
 如上：    主要分两部分：模式部分 加内容；
