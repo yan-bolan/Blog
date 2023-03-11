@@ -119,6 +119,21 @@ robotstxt: #https://github.com/anthonyweidai/hexo-robotstxt-multisitemaps
     - /sitemap.xml
     - /baidu_sitemap.xml
 
+hexo_seo_autopush:
+  cron: 0 4 * * *
+  baidu:
+    enable: true
+    date: created
+    count: 10
+  bing:
+    enable: true
+    date: created
+    count: 10
+  google:
+    enable: true
+    date: created
+    count: 10
+    
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
