@@ -27,17 +27,17 @@ jobs:
       - name: 4. 生成静态文件
         run: |
           npm run build --if-present
-      - name: 5. 切换工作目录
-        run: |
-          cd public
-              
+      
 
-      - name: 6. google 提交
+      - name: 5. google 提交
+        working-directory: ./public
         run: npx hexoautopush ${{secrets.google_client_email}} ${{secrets.google_private_key}}
       
-      - name: 7. bing 提交
+      - name: 6. bing 提交
+        working-directory: ./public
         run: curl -X POST "https://ssl.bing.com/webmaster/api.svc/json/SubmitUrlBatch?apikey=${{secrets.bing_apikey}}" -H "Content-Type:application/json" -H "charset:utf-8" -d @bing.json
 
-      - name: 8. baidu 提交
+      - name: 7. baidu 提交
+        working-directory: ./public
         run: curl -H "Content-Type:text/plain" --data-binary @baidu.txt "http://data.zz.baidu.com/urls?site=http://yuris.site/Blog&token=${{secrets.baidu_token}}"
   
