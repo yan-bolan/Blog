@@ -1,8 +1,8 @@
 ---
 title: nginx代理配置记录
 tags: nginx
+abbrlink: d772a0a6
 date: 2022-04-12 00:17:55
-
 ---
 
 [nginx配置反向代理规则集合 - 不懂123 - 博客园](https://www.cnblogs.com/yxh168/p/13448631.html)
