@@ -1,6 +1,12 @@
 ---
-abbrlink: '0'
+title: lifecycle
+tags: net
+
+date: 2023-03-18 22:14:58
 ---
+
+---
+
 ### Lifecycle
 
 Http.sys => HttpRuntime => HttpApplicationFactory => HttpApplication => Http Handler  
@@ -12,11 +18,7 @@ Http Context
 
 Harmony 可以在執行階段對 .NET 方式進行修補(Patch)、置換或加料(Decorate)， 
 
-
-
 在 [System.Reflection.Emit 命名空間](https://learn.microsoft.com/en-us/dotnet/api/system.reflection.emit?WT.mc_id=DOP-MVP-37580)有一套 API 可動態生成 CIL 程式碼，
-
-
 
 先把時間拉回 ASP.NET 2.0 時代，最直覺做法是建個 OracleConnection、OracleCommand，加上 OracleParameter 傳入日期參數 (提醒：勿直接用參數組 SQL 字串搞出 SQL Injection 漏洞，
 
@@ -24,12 +26,8 @@ Harmony 可以在執行階段對 .NET 方式進行修補(Patch)、置換或加�
 
 了解一下底层;
 
-
-
 [.Net Ecosystem (微軟開發生態系) | The Skeptical Software Engineer (sdwh.dev)](https://sdwh.dev/posts/2022/01/Dot-Net-Ecosystem/)
 
 `Dapper` 是 .NET/C# 平台非常优秀的 `微型 ORM` 框架，主要是为 `ADO.NET` 操作对象提供拓展能力，推崇原生 `sql` 操作法。
-
-
 
 standard operating procedure
