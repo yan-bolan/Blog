@@ -65,14 +65,6 @@ nuget:一个包管理库；
 
 [编写高质量C#代码必备技巧（下） - 个人技术笔记 (aihailan.com)](https://aihailan.com/archives/2429#more-2429) 只有实际应用的时候才会体会；
 
-
-
-
-
-
-
-
-
 # 快速开发框架
 
 1. ASP.NET Boilerplate Project（ABP）框架： asp.net? 好像也可以 vue,angular等; 
@@ -81,15 +73,9 @@ nuget:一个包管理库；
 
 2. furion 这是中国的; 配合admin后台，也是差不多; 
 
-
-
 基本都是基于web方式; 可能客户端的UI实在太差;很难做到好看; 性能可能会好;
 
-
-
 [ABP中文文档 - 52ABP框架- 是一个.NET 快速开发平台，基于ABP+VUE或ABP+Angular的开发框架](https://www.52abp.com/Wiki/abp-cn/latest/#:~:text=ABP%E6%98%AF%E2%80%9CASP.NET%20Boilerplate,%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6%E5%92%8C%E9%A1%B9%E7%9B%AE%E6%A8%A1%E6%9D%BF%E3%80%82)
-
-
 
 # 工具
 

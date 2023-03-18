@@ -51,8 +51,14 @@ enum可以与switch 使用；
 
 ctrl k ctrl x 代码片段选择
 
-
-
-
-
 shift esc 关闭窗口 
+
+
+
+
+
+# 代码生成
+
+在Visual studio 2022里可以edit > paste 将json 转换为class
+
+![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16791204682901679120467450.png)
