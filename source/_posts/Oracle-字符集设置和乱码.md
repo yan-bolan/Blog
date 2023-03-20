@@ -1,6 +1,6 @@
 ---
 title: Oracle_字符集设置和乱码
-cover: 'https://api.isoyu.com/bing_images.php'
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
 tags: oraclecharset
 abbrlink: e209ee18
 date: 2023-03-10 20:19:58

@@ -1,5 +1,5 @@
 ---
-cover: 'https://api.isoyu.com/bing_images.php'
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
 title: Excel VlOOKUP不起作用解决办法
 tags:
   - Excel

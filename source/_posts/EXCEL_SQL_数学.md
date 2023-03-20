@@ -1,5 +1,5 @@
 ---
-cover: 'https://api.isoyu.com/bing_images.php'
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
 title: EXCEL SQL 数学
 tags:
   - excel

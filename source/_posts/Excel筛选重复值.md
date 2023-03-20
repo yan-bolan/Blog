@@ -1,6 +1,6 @@
 ---
 title: Excel实现类似SQL功能
-cover: 'https://api.isoyu.com/bing_images.php'
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
 tags: Excel
 abbrlink: d6ade37d
 date: 2023-02-09 22:14:36

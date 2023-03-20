@@ -1,6 +1,6 @@
 ---
 title: 数据库ACID
-cover: 'https://api.isoyu.com/bing_images.php'
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
 tags: ACID
 abbrlink: c5cf1b6e
 date: 2023-02-04 14:58:57

@@ -1,6 +1,6 @@
 ---
 title: hexopluginCover
-cover: 'https://api.isoyu.com/bing_images.php'
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
 tags: hexo插件
 abbrlink: 1bf397a2
 date: 2022-10-02 15:43:41
