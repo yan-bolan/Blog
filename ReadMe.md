@@ -6,8 +6,9 @@
 
 3. [PowerShell - Running scripts is disabled on this system – TecAdmin](https://tecadmin.net/powershell-running-scripts-is-disabled-system/)
 
-publish to https://www.freehosting.com/
-
+~~publish to https://www.freehosting.com/~~
+publish https://vercel.com/
+try https://pages.cloudflare.com/
 hexo deploy
 
 ### Writing
