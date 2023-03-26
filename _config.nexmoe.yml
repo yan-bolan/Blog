@@ -1,4 +1,4 @@
-avatar: http://yuris.site/avtar.png # 网站 Logo
+avatar: https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1679803678267avtar2.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
     path: https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/lycorisRecoil.jpg #http://yuris.site/Common/img/%e7%8a%ac%e5%90%a0%c2%b7%e5%9f%bc%20%e9%a2%a8.png
     width: 1280
@@ -107,11 +107,11 @@ widgets:
       options: 
         widgetLink: #链接组件
             - title: 犬吠·埼樹
-              img: http://yuris.site/Common/img/%e7%8a%ac%e5%90%a0%c2%b7%e5%9f%bc%20%e6%a8%b9.png
-              link : http://yuris.site/Common/img/%e7%8a%ac%e5%90%a0%c2%b7%e5%9f%bc%20%e6%a8%b9.png
+              img: https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1679803745268%E7%8A%AC%E5%90%A0%C2%B7%E5%9F%BC%20%E6%A8%B9.png
+              link : https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1679803745268%E7%8A%AC%E5%90%A0%C2%B7%E5%9F%BC%20%E6%A8%B9.png
             - title: 東郷·美森
-              img: http://yuris.site/Common/img/%e6%9d%b1%e9%83%b7%c2%b7%e7%be%8e%e6%a3%ae.png
-              link : http://yuris.site/Common/img/%e6%9d%b1%e9%83%b7%c2%b7%e7%be%8e%e6%a3%ae.png
+              img: https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1679803771269%E6%9D%B1%E9%83%B7%C2%B7%E7%BE%8E%E6%A3%AE.png
+              link : https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1679803771269%E6%9D%B1%E9%83%B7%C2%B7%E7%BE%8E%E6%A3%AE.png
 
 copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
 
