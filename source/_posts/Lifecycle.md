@@ -1,7 +1,7 @@
 ---
 title: lifecycle
 tags: net
-
+abbrlink: 55011c36
 date: 2023-03-18 22:14:58
 ---
 
