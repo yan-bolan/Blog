@@ -95,8 +95,6 @@ RDLC: 客户端
 
 - A data source instance has not been supplied for the data source 'DataSet1'.
 
-
-
 # 数据源
 
 设置数据源ID:ObjectDataSource
@@ -112,7 +110,6 @@ SelectMethod: xsd文件中查询方法：可以自定义查询方法
             </LocalReport>
         </rsweb:ReportViewer>
         <asphttps://c-sharpcorner.com/UploadFile/a72401/rdlc-report-generation-using-dataset/:ObjectDataSource runat="server" SelectMethod="GetData" TypeName="DataSetTableAdapters.BPM_PROC_PARAMTableAdapter" ID="ObjectDataSource1"></asp:ObjectDataSource>
-    
 ```
 
 ![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16809166895251680916688668.png)
@@ -124,5 +121,11 @@ SelectMethod: xsd文件中查询方法：可以自定义查询方法
 ![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16809193245821680919324558.png)
 
 # ![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16809201955261680920194984.png)
+
+2015没有问题 选择数据源 ;
+
+还是用vs2010吧;浪费时间; 都不更新了;或者用收费的;
+
+# 
 
 # 样式：
