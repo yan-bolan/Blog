@@ -53,7 +53,7 @@ msbuild -v:diag xx.cspoj
                   CopyLocal=false
                   FrameworkFile=true
                   FusionName=System.Net.Http, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
-                  HintPath=..\packages\com.x.x.3.1.2.3\lib\com.innolux.extens.dll
+                  HintPath=..\packages\com.x.x.3.1.2.3\lib\com.x.x.dll
                   ImageRuntime=v4.0.30319
                   OriginalItemSpec=com.x.x, Version=3.1.2.3, Culture=neutral, processorArchitecture=MSIL
                   Private=True
