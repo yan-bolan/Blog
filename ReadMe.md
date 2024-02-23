@@ -40,3 +40,21 @@ source/images/image.jpg
 _config.yml
 
 ### CDN引用（推荐）
+
+
+
+---
+
+## 连接点链接
+
+[连接点（NTFS junction point）](https://link.juejin.cn?target=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Fwindows%2Fwin32%2Ffileio%2Fhard-links-and-junctions%23junctions "https://docs.microsoft.com/zh-cn/windows/win32/fileio/hard-links-and-junctions#junctions")，也称为软链接，类似于符号链接，但只支持目录，可以链接位于同一台计算机上不同本地卷上的目录。结点的操作与硬链接相同。
+
+在根目录创建连接点链接：
+
+bash
+
+复制代码
+
+`mklink /j \MyFolder \Users\User1\Documents`
+
+ 
