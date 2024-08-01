@@ -135,4 +135,8 @@ SP IP Function Source
 
 
 
-.dso 显行变量值
+显示变量值
+
+```bash
+
+```
