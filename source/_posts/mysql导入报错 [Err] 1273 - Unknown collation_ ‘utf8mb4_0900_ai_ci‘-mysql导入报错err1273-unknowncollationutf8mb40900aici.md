@@ -2,7 +2,7 @@
 title: 'mysql导入报错 [Err] 1273 - Unknown collation ‘utf8mb4_0900_ai_ci‘'
 url: 'https://yayi.site/archives/mysql导入报错err1273-unknowncollationutf8mb40900aici'
 categories: 数据库
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
 abbrlink: f2eff8f
 date: 2019-11-16 07:57:57
 updated: 2021-05-14 22:02:51

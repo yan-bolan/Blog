@@ -2,7 +2,7 @@
 title: nigx代理解决跨域问题，vuecli axios 直接跨域，开发环境下调试跨域
 url: 'https://yayi.site/archives/nigx代理解决跨域问题vuecliaxios直接跨域开发环境下调试跨域'
 categories: 网络
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
 tags: nginx
 abbrlink: 2f277b9e
 date: 2019-12-27 18:16:48

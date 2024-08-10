@@ -2,7 +2,7 @@
 title: mitmproxy USB usb_device_handl问题
 url: 'https://yayi.site/archives/mitmproxyusbusbdevicehandl问题'
 categories: python
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
 tags: 'python,多线程,mitmproxy,函数线程'
 abbrlink: 8a25f384
 date: 2021-03-25 13:47:12

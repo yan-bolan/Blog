@@ -2,7 +2,7 @@
 title: 赫/哈/霍 夫曼(Huffman)编码 游程编码
 url: 'https://yayi.site/archives/赫哈霍夫曼huffman编码游程编码'
 categories: 算法与设计
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
 tags: 'Huffman,游程编码'
 abbrlink: db061071
 date: 2020-09-23 17:47:45

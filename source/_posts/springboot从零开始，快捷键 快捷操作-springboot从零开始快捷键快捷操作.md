@@ -1,7 +1,7 @@
 ---
 title: springboot从零开始，快捷键 快捷操作
 url: 'https://yayi.site/archives/springboot从零开始快捷键快捷操作'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
 abbrlink: 964158b2
 date: 2020-02-08 18:16:27
 updated: 2021-05-14 22:03:55

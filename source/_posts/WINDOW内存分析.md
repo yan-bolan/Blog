@@ -29,7 +29,7 @@ date: 2023-09-15 22:58:26
 
 [Automatic Inspections | dotMemory Documentation (jetbrains.com)](https://www.jetbrains.com/help/dotmemory/2023.2/Inspections.html#finalized_objects)
 
-![16948245215031694824520688.png](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16948245215031694824520688.png)
+![16948245215031694824520688.png](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16948245215031694824520688.png)
 
 [WHAT IS：设备上下文（DC，Device Context）_kylemong的博客-CSDN博客](https://blog.csdn.net/KyleMong/article/details/6665363#:~:text=DC%EF%BC%88Device%20Context%EF%BC%89%EF%BC%8C%E4%B8%AD%E6%96%87,%E7%9B%B8%E4%BF%A1%E4%BD%A0%E7%BB%8F%E5%B8%B8%E7%94%A8%E5%88%B0%E3%80%82)
 

@@ -2,7 +2,7 @@
 title: php array_merge和加法数组的区别
 url: 'https://yayi.site/archives/phparraymerge和加法数组的区别'
 categories: php
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
 tags: 'php,数组加法,数组合并,区别'
 abbrlink: 64b3e3d
 date: 2020-06-01 17:38:55

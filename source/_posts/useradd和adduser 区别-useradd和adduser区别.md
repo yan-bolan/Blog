@@ -1,7 +1,7 @@
 ---
 title: useradd和adduser 区别
 url: 'https://yayi.site/archives/useradd和adduser区别'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
 abbrlink: 7a9d6084
 date: 2020-06-07 12:40:25
 updated: 2021-05-14 22:04:07

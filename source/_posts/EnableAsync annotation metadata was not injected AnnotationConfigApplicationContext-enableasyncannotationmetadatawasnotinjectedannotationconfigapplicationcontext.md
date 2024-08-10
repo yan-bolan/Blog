@@ -4,7 +4,7 @@ title: >-
   AnnotationConfigApplicationContext
 url: >-
   https://yayi.site/archives/enableasyncannotationmetadatawasnotinjectedannotationconfigapplicationcontext
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
 tags: spring context
 abbrlink: db6b87b4
 date: 2020-04-21 20:17:35

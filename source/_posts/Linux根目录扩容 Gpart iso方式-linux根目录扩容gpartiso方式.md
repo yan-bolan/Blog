@@ -2,7 +2,7 @@
 title: Linux根目录扩容 Gpart iso方式
 url: 'https://yayi.site/archives/linux根目录扩容gpartiso方式'
 categories: Linux
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
 tags: 'Gpart,vm,centos7'
 abbrlink: e2747a13
 date: 2020-06-11 18:31:18

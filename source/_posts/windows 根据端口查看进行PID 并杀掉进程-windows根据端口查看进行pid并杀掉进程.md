@@ -1,7 +1,7 @@
 ---
 title: windows 根据端口查看进行PID 并杀掉进程
 url: 'https://yayi.site/archives/windows根据端口查看进行pid并杀掉进程'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
 abbrlink: b51b12a5
 date: 2019-11-16 08:38:33
 updated: 2021-05-14 22:04:25

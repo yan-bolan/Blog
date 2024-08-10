@@ -2,7 +2,7 @@
 title: python3 thread not working  坑
 url: 'https://yayi.site/archives/python3threadnotworking坑'
 categories: python
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
 tags: 'python,多进程,tuple'
 abbrlink: 1e98952d
 date: 2021-03-30 19:58:31

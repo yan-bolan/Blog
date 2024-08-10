@@ -5,7 +5,7 @@ title: >-
 url: >-
   https://yayi.site/archives/vm虚拟机中的问题keyaretooopenitisrequiredthatyourprivatekeyfilesarenotaccessiblebyothers
 categories: 'win10,Linux'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
 tags: 'vm ssh权限问题,ssh,权限,虚拟机'
 abbrlink: a8afa23e
 date: 2020-05-20 21:59:29

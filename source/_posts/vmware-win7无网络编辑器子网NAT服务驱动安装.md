@@ -26,7 +26,7 @@ date: 2022-12-03 21:23:12
    
     增加一个NAT 网络，配置子网，和掩码，和DHCP; （不配，网络是会有问题的）;
    
-   ![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16700743301111670074329364.png)
+   ![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16700743301111670074329364.png)
 
 ---
 

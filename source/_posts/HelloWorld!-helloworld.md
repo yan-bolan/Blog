@@ -2,7 +2,7 @@
 title: HelloWorld!
 url: 'https://yayi.site/archives/helloworld'
 categories: 杂谈
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
 tags: 杂谈
 abbrlink: b7c54147
 date: 2021-05-13 23:20:35

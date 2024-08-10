@@ -5,15 +5,15 @@ date: 2022-09-21 20:01:09
 tags:
 ---
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220921200403.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220921200403.png)
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220921200420.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220921200420.png)
 
 [闭包 - JavaScript | MDN (mozilla.org)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Closures)
 
 使用匿名闭包：
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220921201239.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220921201239.png)
 
 let const
 
@@ -37,7 +37,7 @@ promise: 一个异步： 保证返回的意思；
 
 
 
-<img title="" src="https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220923222625.png" alt="" width="568">
+<img title="" src="https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220923222625.png" alt="" width="568">
 
 如果一个 Promise 处于已决议（resolved）状态，或者它被“锁定”以跟随另一个 Promise 的状态，那么它就是 **已兑现（fulfilled）**。
 
@@ -68,9 +68,9 @@ js apply call 等
 
 以空白处点击关闭实例
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220923225950.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220923225950.png)
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220923230445.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220923230445.png)
 
 
 

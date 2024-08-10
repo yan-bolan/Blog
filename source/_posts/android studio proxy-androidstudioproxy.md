@@ -1,7 +1,7 @@
 ---
 title: android studio proxy
 url: 'https://yayi.site/archives/androidstudioproxy'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
 abbrlink: 4f223e60
 date: 2020-08-02 09:32:25
 updated: 2021-05-14 22:01:00

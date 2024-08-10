@@ -2,7 +2,7 @@
 title: linux ftp服务器
 url: 'https://yayi.site/archives/linuxftp服务器'
 categories: Linux
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
 abbrlink: f09abf05
 date: 2019-10-22 19:26:51
 updated: 2021-05-14 22:02:39

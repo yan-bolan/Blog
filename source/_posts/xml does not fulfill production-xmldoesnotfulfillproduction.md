@@ -1,7 +1,7 @@
 ---
 title: xml does not fulfill production
 url: 'https://yayi.site/archives/xmldoesnotfulfillproduction'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
 abbrlink: 21d24d46
 date: 2020-06-26 20:29:47
 updated: 2021-05-14 22:03:48

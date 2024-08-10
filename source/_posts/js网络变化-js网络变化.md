@@ -2,7 +2,7 @@
 title: js网络变化
 url: 'https://yayi.site/archives/js网络变化'
 categories: javaweb
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
 abbrlink: df0fabd4
 date: 2019-10-16 13:23:47
 updated: 2021-05-14 22:02:36

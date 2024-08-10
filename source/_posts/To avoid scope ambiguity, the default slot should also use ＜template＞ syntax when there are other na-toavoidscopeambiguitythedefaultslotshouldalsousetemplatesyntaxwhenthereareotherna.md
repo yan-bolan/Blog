@@ -5,7 +5,7 @@ title: >-
 url: >-
   https://yayi.site/archives/toavoidscopeambiguitythedefaultslotshouldalsousetemplatesyntaxwhenthereareotherna
 categories: 前端
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
 tags: 'vue slot,slot,插槽：'
 abbrlink: 60c33bd2
 date: 2020-10-04 19:05:32

@@ -51,9 +51,9 @@ Try adding "unicode=true" to the connection string. When unicode flag is set, M
 
 [ADO,OLEDB,ODBC,DAO的区别 - 腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1392805#:~:text=OLE%20DB%20%E6%98%AF%E5%BB%BA%E7%AB%8B%E5%9C%A8,%E4%BB%A5%E5%8F%8A%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%9A%E5%8A%A1%E5%AF%B9%E8%B1%A1%E3%80%82)
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16784536598591678453659003.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16784536598591678453659003.png)
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16784538493111678453848595.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16784538493111678453848595.png)
 
 [架構 - ADO.NET | Microsoft Learn](https://learn.microsoft.com/zh-tw/dotnet/framework/data/adonet/ado-net-architecture?source=recommendations)
 

@@ -29,7 +29,7 @@ Here is the formula that can do that: =B2:C13 B5:D5
 
 Note that the result of this formula would display a [Value error](https://trumpexcel.com/fix-value-error-in-excel/), however, when you select the formula and press F9, it will show the result as {649,523}. This formula returns an array of the intersection values. You can use this within formulas, such as [SUM](https://trumpexcel.com/excel-sum-function/) (to get the total of the intersection values) or [MAX](https://trumpexcel.com/excel-max-function/) (to get the maximum of the intersection values).
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1678463218415Intersect-Operator-in-Excel-2-Ranges.gif)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/1678463218415Intersect-Operator-in-Excel-2-Ranges.gif)
 
 最新版的Excel 可以溢出多个返回值
 

@@ -53,7 +53,7 @@ Redistributable 为没有安装 Visual Studio 的电脑安装 runtime 环境，�
 
 After entering these settings, your "Extensions and Updates" dialog will show updates for the extension when there is a new release candidate that you can install to provide feedback for a day or two before the VS Gallery VSIX is updated.
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16808777315391680877730682.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16808777315391680877730682.png)
 
 [Get started with Report Viewer controls - SQL Server Reporting Services (SSRS) | Microsoft Learn](https://learn.microsoft.com/en-us/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver16)
 
@@ -112,15 +112,15 @@ SelectMethod: xsd文件中查询方法：可以自定义查询方法
         <asphttps://c-sharpcorner.com/UploadFile/a72401/rdlc-report-generation-using-dataset/:ObjectDataSource runat="server" SelectMethod="GetData" TypeName="DataSetTableAdapters.BPM_PROC_PARAMTableAdapter" ID="ObjectDataSource1"></asp:ObjectDataSource>
 ```
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16809166895251680916688668.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16809166895251680916688668.png)
 
 [RDLC Report Generation using Dataset](https://c-sharpcorner.com/UploadFile/a72401/rdlc-report-generation-using-dataset/)[RDLC Report Generation using Dataset](https://c-sharpcorner.com/UploadFile/a72401/rdlc-report-generation-using-dataset/)
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16809192765371680919275852.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16809192765371680919275852.png)
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16809193245821680919324558.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16809193245821680919324558.png)
 
-# ![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16809201955261680920194984.png)
+# ![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16809201955261680920194984.png)
 
 2015没有问题 选择数据源 ;
 

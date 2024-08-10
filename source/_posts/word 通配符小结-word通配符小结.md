@@ -1,7 +1,7 @@
 ---
 title: word 通配符小结
 url: 'https://yayi.site/archives/word通配符小结'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
 abbrlink: 63f5bbdd
 date: 2021-05-03 16:38:16
 updated: 2021-05-14 22:04:25

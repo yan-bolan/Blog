@@ -2,7 +2,7 @@
 title: hugo网易云音乐
 url: 'https://yayi.site/archives/hugo网易云音乐'
 categories: 网络
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
 tags: 'hugo,网易云音乐'
 abbrlink: 31fd4643
 date: 2020-06-18 10:55:55

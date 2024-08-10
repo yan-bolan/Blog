@@ -1,7 +1,7 @@
 ---
 title: ping不通问题
 url: 'https://yayi.site/archives/ping不通问题'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
 abbrlink: 3b6ee3d9
 date: 2020-03-19 12:08:26
 updated: 2021-05-14 22:02:13

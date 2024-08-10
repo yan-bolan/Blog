@@ -2,7 +2,7 @@
 title: hibernate idea
 url: 'https://yayi.site/archives/hibernateidea'
 categories: javaweb
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
 tags: hibernate
 abbrlink: d2ff0fb9
 date: 2019-10-24 17:08:37

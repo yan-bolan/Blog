@@ -2,7 +2,7 @@
 title: idea局部类运行
 url: 'https://yayi.site/archives/idea局部类运行'
 categories: IDE
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
 abbrlink: 7fd2371e
 date: 2019-10-16 23:11:02
 updated: 2021-05-14 22:00:50

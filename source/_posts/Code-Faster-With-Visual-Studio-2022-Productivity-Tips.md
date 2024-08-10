@@ -61,4 +61,4 @@ shift esc 关闭窗口
 
 在Visual studio 2022里可以edit > paste 将json 转换为class
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16791204682901679120467450.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16791204682901679120467450.png)

@@ -2,7 +2,7 @@
 title: putty 方便技巧ssh
 url: 'https://yayi.site/archives/putty方便技巧ssh'
 categories: Linux
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
 abbrlink: c0508d9a
 date: 2020-03-28 20:37:24
 updated: 2021-05-14 22:09:35

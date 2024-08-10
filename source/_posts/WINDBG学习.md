@@ -127,16 +127,39 @@ DbgId ThreadId Apartment Kind   CLR          GC Mode    GC Suspending?
 SP IP Function Source
 ```
 
-
-
-
-
 .cordll -ve -u -l
-
-
 
 显示变量值
 
 ```bash
-
+.dso
 ```
+
+```bash
+~*e !ck2
+```
+
+~*e代表切换每一个线程执行!ck2 这个命令
+
+这个MEX插件可以直接打印HttpWebRequest请求，时间都有
+
+```bash
+SP IP Function Source
+DbgId ThreadId Apartment Kind   CLR          GC Mode    GC Suspending?
+   31     3778 MTA       Worker v4.7.4101.00 Preemptive no
+
+HttpWebRequest
+--------------
+Address                         0x000000000a8fd064
+Uri                             http://xx.xx.xx/api/SSO/VerifyToken
+Verb                            POST
+ServicePoint                    http://xx.x.x
+ServicePoint ConnectionLimit    2147483647
+ServicePoint CurrentConnections 1
+Timeout                         00:01:40
+Duration?                       00:00:16.2500000
+```
+
+do2do2 查看对象
+
+!mex.aspxpagesext  查看所有的Asp.Net请求

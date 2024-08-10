@@ -2,7 +2,7 @@
 title: AS BottomNavigation does not have a NavController set
 url: 'https://yayi.site/archives/asbottomnavigationdoesnothaveanavcontrollerset'
 categories: andriod
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
 tags: 'Navigation,ANDROID'
 abbrlink: 8075a9b0
 date: 2020-09-13 22:06:36

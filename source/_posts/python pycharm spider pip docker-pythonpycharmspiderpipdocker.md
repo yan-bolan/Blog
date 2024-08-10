@@ -2,7 +2,7 @@
 title: python pycharm spider pip docker
 url: 'https://yayi.site/archives/pythonpycharmspiderpipdocker'
 categories: python
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
 tags: 'python,linux,docker'
 abbrlink: f8c36cd4
 date: 2020-03-05 19:45:07

@@ -2,7 +2,7 @@
 title: Unrecognized field   OkHttpClient Callback failure for call to
 url: >-
   https://yayi.site/archives/unrecognizedfieldokhttpclientcallbackfailureforcallto
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
 tags: 'android,Progouard,bean,okhttp'
 abbrlink: 4afced11
 date: 2020-09-13 13:31:42

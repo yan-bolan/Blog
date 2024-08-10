@@ -1,7 +1,7 @@
 ---
 title: Dockerfile中更换国内源 jenkins docker 慢
 url: 'https://yayi.site/archives/dockerfile中更换国内源jenkinsdocker慢'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
 tags: 'docker,dokcerfile,jenkinsDocker,慢'
 abbrlink: 8cece0a4
 date: 2020-10-08 13:14:33

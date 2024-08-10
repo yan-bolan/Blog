@@ -3,7 +3,7 @@ title: net learn
 tags: 异步
 abbrlink: 5b047a08
 date: 2022-10-01 20:03:35
-cover: https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/lycorisRecoil.jpg
+cover: https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/lycorisRecoil.jpg
 ---
 
 # csproj
@@ -42,9 +42,9 @@ async await
 
 再学底层（不然出了问题，搞不定）
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221001204435.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221001204435.png)
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221001204737.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221001204737.png)
 
 有些不一定要async: 有些没有async的可await它；
 
@@ -96,11 +96,11 @@ void main{
 
 ## 原理
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221001213834.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221001213834.png)
 
 可以切换csharp低版本：更多信息；不然看不到：两个main;
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221001214125.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221001214125.png)
 
 net core 实现了通过上面说的 生成两个main来实现main的async; 通过wait,result来等待；
 
@@ -108,9 +108,9 @@ net core 实现了通过上面说的 生成两个main来实现main的async; 通�
 
 new一个状态机：
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221001215639.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221001215639.png)
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221001215909.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221001215909.png)
 
 总结：async 的方法会被编译器编译成一个类，根据await调用进行切分 为多个状态，对async方法的调用会拆分为对movenext的调用； 实际上没有wait;
 
@@ -246,9 +246,9 @@ linq 有写法两种：一种是csharp 语法；
 
 一个线程的崩溃导致所属进程的所有线程崩溃；
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221002101521.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221002101521.png)
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221002101640.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221002101640.png)
 
 # 实现线程
 
@@ -262,7 +262,7 @@ linq 有写法两种：一种是csharp 语法；
 
 # 何时使用并发
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221007100033.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221007100033.png)
 
 1. 开多线程原因：有任务在阻塞中；如网络延迟；资源下载；这是如烧水煮饭一样；
 

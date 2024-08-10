@@ -1,7 +1,7 @@
 ---
 title: vue webstorm 问题总结
 url: 'https://yayi.site/archives/vuewebstorm问题总结'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
 abbrlink: 3c72f3ef
 date: 2020-01-02 22:48:41
 updated: 2021-05-14 22:04:15

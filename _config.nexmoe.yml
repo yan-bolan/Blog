@@ -1,6 +1,6 @@
-avatar: https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1679803678267avtar2.png # 网站 Logo
+avatar: https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/1679803678267avtar2.png # 网站 Logo
 background: # 既是博客的背景，又是文章默认头图
-    path: https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/lycorisRecoil.jpg #http://yuris.site/Common/img/%e7%8a%ac%e5%90%a0%c2%b7%e5%9f%bc%20%e9%a2%a8.png
+    path: https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/lycorisRecoil.jpg #http://yuris.site/Common/img/%e7%8a%ac%e5%90%a0%c2%b7%e5%9f%bc%20%e9%a2%a8.png
     width: 1280
     height: 726
 favicon:
@@ -62,7 +62,7 @@ widgets:
                 - rgb(231, 106, 141)
                 - rgba(231, 106, 141, .1)
             GitHub:
-                - https://github.com/tangxinGH/
+                - https://github.com/yan-bolan/
                 - icon-github
                 - rgb(25, 23, 23)
                 - rgba(25, 23, 23, .1)
@@ -107,11 +107,11 @@ widgets:
       options: 
         widgetLink: #链接组件
             - title: 犬吠·埼樹
-              img: https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1679803745268%E7%8A%AC%E5%90%A0%C2%B7%E5%9F%BC%20%E6%A8%B9.png
-              link : https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1679803745268%E7%8A%AC%E5%90%A0%C2%B7%E5%9F%BC%20%E6%A8%B9.png
+              img: https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/1679803745268%E7%8A%AC%E5%90%A0%C2%B7%E5%9F%BC%20%E6%A8%B9.png
+              link : https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/1679803745268%E7%8A%AC%E5%90%A0%C2%B7%E5%9F%BC%20%E6%A8%B9.png
             - title: 東郷·美森
-              img: https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1679803771269%E6%9D%B1%E9%83%B7%C2%B7%E7%BE%8E%E6%A3%AE.png
-              link : https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/1679803771269%E6%9D%B1%E9%83%B7%C2%B7%E7%BE%8E%E6%A3%AE.png
+              img: https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/1679803771269%E6%9D%B1%E9%83%B7%C2%B7%E7%BE%8E%E6%A3%AE.png
+              link : https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/1679803771269%E6%9D%B1%E9%83%B7%C2%B7%E7%BE%8E%E6%A3%AE.png
 
 copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：%url" # 自定义复制版权文案,使用 %url 代替当前页面URL, 修改为false禁用
 
@@ -130,7 +130,7 @@ slotComment: '<script async src="https://comments.app/js/widget.js?3" data-comme
 
 slotCopyright: '<strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可'
 
-slotArticleEnd: '<p><img data-fancybox="gallery" src="https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/lycorisRecoil2.jpg" data-caption="53a8c7cf3ad77a0f0a456ce2c6afe88a.png" loading="lazy"></p>'
+slotArticleEnd: '<p><img data-fancybox="gallery" src="https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/lycorisRecoil2.jpg" data-caption="53a8c7cf3ad77a0f0a456ce2c6afe88a.png" loading="lazy"></p>'
 
 comment: DiscussBot
 DiscussBot:   #<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="SQveIb1b" data-limit="5"></script>

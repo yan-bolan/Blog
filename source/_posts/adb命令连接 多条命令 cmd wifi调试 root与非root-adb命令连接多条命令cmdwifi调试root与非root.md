@@ -2,7 +2,7 @@
 title: adb命令连接 多条命令 cmd wifi调试 root与非root
 url: 'https://yayi.site/archives/adb命令连接多条命令cmdwifi调试root与非root'
 categories: 'win10,andriod'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
 tags: 'adb,cmd,多条'
 abbrlink: 440b3379
 date: 2020-06-28 12:00:31

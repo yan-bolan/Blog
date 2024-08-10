@@ -2,7 +2,7 @@
 title: webmin安装
 url: 'https://yayi.site/archives/webmin安装'
 categories: Linux
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
 tags: 'webmin,ipv6,install'
 abbrlink: c051e112
 date: 2019-12-06 09:52:28

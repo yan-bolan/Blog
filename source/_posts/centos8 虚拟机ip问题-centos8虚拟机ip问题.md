@@ -2,7 +2,7 @@
 title: centos8 虚拟机ip问题
 url: 'https://yayi.site/archives/centos8虚拟机ip问题'
 categories: Linux
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
 tags: 'vmware,vmtools灰色'
 abbrlink: ce8da65e
 date: 2020-05-17 22:15:08

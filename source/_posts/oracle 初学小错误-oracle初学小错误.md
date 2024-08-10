@@ -2,7 +2,7 @@
 title: oracle 初学小错误
 url: 'https://yayi.site/archives/oracle初学小错误'
 categories: 数据库
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
 tags: oracle
 abbrlink: 44d35709
 date: 2020-05-30 16:21:08

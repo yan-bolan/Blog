@@ -2,7 +2,7 @@
 title: compact用法 php
 url: 'https://yayi.site/archives/compact用法php'
 categories: php
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
 tags: php
 abbrlink: 1ff3fb1a
 date: 2020-06-02 14:58:34

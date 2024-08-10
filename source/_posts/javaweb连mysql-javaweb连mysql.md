@@ -2,7 +2,7 @@
 title: javaweb连mysql
 url: 'https://yayi.site/archives/javaweb连mysql'
 categories: javaweb
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
 abbrlink: 2af26e9c
 date: 2019-10-17 11:27:29
 updated: 2021-05-14 22:02:27

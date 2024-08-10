@@ -1,7 +1,7 @@
 ---
 title: 宝塔linux
 url: 'https://yayi.site/archives/宝塔linux'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
 abbrlink: 498636da
 date: 2019-11-15 19:36:20
 updated: 2021-05-14 22:05:05

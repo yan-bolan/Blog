@@ -33,11 +33,11 @@ xsd只是机器能识别；
 
 提出了WSDL:人能看懂 ：相当于文档；
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220926214739.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220926214739.png)
 
 # SOAP在不同的语言框架有不同的实现；
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220926215009.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220926215009.png)
 
 # 应用场景
 
@@ -53,9 +53,9 @@ gRPC:更高的性能；
 
 [WebService基本概念及原理 - kosamino - 博客园 (cnblogs.com)](https://www.cnblogs.com/jing99/p/6221122.html)
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16645379779671664537977085.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16645379779671664537977085.png)
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220930194741.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220930194741.png)
 
 XML 规范可以参考[List of web service specifications - Wikipedia](https://en.wikipedia.org/wiki/List_of_web_service_specifications)全是英文；
 
@@ -89,4 +89,4 @@ XML 规范可以参考[List of web service specifications - Wikipedia](https://e
         }
 ```
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20220930204200.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220930204200.png)

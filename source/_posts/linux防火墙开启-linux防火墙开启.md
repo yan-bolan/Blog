@@ -2,7 +2,7 @@
 title: linux防火墙开启
 url: 'https://yayi.site/archives/linux防火墙开启'
 categories: Linux
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
 abbrlink: '30188e85'
 date: 2019-11-15 21:32:11
 updated: 2021-05-14 22:02:43

@@ -9,7 +9,7 @@ abbrlink: 8d404d31
 date: 2023-03-19 12:07:26
 ---
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16791997798221679199778982.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16791997798221679199778982.png)
 
 当检测到某个HTTP请求时，先根据扩展名判断请求的是否是静态资源（比如.html、.img、.txt、.xml等），如果是，则直接将文件内容以HTTP回复的形式返回；如果是动态资源（比如.aspx、.asp、.php等），则通过扩展名从IIS的脚本映射（Script Map）中找到相应的ISAPI动态连接库（Dynamic Link Library，DLL）。
 
@@ -37,7 +37,7 @@ ISAPI（Internet Server Application Programming Interface）是一套本地的�
 
 
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16792041905691679204189719.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16792041905691679204189719.png)
 
 
 
@@ -45,7 +45,7 @@ ISAPI（Internet Server Application Programming Interface）是一套本地的�
 
 
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16792043985691679204398177.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16792043985691679204398177.png)
 
 
 
@@ -69,7 +69,7 @@ IIS 7.0将后两组功能实现到了WAS中，接收HTTP请求的任务依然落
 
 
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16792092635441679209263023.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16792092635441679209263023.png)
 
 
 
@@ -375,4 +375,4 @@ IsapiRuntime会首先创建一个IsapiWorkerRequest对象，用于封装当前�
 
 最终完成对HTTP请求的处理实现在HttpHandler中。对于不同的资源类型，具有不同的HttpHandler。比如.aspx页面对应的HttpHandler为System.Web.UI.Page，WCF的.svc文件对应的HttpHandler为System.ServiceModel.Activation.HttpHandler。上面整个处理流程如图1-11所示。
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16792100405471679210040019.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16792100405471679210040019.png)

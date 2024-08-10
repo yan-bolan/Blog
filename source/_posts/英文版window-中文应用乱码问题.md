@@ -12,7 +12,7 @@ tags:
 
 但有一些应用在非unicode的编码下  ，使用何种语言环境还是没有一起变；还是英文环境；；
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221030155147.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221030155147.png)
 
 language for non-unicode programs 
 
@@ -22,4 +22,4 @@ this setting;
 
 如下面：乱码；
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221030155534.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221030155534.png)

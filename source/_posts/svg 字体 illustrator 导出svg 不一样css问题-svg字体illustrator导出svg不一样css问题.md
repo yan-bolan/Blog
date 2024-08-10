@@ -2,7 +2,7 @@
 title: svg 字体 illustrator 导出svg 不一样css问题
 url: 'https://yayi.site/archives/svg字体illustrator导出svg不一样css问题'
 categories: 前端
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
 abbrlink: 7e4dfc13
 date: 2021-04-17 13:12:25
 updated: 2021-05-14 22:03:58

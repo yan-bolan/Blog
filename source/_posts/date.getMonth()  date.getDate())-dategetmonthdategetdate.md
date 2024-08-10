@@ -2,7 +2,7 @@
 title: date.getMonth()  date.getDate())
 url: 'https://yayi.site/archives/dategetmonthdategetdate'
 categories: java
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
 tags: 'java,getMonth,getDate'
 abbrlink: '472078e4'
 date: 2020-11-01 13:16:08

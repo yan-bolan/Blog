@@ -12,13 +12,13 @@ overrideMode
 
 This configuration section cannot be used at this path. This happens when the section is locked at a parent level. Locking is either by default (overrideModeDefault="Deny"), or set explicitly by a location tag with overrideMode="Deny" or the legacy allowOverride="false".
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221015212425.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221015212425.png)
 
 上面的报错大概意思是允许运行过程中修改文件？？？
 
 加上开发者特征：ASP.NET4.8就可以了
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221015212540.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221015212540.png)
 
 [覆盖模式缺省和允许定义属性 (microsoft.com)](https://techcommunity.microsoft.com/t5/iis-support-blog/overridemodedefault-and-allowdefinition-attributes/ba-p/305415)
 
@@ -84,9 +84,9 @@ Care of this [Learn IIS article](https://learn.microsoft.com/en-us/iis/manage/m
 
 Using the **Feature Delegation** from the root of IIS:
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221015215743.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221015215743.png)
 
-![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo/20221015220040.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20221015220040.png)
 
 看来微软的东西太小人用，文档真的是少
 

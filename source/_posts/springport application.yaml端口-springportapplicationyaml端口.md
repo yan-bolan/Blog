@@ -1,7 +1,7 @@
 ---
 title: springport application.yaml端口
 url: 'https://yayi.site/archives/springportapplicationyaml端口'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png'
 tags: java
 abbrlink: 5c40672e
 date: 2020-10-08 21:06:20

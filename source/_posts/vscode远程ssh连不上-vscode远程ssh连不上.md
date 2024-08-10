@@ -2,7 +2,7 @@
 title: vscode远程ssh连不上
 url: 'https://yayi.site/archives/vscode远程ssh连不上'
 categories: Linux
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png'
 tags: 'ssh,vscode ssh问题'
 abbrlink: f5df4f5b
 date: 2020-06-18 12:47:44

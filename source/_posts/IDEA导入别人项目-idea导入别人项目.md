@@ -2,7 +2,7 @@
 title: IDEA导入别人项目
 url: 'https://yayi.site/archives/idea导入别人项目'
 categories: 笔记
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
 abbrlink: 962c9152
 date: 2020-01-16 10:41:36
 updated: 2021-05-14 22:00:50

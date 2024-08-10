@@ -2,7 +2,7 @@
 title: PPT艺术参考
 url: 'https://yayi.site/archives/ppt艺术参考'
 categories: 笔记
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
 tags: 'ppt,ppt艺术,ppt排版'
 abbrlink: 36dff600
 date: 2021-01-11 15:45:12

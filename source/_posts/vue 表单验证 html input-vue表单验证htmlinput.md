@@ -1,7 +1,7 @@
 ---
 title: vue 表单验证 html input
 url: 'https://yayi.site/archives/vue表单验证htmlinput'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
 abbrlink: 831c046e
 date: 2020-10-11 23:11:57
 updated: 2021-05-14 22:04:18

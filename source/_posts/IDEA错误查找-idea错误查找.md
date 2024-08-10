@@ -2,7 +2,7 @@
 title: IDEA错误查找
 url: 'https://yayi.site/archives/idea错误查找'
 categories: IDE
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png'
 abbrlink: ba1da1f7
 date: 2019-11-10 00:09:57
 updated: 2021-05-14 22:00:50

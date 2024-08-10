@@ -2,7 +2,7 @@
 title: js调试
 url: 'https://yayi.site/archives/js调试'
 categories: JavaScript
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png'
 abbrlink: e2be6777
 date: 2019-11-13 18:05:07
 updated: 2021-05-14 22:02:33

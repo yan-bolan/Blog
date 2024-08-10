@@ -1,7 +1,7 @@
 ---
 title: bootstrap3
 url: 'https://yayi.site/archives/bootstrap3'
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png'
 abbrlink: 3d865ce1
 date: 2019-11-14 20:55:32
 updated: 2021-05-14 22:01:12

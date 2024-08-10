@@ -18,9 +18,9 @@ date: 2023-03-10 01:46:42
 
 可以看到是Table_array;
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16784583502371678458349526.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16784583502371678458349526.png)
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16784585522481678458551971.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16784585522481678458551971.png)
 
 =VLOOKUP(C2,A:B,2,0)
 
@@ -52,7 +52,7 @@ $C$12 使用美元符号固定住;
 
 LOOKUP函数中查找的范围的区域数据必须为升序排列，如-2、-1、0、1、2、...、A-Z、FALSE、TRUE。否则，可能会返回错误的结果。<mark>因此，由于汉字是文本且没有顺序，在LOOKUP的函数使用中，汉字序列是不能作为查找的范围的</mark>。
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16787937246671678793723813.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16787937246671678793723813.png)
 
 # 返回多个值
 
@@ -70,7 +70,7 @@ https://zhuanlan.zhihu.com/p/88925861
 
 
 
-chatgpt写事例![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16787959896671678795988764.png)
+chatgpt写事例![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16787959896671678795988764.png)
 
 <style>
 </style>
@@ -84,4 +84,4 @@ chatgpt写事例![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/p
 | Durian   | South  | 250   |     |     |     |     |       |
 | Eggplant | East   | 300   |     |     |     |     |       |
 
-![](https://fastly.jsdelivr.net/gh/TangxinGH/picbed@master/img/picgo/16787960676681678796067426.png)
+![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16787960676681678796067426.png)

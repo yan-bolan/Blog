@@ -2,7 +2,7 @@
 title: javaweb spring   requestmap404
 url: 'https://yayi.site/archives/javawebspringrequestmap404'
 categories: javaweb
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png'
 abbrlink: 5a3762d0
 date: 2019-11-10 12:05:35
 updated: 2021-05-14 22:02:27

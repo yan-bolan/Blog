@@ -2,7 +2,7 @@
 title: php 变量范围
 url: 'https://yayi.site/archives/php变量范围'
 categories: php
-cover: 'https://cdn.jsdelivr.net/gh/TangxinGH/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
+cover: 'https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png'
 tags: php
 abbrlink: 30603eea
 date: 2020-06-02 14:48:18

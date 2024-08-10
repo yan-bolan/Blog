@@ -81,4 +81,4 @@ log4net 配置 sqlite 路径；
 
 相对路径不起作用；
 
- ![](https://raw.githubusercontent.com/TangxinGH/picbed/master/img/picgo20220904120526.png)
+ ![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo20220904120526.png)
