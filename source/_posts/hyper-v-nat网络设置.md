@@ -7,6 +7,14 @@ cover: https://tuapi.eees.cc/api.php?category=dongman&type=302
 date: 2024-11-09 13:06:07
 ---
 
+先检查这个ip有没有在网卡上。如果ip不在网卡上，是不会报错的。
+
+第二才是检查是不是动态范围端口，也是不会报错的这个。
+
+
+
+
+
 使用internal ping 不通虚拟机
 
 win/11 防火墙阻止ping icmp 。公共防火墙关掉就好了
@@ -111,20 +119,18 @@ netsh中没有报错
 
 这列出了 Windows 中被保留的端口，这些端口是不能被用户绑定的，如果尝试绑定这些端口，会得到类似这样的错误：
 
-
-
 了端口（比如 Hyper-V？）
-
-
-
-
 
 为什么会出现保留端口?  
 为什么排除一个系统的保留端口执行的是 "netsh interface ipv4 add excludeportrange ..." 而不是 "netsh interface ipv4 delete excludeportrange ..."?  
 "netsh interface ipv4 show excludedportrange protocol=tcp" 中的 "Administered port exclusions" 是啥意思？
 
-
-
 尽量不要调整dynamic 动态端口
 
 netsh int ipv4 add excludedportrange protocol=tcp startport=1099 numberofports=1
+
+[【转】解决 Windows 10 端口被 Hyper-V 随机保留（占用）的问题 - SpringCore - 博客园](https://www.cnblogs.com/fanqisoft/p/17071121.html)
+
+netsh int ipv4 add excludedportrange protocol=tcp startport=1430 numberofports=1
+
+星号代表不会被保留。没有星号代表会被保留
