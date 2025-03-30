@@ -1,3 +1,13 @@
+---
+title: Notificationsapi
+tags:
+ - mysql
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+abbrlink: cfc5845d
+date: 2025-03-30 20:14:35
+
+---
+
 #### Notifications API
 
 对于 `type "basic"` 的 `notifications.create()`：

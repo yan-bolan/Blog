@@ -1,3 +1,12 @@
+---
+title: mysql性能测试
+tags:
+  - mysql
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+abbrlink: cfc584dd
+date: 2025-03-30 20:14:35
+---
+
 mysql性能测试
 
 以下是一些常用的 MySQL 压测工具：
@@ -840,17 +849,11 @@ mysql -u root -p -e "DROP DATABASE benchmarksql;"
    
    ![2rvudp.png](https://files.catbox.moe/2rvudp.png)
 
-
-
 ## HammerDB
 
 3 、构 RR*SCHEMA选择 ORACLE->TPROC-C->Schema BuiId- >Options
 
 [HammerDB 进行数据库压力测试 - 踏雪无痕2017 - 博客园](https://www.cnblogs.com/oradba/p/15692540.html)
-
-
-
- 
 
 After installation double-click on the "Windows Batch File" hammerdb to start hammerdb.  
 安装后双击 “Windows 批处理文件” hammerdb 以启动 hammerdb。
@@ -869,24 +872,16 @@ To run this utility run the following command
 
 and type librarycheck.  并键入 librarycheck。
 
- 
-
-
-
 Checking database library for MySQL
 Error: failed to load mysqltcl - couldn't load library "C:/Program Files/HammerDB-4.12/lib/mysqltcl3.052/libmysqltcl.dll": this library or a dependent library could not be found in library path
 Ensure that MySQL client libraries are installed and the location in the PATH environment variable
 Checking database library for PostgreSQL
-
- 
 
 搞不了，只能用docker:
 
  docker pull tpcorg/hammerdb:mysql
 
 docker run --net=host --name hammerdb-cloudtk tpcorg/hammerdb:latest-cloudtk
-
-
 
 ### .2. CloudTK Web 应用程序 Docker 镜像
 
@@ -910,12 +905,8 @@ You can connect to port 8081 for an unencrypted connection. Alternatively you ca
 
 **Figure 1.14. CloudTK Launcher**
 
-
-
 用无痕浏览器打开
 
 还是用命令行吧，太难搞了。
-
-
 
 磁盘IOPS 用htop，可以配置对应的行

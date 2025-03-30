@@ -1,3 +1,11 @@
+---
+title: 表达式来有判断有设定哪些栏位
+tags:
+  - c#
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+abbrlink: cfc584dd
+date: 2025-03-30 20:14:35
+---
 
 通过表达式来有判断 有设定哪些栏位
 

@@ -41,8 +41,6 @@ _config.yml
 
 ### CDN引用（推荐）
 
-
-
 ---
 
 ## 连接点链接
@@ -57,4 +55,10 @@ bash
 
 `mklink /j \MyFolder \Users\User1\Documents`
 
- 
+
+
+
+
+
+
+[wertycn/hexo-frontmatter-generator: markdown 自动生成hexo Front Matter](https://github.com/wertycn/hexo-frontmatter-generator)

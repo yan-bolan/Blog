@@ -1,3 +1,12 @@
+---
+title: wsl自动登录xrdp
+tags:
+  - xrdp
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+abbrlink: cfc584dd
+date: 2025-03-30 20:14:35
+---
+
 增强模式有一复制的特性好用
 
 hyper安装的ubuntu已经自动登录了：需先登出，再选择增强模式登入
@@ -91,8 +100,6 @@ Allow GUI root login on Ubuntu 20.04 Focal Fossa Linux Desktop
    To do so edit file `<mark>/etc/pam.d/gdm-password</mark>` and put `#` in front of the line containing:
    
    auth   required        pam_succeed_if.so user != root quiet_success
-
-
 
 磁盘大小调整，有还原点的要选择avhdex文件
 

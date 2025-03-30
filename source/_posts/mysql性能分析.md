@@ -1,3 +1,12 @@
+---
+title: mysqlEXPLAIN
+tags:
+  - mysql
+cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+abbrlink: cfc5824dd
+date: 2025-03-30 20:14:35
+---
+
 在 MySQL 中，要查看真實的執行計劃，可以使用以下幾種方法：
 
 ### 1. EXPLAIN 語句
@@ -48,9 +57,5 @@ SELECT * FROM events_statements_history_long WHERE sql_text LIKE '%<your_query>%
 使用 `EXPLAIN` 和 `EXPLAIN ANALYZE` 是查看 MySQL 查詢的真實執行計劃的最基本和有效的方法。這可以幫助你瞭解查詢的性能瓶頸，並進行相應的優化。定期分析查詢的執行計劃對於保持數據庫性能至關重要。
 
 MySQL Workbench<mark>這個有圖形化</mark>
-
-
-
-
 
 [多表连接场景下DISTINCT优化_云数据库 TaurusDB_华为云](https://support.huaweicloud.com/kerneldesc-taurusdb/taurusdb_20_0032.html)
