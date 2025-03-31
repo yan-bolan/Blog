@@ -3,7 +3,7 @@ title: wsl自动登录xrdp
 tags:
   - xrdp
 cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
-abbrlink: cfc584dd
+abbrlink: cfc5684dd
 date: 2025-03-30 20:14:35
 ---
 

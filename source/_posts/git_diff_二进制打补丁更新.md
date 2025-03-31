@@ -24,6 +24,4 @@ https://github.com/dwmkerr/sharpshell
 
 git diff --no-index --binary --no-prefix .\APIimages .\dcsapi_2 > patch.txt 
 
-
-
 用xdelta3 GUI那个好 用 2025看最后更新

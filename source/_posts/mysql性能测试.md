@@ -3,7 +3,7 @@ title: mysql性能测试
 tags:
   - mysql
 cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
-abbrlink: cfc584dd
+abbrlink: cfc5884dd
 date: 2025-03-30 20:14:35
 ---
 
