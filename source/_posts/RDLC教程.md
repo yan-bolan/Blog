@@ -2,7 +2,7 @@
 title: RDLC教程
 tags:
   - RDLC
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 7f6e80f3
 date: 2023-03-29 21:37:07
 ---

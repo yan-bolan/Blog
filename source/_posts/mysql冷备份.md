@@ -2,7 +2,7 @@
 title: mysql冷备份
 tags:
   - mysql
-cover: https://tuapi.eees.cc/api.php?category=dongman&type=302
+cover: https://picsum.photos/400
 date: 2025-03-31 19:53:02
 ---
 

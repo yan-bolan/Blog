@@ -4,7 +4,7 @@ tags:
   - ASPNET
   - NET
   - WEB
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 8d404d31
 date: 2023-03-19 12:07:26
 ---

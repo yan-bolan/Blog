@@ -3,7 +3,7 @@ title: hyper-v nat网络设置
 tags:
   - nat
   - 防火墙
-cover: https://tuapi.eees.cc/api.php?category=dongman&type=302
+cover: https://picsum.photos/400
 date: 2024-11-09 13:06:07
 ---
 

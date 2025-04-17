@@ -3,7 +3,7 @@ title: 如何在Excel中将科学计数法转换为文本或数字
 tags:
   - EXCEL
   - 科学计数法
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 5692d420
 date: 2023-08-04 21:57:52
 ---

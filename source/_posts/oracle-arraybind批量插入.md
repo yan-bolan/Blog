@@ -4,7 +4,7 @@ tags:
   - oracle
   - insert
   - 批量
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 92bca621
 date: 2023-12-12 19:37:45
 ---

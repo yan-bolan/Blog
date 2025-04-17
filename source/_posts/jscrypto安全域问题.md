@@ -3,7 +3,7 @@ title: jscrypto安全域问题
 tags:
   - js
   - crypto
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: cdfb4f0e
 date: 2023-05-07 15:32:25
 ---

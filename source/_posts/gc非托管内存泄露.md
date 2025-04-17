@@ -2,7 +2,7 @@
 title: gc非托管内存泄露
 tags:
   - net
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 43959cba
 date: 2023-09-10 10:26:18
 ---

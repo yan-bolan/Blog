@@ -6,7 +6,7 @@ tags:
   - xhr
   - form
   - aspnet
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: da92f61f
 date: 2023-07-06 21:34:23
 ---

@@ -5,7 +5,7 @@ tags:
   - net
   - using
   - 依赖
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: fdb6fcb9
 date: 2023-10-09 20:42:10
 ---

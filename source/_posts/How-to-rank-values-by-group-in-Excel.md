@@ -3,7 +3,7 @@ title: How to rank values by group in Excel?
 tags:
   - EXCEL
   - 分组排序
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: e4698ace
 date: 2023-05-05 20:52:39
 ---

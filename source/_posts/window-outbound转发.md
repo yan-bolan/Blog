@@ -2,7 +2,7 @@
 title: window outbound转发
 tags:
   - 代理
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 28d802e2
 date: 2023-11-12 22:34:54
 ---

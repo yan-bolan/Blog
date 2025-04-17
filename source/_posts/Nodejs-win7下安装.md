@@ -3,7 +3,7 @@ title: Nodejs win7下安装
 tags:
   - nodejs
   - win7
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: c3b6c751
 date: 2023-10-10 21:54:50
 ---

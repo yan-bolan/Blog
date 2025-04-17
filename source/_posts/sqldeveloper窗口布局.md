@@ -2,7 +2,7 @@
 title: sqldeveloper窗口布局
 tags:
   - 窗口布局
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: d6ced2b0
 date: 2023-05-01 16:58:16
 ---

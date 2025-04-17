@@ -2,7 +2,7 @@
 title: WINDBG学习
 tags:
   - IIS
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 9c2ee053
 date: 2024-07-31 21:07:29
 ---

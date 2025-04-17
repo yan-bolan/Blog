@@ -2,7 +2,7 @@
 title: android录音状态机
 tags:
   - MediaRecorder
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 3d3b8b6b
 date: 2023-07-23 21:31:20
 ---

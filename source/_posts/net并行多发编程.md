@@ -3,7 +3,7 @@ title: net并行多发编程
 tags:
   - net
   - 多线程
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: fd8e85bf
 date: 2023-04-01 21:30:26
 ---

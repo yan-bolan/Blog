@@ -1,6 +1,6 @@
 ---
 title: hexopluginCover
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 tags: hexo插件
 abbrlink: 1bf397a2
 date: 2022-10-02 15:43:41

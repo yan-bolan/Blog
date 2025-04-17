@@ -2,7 +2,7 @@
 title: javaheapspace
 tags:
   - jdk
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 169edcb7
 date: 2023-07-11 21:54:21
 ---

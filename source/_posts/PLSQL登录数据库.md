@@ -2,7 +2,7 @@
 title: PLSQL登录数据库
 tags:
   - plsql
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 40d2138c
 date: 2023-05-01 16:30:34
 ---

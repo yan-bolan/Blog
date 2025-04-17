@@ -3,7 +3,7 @@ title: nginx代理
 tags:
   - 代理
   - nginx
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: dc13b4b1
 date: 2023-09-18 19:37:59
 ---

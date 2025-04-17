@@ -2,7 +2,7 @@
 title: RDLC滑动条无法滑动
 tags:
   - RDLC
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 90e9277b
 date: 2023-07-09 12:32:02
 ---

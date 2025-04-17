@@ -1,6 +1,6 @@
 ---
 title: oracle visusal studio 2022 file can't find
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 tags: oracle
 abbrlink: 302a9958
 date: 2023-01-13 23:04:55

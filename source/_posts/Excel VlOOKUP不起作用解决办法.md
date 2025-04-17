@@ -1,5 +1,5 @@
 ---
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 title: Excel VlOOKUP不起作用解决办法
 tags:
   - Excel

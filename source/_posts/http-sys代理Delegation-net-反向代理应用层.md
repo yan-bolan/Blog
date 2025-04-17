@@ -1,6 +1,6 @@
 ---
 title: http.sys代理Delegation net 反向代理应用层
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 tags: 代理 yarp
 abbrlink: 820ce945
 date: 2022-11-06 17:36:10

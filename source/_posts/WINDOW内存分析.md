@@ -2,7 +2,7 @@
 title: WINDOW内存分析
 tags:
   - Net
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 6c4b239d
 date: 2023-09-15 22:58:26
 ---

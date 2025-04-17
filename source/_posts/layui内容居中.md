@@ -3,7 +3,7 @@ title: layui内容居中
 tags:
   - layui
   - 居中
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 81430ea4
 date: 2023-10-20 23:28:10
 ---

@@ -4,7 +4,7 @@ tags:
   - clash
   - dns
   - tun
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: '186421e6'
 date: 2023-10-14 09:42:25
 ---

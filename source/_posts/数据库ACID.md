@@ -1,6 +1,6 @@
 ---
 title: 数据库ACID
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 tags: ACID
 abbrlink: c5cf1b6e
 date: 2023-02-04 14:58:57

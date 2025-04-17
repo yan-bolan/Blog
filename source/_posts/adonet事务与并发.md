@@ -2,7 +2,7 @@
 title: adonet事务与并发
 tags:
   - 数据访问
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: f37cac54
 date: 2023-05-02 22:14:32
 ---

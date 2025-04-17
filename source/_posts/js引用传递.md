@@ -3,7 +3,7 @@ title: js引用传递
 tags:
   - 闭包
   - 覆盖
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 3dab0886
 date: 2023-03-24 21:52:46
 ---

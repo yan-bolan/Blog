@@ -1,6 +1,6 @@
 ---
 title: ExcelCount_Learn
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 25708afb
 date: 2023-01-10 20:28:51
 tags:

@@ -2,7 +2,7 @@
 title: git_diff
 tags:
   - git_diff
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: cfc584285cf44fdd
 date: 2025-03-30 20:14:35
 ---

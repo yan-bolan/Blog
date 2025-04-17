@@ -3,7 +3,7 @@ title: docker net dump 导出
 tags:
   - dump
   - net
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 94d365fa
 date: 2024-09-28 19:45:38
 ---

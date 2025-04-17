@@ -4,7 +4,7 @@ tags:
   - html
   - anime
   - 动画
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 42e8a4f4
 date: 2023-06-17 22:16:07
 ---

@@ -2,7 +2,7 @@
 title: git合并commit
 tags:
   - git
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: af721f80
 date: 2023-07-27 21:30:18
 ---

@@ -2,7 +2,7 @@
 title: NET发布portable和winx64区别
 tags:
   - NET
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 5b983bae
 date: 2023-05-05 21:01:58
 ---

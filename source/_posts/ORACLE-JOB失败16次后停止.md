@@ -3,7 +3,7 @@ title: ORACLE JOB失败16次后停止
 tags:
   - oracle
   - oracle dbms
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 840d974e
 date: 2023-09-12 19:31:32
 ---

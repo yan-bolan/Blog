@@ -4,7 +4,7 @@ tags:
   - net
   - encoding
   - utfbom
-cover: 'https://tuapi.eees.cc/api.php?category=dongman&type=302'
+cover: 'https://picsum.photos/400'
 abbrlink: 5c8085e
 date: 2023-04-25 21:31:18
 ---
