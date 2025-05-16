@@ -11,7 +11,7 @@ hexo.init().then(function(){
      tags : args.length>1? args[1].split(',') :"",
     // var categories = args[1];
     // var date = args[3];
-        cover :"https://tuapi.eees.cc/api.php?category=dongman&type=302" // args[4];
+        cover :"https://api.paugram.com/wallpaper/?source=sm" // args[4];
     }
     hexo.post.create(data, false).then(function(post){
         console.log(post);
