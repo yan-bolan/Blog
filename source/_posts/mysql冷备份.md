@@ -2,7 +2,8 @@
 title: mysql冷备份
 tags:
   - mysql
-cover: https://picsum.photos/400
+cover: 'https://picsum.photos/400'
+abbrlink: dfd30e1c
 date: 2025-03-31 19:53:02
 ---
 

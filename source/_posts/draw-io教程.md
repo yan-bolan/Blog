@@ -3,7 +3,8 @@ title: draw io教程
 tags:
   - drawio
   - 画图
-cover: https://picsum.photos/400
+cover: 'https://picsum.photos/400'
+abbrlink: 15816fba
 date: 2025-04-17 22:34:50
 ---
 

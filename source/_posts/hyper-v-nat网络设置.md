@@ -3,7 +3,8 @@ title: hyper-v nat网络设置
 tags:
   - nat
   - 防火墙
-cover: https://picsum.photos/400
+cover: 'https://picsum.photos/400'
+abbrlink: d11f7f68
 date: 2024-11-09 13:06:07
 ---
 

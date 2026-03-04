@@ -2,7 +2,8 @@
 title: iis技巧命令行
 tags:
   - iis
-cover: https://picsum.photos/400
+cover: 'https://picsum.photos/400'
+abbrlink: a040c78f
 date: 2024-11-10 21:53:23
 ---
 

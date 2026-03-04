@@ -2,7 +2,8 @@
 title: mysql_ha
 tags:
   - HA
-cover: https://picsum.photos/400
+cover: 'https://picsum.photos/400'
+abbrlink: 9fb9d8bc
 date: 2025-03-31 21:28:17
 ---
 
