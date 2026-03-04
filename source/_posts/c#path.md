@@ -1,3 +1,15 @@
+---
+
+title: AssemblyLocation
+tags:
+
+- bOm
+  cover: 'https://api.paugram.com/wallpaper/?source=sm'
+  abbrlink: 2808a27d
+  date: 2025-06-07 09:16:59
+
+---
+
 [dotnet 警惕 Assembly.Location 返回空 (lindexi.com)](https://blog.lindexi.com/post/dotnet-%E8%AD%A6%E6%83%95-Assembly.Location-%E8%BF%94%E5%9B%9E%E7%A9%BA.html)~~~~
 
 在大部分情况下，获取当前所运行的应用程序的所在路径时，常用的就是 Assembly.Location 属性，按照之前的经验，使用 Assembly.Location 是最为稳定的做法，然而在 dotnet 发布单文件时，此属性将会为空，导致一些不符合预期的行为
