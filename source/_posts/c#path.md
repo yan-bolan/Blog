@@ -1,12 +1,9 @@
 ---
-
 title: AssemblyLocation
 tags:
-
-- bOm
-  cover: 'https://api.paugram.com/wallpaper/?source=sm'
-  abbrlink: 2808a27d
-  date: 2025-06-07 09:16:59
+cover: 'https://api.paugram.com/wallpaper/?source=sm'
+abbrlink: 2808a27d
+date: 2025-06-07 09:16:59
 
 ---
 
