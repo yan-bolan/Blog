@@ -117,12 +117,19 @@ copyTip: "著作权归作者所有。\n商业转载请联系作者获得授权�
 
 slotHead: ''
 
-slotFooter: '<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2058306854838448" crossorigin="anonymous"></script>'
+slotFooter: |
+  <footer style="text-align:center;padding:24px 16px;font-size:14px;line-height:2;">
+    <div>&copy; 2024 - 2026 <a href="http://8.134.184.95:8090/">烟波蓝日志</a> 版权所有 | <a href="javascript:void(0)">隐私政策</a> | <a href="javascript:void(0)">服务条款</a></div>
+    <div>
+      <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer"><img src="/upload/beian.png" alt="ICP备案" style="height:18px;vertical-align:middle;margin-right:4px;">桂ICP备2026005604号</a>
+      |
+      <a href="http://www.beian.gov.cn/portal/registerSystemInfo" target="_blank" rel="noopener noreferrer">粤公网安备44060502003800号</a>
+    </div>
+  </footer>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2058306854838448" crossorigin="anonymous"></script>
 
 # 自定义侧边栏尾部内容
-slotSidebar: '<br><a target="_blank" href="https://beian.miit.gov.cn/">桂ICP备2020018486号</a>
-    <br><a target="_blank" href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral">
-    <img src="" width="150px"></a>'
+slotSidebar: '<br><a target="_blank" rel="noopener noreferrer" href="https://beian.miit.gov.cn/">桂ICP备2026005604号</a><br><a target="_blank" rel="noopener noreferrer" href="http://www.beian.gov.cn/portal/registerSystemInfo">粤公网安备44060502003800号</a>'
 
 # 评论框插槽
 slotComment: '<script async src="https://comments.app/js/widget.js?3" data-comments-app-website="SQveIb1b" data-limit="5"></script> '
@@ -140,4 +147,3 @@ DiscussBot:   #<script async src="https://comments.app/js/widget.js?3" data-comm
   dislike: 0 ## 显示差评按钮
   icons: 0 ## 图标主题 
   diff: 0 ## 每位用户name不同颜色
-
