@@ -1,0 +1,4 @@
+工具	备案信息设置便捷度	配置方式
+Hexo	最方便（开箱即用）	90% 以上的 Hexo 中文主题（如 NexT、Fluid、Butterfly）在 _config.theme.yml 中都内置了 icp 字段，直接填入备案号字符串即可自动显示在页脚。
+Astro	非常灵活（好加）	在主题配置文件（如 site.config.ts 或 astro.config.mjs）中添加字段；或者直接打开页脚组件（如 Footer.astro）写一行 HTML 标签即可。
+Zola	简单直接	在全局配置文件 config.toml 的 [extra] 块中添加 icp = "京ICP备XXXX号"，然后在页脚模板 footer.html 里调用。

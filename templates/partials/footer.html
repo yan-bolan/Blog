@@ -1,0 +1,69 @@
+<footer class="footer">
+  {% if config.extra.siteage %}
+  <div class="siteage" data-start="{{ config.extra.siteage }}" data-format="{{ trans(key='footer.runtime') }}">
+    <svg class="icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10" />
+      <polyline points="12 6 12 12 16 14" />
+    </svg>
+    <span></span>
+  </div>
+  {% endif %}
+  <div class="copyright">&copy; {{ config.extra.copyright | default(value=config.title) }}</div>
+  {# ===== 本站定制：ICP / 公安备案（迁移自旧站 slotFooter） ===== #}
+  <div class="beian">
+    <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener">桂ICP备2026005604号</a>
+    <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44060502003800" target="_blank" rel="noopener"><img src="{{ get_url(path='upload/beian.png') }}" alt="备案图标">粤公网安备44060502003800号</a>
+  </div>
+</footer>
+<style>
+  .footer .beian { display: flex; flex-wrap: wrap; gap: 0.4em 1.2em; justify-content: center; align-items: center; font-size: 0.85em; opacity: 0.85; margin-top: 0.3em; }
+  .footer .beian a { color: inherit; text-decoration: none; display: inline-flex; align-items: center; gap: 0.3em; }
+  .footer .beian a:hover { text-decoration: underline; }
+  .footer .beian img { height: 1.1em; width: auto; }
+  .post-end-img { display: block; max-width: 100%; border-radius: 10px; margin-top: 1.5em; }
+  .post-license { margin-top: 1.5em; padding: 0.8em 1em; border-radius: 10px; font-size: 0.9em; opacity: 0.85; background: rgba(127,127,127,0.08); }
+</style>
+<script>
+(function () {
+  // 一言（迁移自旧站 hitokoto 组件）：动态替换侧栏一句话，失败保留静态文案
+  var saying = document.querySelector('.sidebar .saying');
+  if (saying) {
+    fetch('https://v1.hitokoto.cn/?encode=text')
+      .then(function (r) { return r.ok ? r.text() : Promise.reject(); })
+      .then(function (t) { if (t && t.trim() && t.length < 60) saying.textContent = t.trim(); })
+      .catch(function () {});
+  }
+  // 文章末尾版权说明（迁移自旧站 CC BY-NC-SA 声明）
+  document.addEventListener('DOMContentLoaded', function () {
+    var postMain = document.querySelector('.post-main');
+    // 文末图（迁移自旧站 nexmoe 主题设定）
+    if (postMain && !postMain.querySelector('.post-end-img')) {
+      var img = document.createElement('img');
+      img.className = 'post-end-img';
+      img.src = '/images/lycorisRecoil2.jpg';
+      img.alt = '文末图';
+      img.loading = 'lazy';
+      postMain.appendChild(img);
+    }
+    if (postMain && !postMain.querySelector('.post-license')) {
+      var d = document.createElement('div');
+      d.className = 'post-license';
+      d.innerHTML = '本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/" target="_blank" rel="noopener">CC BY-NC-SA 3.0 CN</a> 许可，转载请注明出处。';
+      postMain.appendChild(d);
+    }
+  });
+  // 复制附带版权文案（迁移自旧站 copyTip）
+  document.addEventListener('copy', function (e) {
+    var sel = window.getSelection();
+    if (!sel || sel.isCollapsed || !e.clipboardData) return;
+    var node = sel.anchorNode;
+    var el = node && (node.nodeType === 1 ? node : node.parentElement);
+    if (!el || !el.closest || !el.closest('.post-main')) return;
+    var text = sel.toString();
+    if (!text) return;
+    var tip = '\n\n著作权归作者所有。\n商业转载请联系作者获得授权，非商业转载请注明出处。\n来源：' + location.href;
+    e.clipboardData.setData('text/plain', text + tip);
+    e.preventDefault();
+  });
+})();
+</script>

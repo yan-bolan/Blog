@@ -1,64 +1,78 @@
-### Introduce
+# 烟波蓝日志（Zola 版）
 
-1. hexo 博客
+https://yuris.site —— 由 Hexo + nexmoe 迁移至 **Zola + helloblog** 主题。
 
-2. hexo generate 生成 static files ; there are includes sitemap.xml; you can go to goolgel.com submit it ;
+## 本地预览 / 构建
 
-3. [PowerShell - Running scripts is disabled on this system – TecAdmin](https://tecadmin.net/powershell-running-scripts-is-disabled-system/)
+Windows 下直接使用仓库内置的便携版 Zola（0.23.6）：
 
-~~publish to https://www.freehosting.com/~~
-publish https://vercel.com/
-try https://pages.cloudflare.com/
-hexo deploy
-
-### Writing
-
-[Writing | Hexo](https://hexo.io/docs/writing.html)
-
-hexo new [layout] <title>
-
-```bash
-hexo new <titile>
+```powershell
+.\tools\zola.exe serve    # 预览 http://127.0.0.1:1111
+.\tools\zola.exe build    # 生成 public/
 ```
 
-git add .
+二进制不入库；如缺失，运行 `node tools/download-zola.mjs` 重新下载（走系统代理）。
 
-git push
+## 目录结构
 
-### 图片
+| 目录 | 说明 |
+| --- | --- |
+| `config.toml` | 站点配置（含旧站迁移过来的主题设定、中文翻译） |
+| `content/posts/` | 285 篇文章（由 Hexo `source/_posts` 迁移，扁平化） |
+| `content/about.md` / `category.md` / `link.md` | 关于 / 归档 / 友链页 |
+| `static/` | 头像、背景、备案图标、robots.txt 等静态资源 |
+| `templates/` | 对主题的覆盖定制（见下） |
+| `themes/helloblog/` | 主题（vendor 方式入库，MIT，作者 Cnkrru） |
+| `data/` | `link.json` 友链、`music.json` 音乐播放器歌单 |
+| `scripts/` | 迁移脚本、SEO 推送脚本、迁移报告 |
+| `tools/` | Zola 便携版与下载脚本 |
 
-#### 绝对路径（本地推荐）
+## 写新文章
 
-当Hexo项目中只用到少量图片时，可以将图片统一放在`source/images`文件夹中，通过markdown语法访问它们。
+在 `content/posts/` 新建 `.md`：
 
-source/images/image.jpg
+```toml
++++
+title = "标题"
+date = "2026-01-01 12:00:00"
+slug = "my-post"
+[taxonomies]
+tags = ["标签"]
+[extra]
+category = "分类"
+cover = "https://example.com/cover.jpg"
++++
 
-#### 相对路径
+正文（Markdown）
+```
 
-图片除了可以放在统一的`images`文件夹中，还可以放在文章自己的目录中。文章的目录可以通过配置`_config.yml`来生成。
+## 模板定制（templates/ 覆盖主题同名文件）
 
-_config.yml
+- `partials/head.html`：追加 Google AdSense（ca-pub-2058306854838448）。
+- `partials/footer.html`：ICP / 公安备案、运行天数、动态一言（hitokoto）、文末 CC BY-NC-SA 3.0 CN 声明、复制附带版权文案、文末图。
+- `index.html`：首页落地页补上页脚（备案信息需在首页展示）。
 
-### CDN引用（推荐）
+## 旧站设定迁移对照
 
----
+- 旧 permalink `/YYYY/MM_DD_abbrlink.html` → 每篇 `aliases` 重定向页，新地址 `/posts/<abbrlink>/`。
+- 标签/分类 → Zola taxonomies + `extra.category`（归档页按分类-年-月分组）。
+- 封面 → `extra.cover`；更新时间 → `updated`。
+- 网易云 `[music:id]` 标签 → 标准 iframe。
+- 搜索：旧站 Bing 站内搜索 → 主题自带本地全文搜索。
+- 评论：旧 DiscussBot → giscus（`config.toml` 中 `[extra.giscus] enable = false`，暂未启用）。
+- 旧菜单中 /PY.html、/donate.html、/about.html 为死链（source 中无对应文件）；朋友页已用主题友链页重建，赞助页未迁移。
 
-## 连接点链接
+## 部署（GitHub Actions）
 
-[连接点（NTFS junction point）](https://link.juejin.cn?target=https%3A%2F%2Fdocs.microsoft.com%2Fzh-cn%2Fwindows%2Fwin32%2Ffileio%2Fhard-links-and-junctions%23junctions "https://docs.microsoft.com/zh-cn/windows/win32/fileio/hard-links-and-junctions#junctions")，也称为软链接，类似于符号链接，但只支持目录，可以链接位于同一台计算机上不同本地卷上的目录。结点的操作与硬链接相同。
+- `.github/workflows/deploy.yml`：push 到 main/master 后构建并 FTP 增量同步到服务器。
+  需要仓库 Secrets：`FTP_SERVER`（yuris.site）、`FTP_USERNAME`、`FTP_PASSWORD`。
+- `.github/workflows/seo-push.yml`：每日 04:00 UTC 构建后向 Bing / Baidu / Google 推送 sitemap URL。
+  沿用旧仓库 Secrets：`bing_apikey`、`baidu_token`、`google_client_email`、`google_private_key`（缺省自动跳过）。
 
-在根目录创建连接点链接：
+> 安全提示：旧 Hexo 配置中的 FTP 明文密码仍留在 git 历史里，建议修改 FTP 密码并仅通过 Secrets 注入。
 
-bash
+## 迁移记录
 
-复制代码
-
-`mklink /j \MyFolder \Users\User1\Documents`
-
-
-
-
-
-
-
-[wertycn/hexo-frontmatter-generator: markdown 自动生成hexo Front Matter](https://github.com/wertycn/hexo-frontmatter-generator)
+`scripts/migrate.mjs` 为一次性迁移脚本（YAML→TOML，自带 vendor 版 js-yaml，可独立重跑）；
+结果见 `scripts/migrate-report.json`：285/285 成功，3 篇无日期文章以文件修改时间兜底，
+3 处重复 abbrlink 以 `-2/-3` 后缀消歧。

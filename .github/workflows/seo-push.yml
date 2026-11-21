@@ -1,0 +1,35 @@
+name: SEO Auto Push
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install Zola 0.23.6
+        run: |
+          curl -fsSL -o zola.tar.gz https://github.com/getzola/zola/releases/download/v0.23.6/zola-v0.23.6-x86_64-unknown-linux-gnu.tar.gz
+          tar -xzf zola.tar.gz
+          sudo mv zola /usr/local/bin/zola
+
+      - name: Build site
+        run: zola build
+
+      - name: Push URLs to Bing / Baidu / Google
+        env:
+          BING_APIKEY: ${{ secrets.bing_apikey }}
+          BAIDU_TOKEN: ${{ secrets.baidu_token }}
+          GOOGLE_CLIENT_EMAIL: ${{ secrets.google_client_email }}
+          GOOGLE_PRIVATE_KEY: ${{ secrets.google_private_key }}
+        run: node scripts/seo-push.mjs
