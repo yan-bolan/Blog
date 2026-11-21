@@ -9,7 +9,7 @@ tags = ["Huffman,游程编码"]
 [extra]
 category = "算法与设计"
 categories = ["算法与设计"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++
 ## 数据压缩算法 
 

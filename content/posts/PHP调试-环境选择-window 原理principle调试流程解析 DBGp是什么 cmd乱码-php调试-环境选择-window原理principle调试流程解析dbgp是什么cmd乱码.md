@@ -9,7 +9,7 @@ tags = ["phpstorm调试,xdebug调试,cmd乱码,调试原理,调试流程"]
 [extra]
 category = "IDE,php"
 categories = ["IDE,php"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 # PHP调试-环境选择-window 
 

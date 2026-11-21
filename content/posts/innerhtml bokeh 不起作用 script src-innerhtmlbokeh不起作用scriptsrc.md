@@ -9,7 +9,7 @@ tags = ["js"]
 [extra]
 category = "JavaScript"
 categories = ["JavaScript"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 ﻿1. innerhtml 不起作用。
 2. div 和iframe 的innerhtml和write 都 没有用

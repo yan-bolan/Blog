@@ -7,7 +7,7 @@ aliases = ["/2019/11_22_f8a0d332.html"]
 [extra]
 category = "Linux"
 categories = ["Linux"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 ﻿```css
 service NetworkManager stop

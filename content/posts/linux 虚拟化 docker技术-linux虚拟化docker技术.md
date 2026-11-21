@@ -9,7 +9,7 @@ tags = ["内核,linux,虚拟化,docker"]
 [extra]
 category = "Linux"
 categories = ["Linux"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 ﻿linux 原本就有namesapce这一概念.
 

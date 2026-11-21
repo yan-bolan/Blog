@@ -9,7 +9,7 @@ tags = ["IDM"]
 [extra]
 category = "win10"
 categories = ["win10"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 ﻿在选项》常规中》设置
 

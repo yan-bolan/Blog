@@ -9,7 +9,7 @@ tags = ["聚类,算法,列表搜索算法,k-均值算法"]
 [extra]
 category = "算法与设计"
 categories = ["算法与设计"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 ## 聚类算法
 

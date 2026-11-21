@@ -7,7 +7,7 @@ aliases = ["/2019/10_15_bbbd38a3.html"]
 [extra]
 category = "andriod"
 categories = ["andriod"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 app
 build.gradle

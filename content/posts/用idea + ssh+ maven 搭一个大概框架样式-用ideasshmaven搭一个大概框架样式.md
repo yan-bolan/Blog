@@ -9,7 +9,7 @@ tags = ["ssｈ"]
 [extra]
 category = "笔记"
 categories = ["笔记"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 用来代替软件工程代码编程环节。
 ２０１９／１０／０４　完成了编程环境的配置，基于网页管理的方式，而不是客户端。持续更新。。

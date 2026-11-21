@@ -17,7 +17,7 @@ cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は
 
 博客地址使用。使用ip地址而不是域名，不然下载不了东西
 
-![watergirl](https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png)
+![watergirl](https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png)
 ---
 
 

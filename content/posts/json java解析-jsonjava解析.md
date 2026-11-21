@@ -7,7 +7,7 @@ aliases = ["/2019/11_13_15dfb87e.html"]
 [extra]
 category = "javaweb"
 categories = ["javaweb"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 ﻿fastjson
 因为json中即有对象也有数组

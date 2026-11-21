@@ -36,7 +36,7 @@ ISAPI（Internet Server Application Programming Interface）是一套本地的�
 
 
 
-![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16792041905691679204189719.png)
+![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/16792041905691679204189719.png)
 
 
 

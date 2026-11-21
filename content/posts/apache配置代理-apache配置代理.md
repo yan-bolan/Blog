@@ -7,7 +7,7 @@ aliases = ["/2019/10_21_cb6ead73.html"]
 [extra]
 category = "网络"
 categories = ["网络"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++
 复制到你的conf后面。重启apache,无法重启说明有错，查看日志。
 ```bash

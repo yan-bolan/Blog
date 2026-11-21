@@ -9,7 +9,7 @@ tags = ["php,nginx,phpstorm,xdebug"]
 [extra]
 category = "php"
 categories = ["php"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 太痛苦了。搞了一天。
 教程差不多。

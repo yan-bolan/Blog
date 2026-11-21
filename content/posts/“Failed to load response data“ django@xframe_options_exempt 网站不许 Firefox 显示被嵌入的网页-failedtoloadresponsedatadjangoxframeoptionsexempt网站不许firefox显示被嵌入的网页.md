@@ -5,7 +5,7 @@ updated = "2021-05-14 22:00:57"
 slug = "eacc72e0"
 aliases = ["/2021/04_06_eacc72e0.html"]
 [extra]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 ﻿# python django ajax
 

@@ -9,7 +9,7 @@ tags = ["anti-virus,window Defender,排除"]
 [extra]
 category = "andriod"
 categories = ["andriod"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 ﻿Your anti-virus program might be impacting your build performance. Android Studio checked the following directories: 
 			E:\WorkPlaceAndroidStudio\learnAndroid\FistApp

@@ -9,14 +9,14 @@ tags = ["语录"]
 [extra]
 category = "文集"
 categories = ["文集"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 # 语录
  
  這個地方不時會襲上一層寂寥冷清,每當那時就好像此處並無生命一般...
 
 
-![girl](https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311130651-cf0bb78281108ec2ee58fe32dc05e672.png)
+![girl](https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311130651-cf0bb78281108ec2ee58fe32dc05e672.png)
 
 
 ————————————————
@@ -24,7 +24,7 @@ cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-war
  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=528478901&auto=0&height=66"></iframe>
 
  
-![TheExecutionerandHerWayofLife](https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311130233-The_Executioner_and_Her_Way_of_Life_light_novel_volume_1_cover.jpg)
+![TheExecutionerandHerWayofLife](https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311130233-The_Executioner_and_Her_Way_of_Life_light_novel_volume_1_cover.jpg)
  
 <audio controls autoplay  >
      <source 

@@ -9,7 +9,7 @@ tags = ["TexLive,latex,latexmk,vscode 环境变量"]
 [extra]
 category = "win10"
 categories = ["win10"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 ﻿vscode latex workshop recipe terminated with fatal error spawn latexmk enoent
 

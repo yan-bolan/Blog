@@ -5,7 +5,7 @@ updated = "2021-05-14 22:04:15"
 slug = "96cea11e"
 aliases = ["/2020/05_15_96cea11e.html"]
 [extra]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++
 ﻿我的总是密码登录。
 ```powershell

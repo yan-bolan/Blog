@@ -9,7 +9,7 @@ tags = ["tqdm"]
 [extra]
 category = "python"
 categories = ["python"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 ﻿1. 一直流动
    。你启动了多个tqdm 实例打印。使用完close()

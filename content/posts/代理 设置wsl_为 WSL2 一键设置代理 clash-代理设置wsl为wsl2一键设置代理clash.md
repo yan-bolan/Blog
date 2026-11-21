@@ -7,7 +7,7 @@ aliases = ["/2021/05_08_87f917a4.html"]
 [extra]
 category = "win10"
 categories = ["win10"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++
 ﻿[wsl 代理](https://wiki.imalan.cn/archives/WSL%202%20%E4%B8%AD%E9%85%8D%E7%BD%AE%E7%BB%88%E7%AB%AF%E8%B5%B0%E4%B8%BB%E6%9C%BA%E4%BB%A3%E7%90%86/)
 

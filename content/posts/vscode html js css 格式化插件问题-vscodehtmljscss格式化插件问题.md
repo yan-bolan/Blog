@@ -9,7 +9,7 @@ tags = ["字符串"]
 [extra]
 category = "JavaScript"
 categories = ["JavaScript"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 ﻿id  里加了空格。
 

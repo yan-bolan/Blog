@@ -5,7 +5,7 @@ updated = "2021-05-14 22:02:45"
 slug = "352ddea"
 aliases = ["/2019/12_05_352ddea.html"]
 [extra]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++
 ﻿HTTPPIE
 CURL

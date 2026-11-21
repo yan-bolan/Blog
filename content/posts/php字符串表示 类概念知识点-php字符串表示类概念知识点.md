@@ -9,7 +9,7 @@ tags = ["php类概念,php字符串"]
 [extra]
 category = "php"
 categories = ["php"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 ﻿1. 单引号
 2. 双引号

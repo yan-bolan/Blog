@@ -7,7 +7,7 @@ aliases = ["/2020/05_16_a68d8b9f.html"]
 [taxonomies]
 tags = ["vm docker,网卡,端口占用"]
 [extra]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 ﻿lsof -i:端口号
 list open file

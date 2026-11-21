@@ -9,7 +9,7 @@ tags = ["ip vm"]
 [extra]
 category = "win10,Linux"
 categories = ["win10,Linux"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 网上有方法。
 可以试下DHCP 改最大租约天数

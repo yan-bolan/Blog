@@ -7,6 +7,6 @@ aliases = ["/2019/10_20_b5018db5.html"]
 [extra]
 category = "IDE"
 categories = ["IDE"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 ﻿https://www.cnblogs.com/yysbolg/p/8566389.html

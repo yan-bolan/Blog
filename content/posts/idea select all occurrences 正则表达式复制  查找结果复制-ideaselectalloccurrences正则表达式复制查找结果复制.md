@@ -9,7 +9,7 @@ tags = ["正则表达式"]
 [extra]
 category = "IDE"
 categories = ["IDE"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++
 ﻿一些场景下复制东西
 

@@ -7,7 +7,7 @@ aliases = ["/2019/12_27_6df4f0.html"]
 [extra]
 category = "andriod"
 categories = ["andriod"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 ﻿[https://blog.csdn.net/cadi2011/article/details/83659831](https://blog.csdn.net/cadi2011/article/details/83659831)
 [https://blog.csdn.net/lzyyzyq/article/details/80487746](https://blog.csdn.net/lzyyzyq/article/details/80487746)

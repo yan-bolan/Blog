@@ -9,7 +9,7 @@ tags = ["linux,vmare ip"]
 [extra]
 category = "Linux"
 categories = ["Linux"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125432-warteergirls.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++
 ﻿忘记截图了。
 

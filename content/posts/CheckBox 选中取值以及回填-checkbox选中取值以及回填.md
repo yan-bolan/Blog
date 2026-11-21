@@ -7,6 +7,6 @@ aliases = ["/2019/11_10_83e06d3.html"]
 [extra]
 category = "javaweb"
 categories = ["javaweb"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 ﻿[https://www.cnblogs.com/ckxlovejava/p/7872478.html](https://www.cnblogs.com/ckxlovejava/p/7872478.html)

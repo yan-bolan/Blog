@@ -121,7 +121,7 @@ SelectMethod: xsd文件中查询方法：可以自定义查询方法
 
 ![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16809193245821680919324558.png)
 
-# ![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16809201955261680920194984.png)
+# ![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/16809201955261680920194984.png)
 
 2015没有问题 选择数据源 ;
 

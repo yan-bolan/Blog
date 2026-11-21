@@ -7,7 +7,7 @@ aliases = ["/2020/09_29_15713189.html"]
 [taxonomies]
 tags = ["springboot,controller"]
 [extra]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++
 ```java
 //@RestController 等于 @Controller + @ResponseBody  REST风格 

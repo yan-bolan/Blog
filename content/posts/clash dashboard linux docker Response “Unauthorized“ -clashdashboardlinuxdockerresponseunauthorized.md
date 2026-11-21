@@ -9,6 +9,6 @@ tags = ["docker,ssh,clash dashboard"]
 [extra]
 category = "Linux"
 categories = ["Linux"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++
 ﻿

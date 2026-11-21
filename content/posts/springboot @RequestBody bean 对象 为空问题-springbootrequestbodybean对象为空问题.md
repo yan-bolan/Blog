@@ -7,7 +7,7 @@ aliases = ["/2020/10_11_970c5d22.html"]
 [taxonomies]
 tags = ["spring,RequestBody"]
 [extra]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++
 ﻿1. 确认 数据是传入
   f12  。

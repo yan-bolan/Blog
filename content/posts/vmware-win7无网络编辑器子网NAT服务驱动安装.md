@@ -28,7 +28,7 @@ cover = "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxlnmr18gj31hc0u01ar.jpg"
    
     增加一个NAT 网络，配置子网，和掩码，和DHCP; （不配，网络是会有问题的）;
    
-   ![](https://fastly.jsdelivr.net/gh/yan-bolan/picbed@master/img/picgo/16700743301111670074329364.png)
+   ![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/16700743301111670074329364.png)
 
 ---
 

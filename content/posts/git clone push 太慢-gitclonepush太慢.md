@@ -9,7 +9,7 @@ tags = ["proxy,git"]
 [extra]
 category = "网络"
 categories = ["网络"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++
 ﻿git config --global https.proxy socks5://127.0.0.1:1080
 

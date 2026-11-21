@@ -9,7 +9,7 @@ tags = ["php文件上传,http协议"]
 [extra]
 category = "php"
 categories = ["php"]
-cover = "https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++
 ﻿必须使用POST方式提交(设置表单 method="post" )；(2) 必须设置表单enctype属性为  enctype="multipart/form-data" ；(3) 表单中要有一个文本域控件。
 

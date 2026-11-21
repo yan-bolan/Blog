@@ -13,7 +13,7 @@ title: git_diff
 url: ''
 categories: 笔记
 cover: >-
-  https://cdn.jsdelivr.net/gh/tangxingithub/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
+  https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg
 tags: ssｈ
 abbrlink: 285cf44f
 date: 2024-10-04 16:44:03
