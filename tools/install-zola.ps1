@@ -2,7 +2,7 @@
 $ErrorActionPreference = "Stop"
 $dest = Join-Path $env:LOCALAPPDATA "Programs\zola"
 New-Item -ItemType Directory -Force -Path $dest | Out-Null
-$src = "D:\博客\yanbolanblog\tools\zola.exe"
+$src = "D:\博客\YuriBlog\tools\zola.exe"
 if (Test-Path $src) { Move-Item $src (Join-Path $dest "zola.exe") -Force; Write-Output "moved: $src -> $dest" }
 elseif (Test-Path (Join-Path $dest "zola.exe")) { Write-Output "already installed" }
 else { throw "zola.exe not found" }

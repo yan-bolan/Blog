@@ -67,7 +67,7 @@ cover = "https://example.com/cover.jpg"
 
 ## 配套工具 ChiSaTo
 
-`D:\WorkPlaceVisualStudio2026\Blog_\ChiSaTo`（C# WinForms 建文章工具）已同步适配：文章目录指向 `content/posts`，新建文章直接生成 Zola TOML front matter（不再调用 hexo new），默认博客路径改为 `D:\博客\yanbolanblog`。改动后需重新编译该程序。
+`D:\WorkPlaceVisualStudio2026\Blog_\ChiSaTo`（C# WinForms 建文章工具）已同步适配：文章目录指向 `content/posts`，新建文章直接生成 Zola TOML front matter（不再调用 hexo new），默认博客路径改为 `D:\博客\YuriBlog`。改动后需重新编译该程序。
 
 ## 部署（GitHub Actions）
 

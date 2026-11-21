@@ -1,5 +1,5 @@
 // Hexo -> Zola 文章迁移脚本（烟波蓝日志）
-// 用法: node scripts/migrate.mjs   （在 yanbolanblog 目录下运行）
+// 用法: node scripts/migrate.mjs   （在 YuriBlog 目录下运行）
 import fs from "node:fs/promises";
 import path from "node:path";
 import { createRequire } from "node:module";
