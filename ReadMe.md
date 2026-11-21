@@ -4,20 +4,23 @@ https://yuris.site —— 由 Hexo + nexmoe 迁移至 **Zola + helloblog** 主�
 
 ## 本地预览 / 构建
 
-Windows 下直接使用仓库内置的便携版 Zola（0.23.6）：
+Zola 0.23.6 已安装到 `%LOCALAPPDATA%\Programs\zola` 并加入用户 PATH（安装脚本 `tools/install-zola.ps1`），新开终端即可直接用：
 
 ```powershell
-.\tools\zola.exe serve    # 预览 http://127.0.0.1:1111
-.\tools\zola.exe build    # 生成 public/
+zola serve    # 预览 http://127.0.0.1:1111
+zola build    # 生成 public/
 ```
 
-二进制不入库；如缺失，运行 `node tools/download-zola.mjs` 重新下载（走系统代理）。
+局域网预览：`zola serve --interface 0.0.0.0 --port 1111 --base-url <本机IP>`（--base-url 不要带端口）。
+
+如换机或误删，运行 `node tools/download-zola.mjs` 重新下载便携版到 tools/，再执行 `tools/install-zola.ps1`。
 
 ## 目录结构
 
 | 目录 | 说明 |
 | --- | --- |
 | `config.toml` | 站点配置（含旧站迁移过来的主题设定、中文翻译） |
+| `content/` | **junction → `E:\服务器备份\yanbolanblog\content`**（文章实体存放在 E 盘，与旧站 source 软链接同思路；重建脚本 `tools/make-junction.ps1`） |
 | `content/posts/` | 285 篇文章（由 Hexo `source/_posts` 迁移，扁平化） |
 | `content/about.md` / `category.md` / `link.md` | 关于 / 归档 / 友链页 |
 | `static/` | 头像、背景、备案图标、robots.txt 等静态资源 |
@@ -61,6 +64,10 @@ cover = "https://example.com/cover.jpg"
 - 搜索：旧站 Bing 站内搜索 → 主题自带本地全文搜索。
 - 评论：旧 DiscussBot → giscus（`config.toml` 中 `[extra.giscus] enable = false`，暂未启用）。
 - 旧菜单中 /PY.html、/donate.html、/about.html 为死链（source 中无对应文件）；朋友页已用主题友链页重建，赞助页未迁移。
+
+## 配套工具 ChiSaTo
+
+`D:\WorkPlaceVisualStudio2026\Blog_\ChiSaTo`（C# WinForms 建文章工具）已同步适配：文章目录指向 `content/posts`，新建文章直接生成 Zola TOML front matter（不再调用 hexo new），默认博客路径改为 `D:\博客\yanbolanblog`。改动后需重新编译该程序。
 
 ## 部署（GitHub Actions）
 
