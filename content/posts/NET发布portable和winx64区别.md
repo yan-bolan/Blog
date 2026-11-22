@@ -3,6 +3,7 @@ title = "NET发布portable和winx64区别"
 date = "2023-05-05 21:01:58"
 slug = "5b983bae"
 aliases = ["/2023/05_05_5b983bae.html"]
+description = "对比.NET发布portable与win-x64：portable启动需JIT且含多平台runtimes目录，win-x64在构建机预编译启动更快。"
 [taxonomies]
 tags = ["NET"]
 [extra]

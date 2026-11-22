@@ -4,6 +4,7 @@ date = "2019-10-08 18:38:20"
 updated = "2021-05-14 22:00:42"
 slug = "3106bc6a"
 aliases = ["/2019/10_08_3106bc6a.html"]
+description = "IDEA JavaWeb 热部署：Tomcat 部署选 war exploded，更新与失焦设为 update classes and resources。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++

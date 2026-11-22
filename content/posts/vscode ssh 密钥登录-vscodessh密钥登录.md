@@ -4,6 +4,7 @@ date = "2020-05-15 23:26:29"
 updated = "2021-05-14 22:04:15"
 slug = "96cea11e"
 aliases = ["/2020/05_15_96cea11e.html"]
+description = "记录VSCode Remote SSH密钥登录总走密码的问题：在ssh配置中用IdentityFile指定私钥，且私钥须放在用户主目录下才生效。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 +++

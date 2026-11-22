@@ -4,6 +4,7 @@ date = "2019-09-22 10:24:53"
 updated = "2021-05-14 22:04:22"
 slug = "3e4ffda5"
 aliases = ["/2019/09_22_3e4ffda5.html"]
+description = "解决Win10下MySQL 8.0登录报Access denied：mysqldump导出时-p后不要直接跟密码，改为回车后交互式输入。"
 [taxonomies]
 tags = ["mysql"]
 [extra]

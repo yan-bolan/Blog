@@ -4,6 +4,7 @@ date = "2019-10-24 21:14:07"
 updated = "2021-05-14 22:01:12"
 slug = "a206a7ad"
 aliases = ["/2019/10_24_a206a7ad.html"]
+description = "收藏一条博客园教程链接，供 CentOS 搭建 FTP 服务时参考。"
 [extra]
 category = "Linux"
 categories = ["Linux"]

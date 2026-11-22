@@ -3,6 +3,7 @@ title = "efdbfirst代码生成"
 date = "2025-11-16 12:33:53"
 slug = "dd5317cb"
 aliases = ["/2025/11_16_dd5317cb.html"]
+description = "EF Core 用 dotnet-ef 的 dbcontext scaffold 从数据库连接串生成 DbContext 与实体，T4 模板版本须与工具一致。"
 [taxonomies]
 tags = ["ef"]
 [extra]

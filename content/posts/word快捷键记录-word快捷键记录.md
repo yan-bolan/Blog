@@ -4,6 +4,7 @@ date = "2020-01-16 10:41:14"
 updated = "2021-05-14 22:03:48"
 slug = "1a0fed03"
 aliases = ["/2020/01_16_1a0fed03.html"]
+description = "记录Word快捷键使用心得：不必死背快捷键，知道存在即可随用随查，并给出选中整行的鼠标点击与Shift加方向键等便捷操作。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
 +++

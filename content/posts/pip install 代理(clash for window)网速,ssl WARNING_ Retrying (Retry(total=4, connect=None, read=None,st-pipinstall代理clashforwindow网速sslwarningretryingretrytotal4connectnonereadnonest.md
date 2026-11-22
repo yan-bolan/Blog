@@ -4,6 +4,7 @@ date = "2021-01-25 20:56:13"
 updated = "2021-05-14 22:02:17"
 slug = "33440b77"
 aliases = ["/2021/01_25_33440b77.html"]
+description = "记录pip安装requirements超时、代理与SSL报错的排查：加超时、关代理、换镜像均不稳，最终用脚本逐行安装分而治之，并按Python版本选包。"
 [taxonomies]
 tags = ["anaconda,proxy,pip,pip install,proxy error"]
 [extra]

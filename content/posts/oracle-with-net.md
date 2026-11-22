@@ -3,6 +3,7 @@ title = "oracle with net"
 date = "2022-10-28 20:16:42"
 slug = "85ef870d"
 aliases = ["/2022/10_28_85ef870d.html"]
+description = "整理.NET用ODP.NET连Oracle的要点：ODAC多版本冲突与policy重定向、DllPath配置和非托管DLL搜索顺序，附配置文件示例。"
 [extra]
 cover = "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxk78xqdoj31kw0w0dzz.jpg"
 +++

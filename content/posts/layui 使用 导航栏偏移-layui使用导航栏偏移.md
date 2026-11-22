@@ -4,6 +4,7 @@ date = "2019-12-27 18:18:18"
 updated = "2021-05-14 22:02:36"
 slug = "c412630"
 aliases = ["/2019/12_27_c412630.html"]
+description = "用 layui 栅格的 layui-col-md-offset4 类实现导航栏列偏移，附效果截图。"
 [extra]
 category = "前端"
 categories = ["前端"]

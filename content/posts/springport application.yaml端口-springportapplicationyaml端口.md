@@ -4,6 +4,7 @@ date = "2020-10-08 21:06:20"
 updated = "2021-05-14 22:03:55"
 slug = "5c40672e"
 aliases = ["/2020/10_08_5c40672e.html"]
+description = "整理SpringBoot改端口的方式：命令行--server.port参数，或application.yml中server.port配置，支持环境变量占位。"
 [taxonomies]
 tags = ["java"]
 [extra]

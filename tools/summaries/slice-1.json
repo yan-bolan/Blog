@@ -1,0 +1,290 @@
+[
+ {
+  "file": "content/posts/22软件工程-系统概要设计阶段20191022软件工程.md",
+  "description": "食品批发系统概要设计笔记，阐述设计原则、基于SSH框架的五层体系结构、功能模块划分与MySQL数据库实体及表结构设计。"
+ },
+ {
+  "file": "content/posts/AS BottomNavigation does not have a NavController set-asbottomnavigationdoesnothaveanavcontrollerset.md",
+  "description": "排查AS生成BottomNavigation活动报无NavController错误，发现与NoActionBar主题及布局设置有关，调整后解决。"
+ },
+ {
+  "file": "content/posts/ASP-NET-MVC.md",
+  "description": "ASP.NET MVC读书笔记，梳理IIS各版本与ASP.NET请求处理管道的演进及ISAPI机制，并讲解MVC模式思想与MVP等变体。"
+ },
+ {
+  "file": "content/posts/Androidstudio的adb命令在terminal输入-androidstudio的adb命令在terminal输入.md",
+  "description": "记录在Android Studio自带Terminal中直接输入adb命令的方法，正文以截图演示为主。"
+ },
+ {
+  "file": "content/posts/Azure删除项目和组织-azure删除项目和组织.md",
+  "description": "说明Azure DevOps中删除项目的操作入口：进入项目设置页面后在底部找到删除选项，附截图演示。"
+ },
+ {
+  "file": "content/posts/BOM学习.md",
+  "description": "梳理BOM物料清单的分类，介绍EBOM、MBOM等业务视角及简单、变体、多重、计划、虚拟、扁平化等技术视角BOM的含义与用途。"
+ },
+ {
+  "file": "content/posts/CSS3-Learn.md",
+  "description": "前端学习笔记，涵盖iframe自适应高度、模板字符串、querySelector选择器组合及apply、call、bind改变this指向的用法。"
+ },
+ {
+  "file": "content/posts/Centos8虚拟机安装后IP问题-centos8虚拟机安装后ip问题.md",
+  "description": "CentOS 8虚拟机无IP排查：系统废弃network.service改用NetworkManager，执行nmcli c up ens33激活网卡解决。"
+ },
+ {
+  "file": "content/posts/CheckBox 选中取值以及回填-checkbox选中取值以及回填.md",
+  "description": "记录JavaWeb中CheckBox选中取值与回填的参考资料，正文仅附博客园相关链接。"
+ },
+ {
+  "file": "content/posts/Code-Faster-With-Visual-Studio-2022-Productivity-Tips.md",
+  "description": "Visual Studio 2022效率技巧：清理命名空间与格式化快捷键、ctor和prop片段、Immediate窗口、交互式REPL及JSON粘贴生成类。"
+ },
+ {
+  "file": "content/posts/Csharp_map_filter_reduce.md",
+  "description": "收藏C#数组实现Map、Filter、Reduce操作的参考文章，正文仅附博客园链接。"
+ },
+ {
+  "file": "content/posts/Dockerfile中更换国内源 jenkins docker 慢-dockerfile中更换国内源jenkinsdocker慢.md",
+  "description": "解决Docker构建镜像默认国外源导致装软件慢的问题：在Dockerfile中用sed将alpine源替换为清华TUNA镜像源加速。"
+ },
+ {
+  "file": "content/posts/EXCEL_SQL_数学.md",
+  "description": "探讨用Excel公式实现交集并集差集等集合运算：介绍空格交叉运算符、MATCH与ISERROR组合及新版溢出特性，认为SQL方式略多余。"
+ },
+ {
+  "file": "content/posts/EXCEL下拉式填充.md",
+  "description": "介绍Excel大数据量快速填充技巧：双击填充句柄、Ctrl+G定位区域后Ctrl+D、Shift加方向键选中再Ctrl+D，核心是选中后复制上行。"
+ },
+ {
+  "file": "content/posts/EXCEL插入当前日期.md",
+  "description": "记录Excel快速插入当前日期的快捷键Ctrl加分号。"
+ },
+ {
+  "file": "content/posts/EnableAsync annotation metadata was not injected AnnotationConfigApplicationContext-enableasyncannotationmetadatawasnotinjectedannotationconfigapplicationcontext.md",
+  "description": "排查Spring报EnableAsync元数据未注入错误：ComponentScan未限定包而扫入Spring自身注解，指定扫描包或改用XML配置容器解决。"
+ },
+ {
+  "file": "content/posts/Error running app_ Default Activity Not Found-errorrunningappdefaultactivitynotfound.md",
+  "description": "排查AS运行报Default Activity Not Found：原因是清单缺少MAIN入口的action声明，在intent-filter中补上即解决。"
+ },
+ {
+  "file": "content/posts/Excel VlOOKUP不起作用解决办法.md",
+  "description": "梳理VLOOKUP不起作用的常见原因与对策：单元格格式、下拉递增需美元符绝对锁定、自动重算；另述LOOKUP升序要求与FILTER返回多值。"
+ },
+ {
+  "file": "content/posts/ExcelCount-Learn.md",
+  "description": "Excel计数学习笔记：统计包含指定文本的单元格与重复个数，附参考链接，并对pivot用法存疑待查。"
+ },
+ {
+  "file": "content/posts/Excel筛选重复值.md",
+  "description": "笔记Excel实现类SQL分析：用&连字符合并多键值、COUNTIF计数与去重、筛选重复值及实现NOT IN，附参考链接。"
+ },
+ {
+  "file": "content/posts/Exel常用函数.md",
+  "description": "梳理Excel常用函数：SUM、VLOOKUP与HLOOKUP、MATCH、LOOKUP及XLOOKUP等的用法差异，认为复杂公式的取舍取决于数据量与效益。"
+ },
+ {
+  "file": "content/posts/Fiddler-fiddler.md",
+  "description": "Fiddler抓包工具入门收藏，正文仅附博客园入门教程链接。"
+ },
+ {
+  "file": "content/posts/HTTP下载文件.md",
+  "description": "笔记HTTP下载文件：响应头设Content-Disposition、ASP.NET改form提交；ajax返回文件不弹下载，需借Blob创建标签触发请求。"
+ },
+ {
+  "file": "content/posts/Hello Halo-hello-halo.md",
+  "description": "Halo博客安装成功后自动生成的默认示例文章，含官网、文档、社区与主题等链接，提示删除后开始创作。"
+ },
+ {
+  "file": "content/posts/HelloWorld!-helloworld.md",
+  "description": "杂谈笔记：Halo升级前先备份且不建议升级（主题跟不上），博客地址用IP而非域名否则无法下载；另测试网易云音乐、字体与B站视频嵌入。"
+ },
+ {
+  "file": "content/posts/How-to-rank-values-by-group-in-Excel.md",
+  "description": "介绍Excel分组排名：用SUMPRODUCT将分组匹配与大小比较的布尔数组相乘求和加一；作者认为公式复杂实用性有限，并解释矩阵相乘原理。"
+ },
+ {
+  "file": "content/posts/IDEA导入别人项目-idea导入别人项目.md",
+  "description": "记录IDEA导入他人项目报Invalid Maven home directory configured：需将Maven路径改为自己的本地配置，附参考链接。"
+ },
+ {
+  "file": "content/posts/IDEA错误查找-idea错误查找.md",
+  "description": "记录IDEA错误定位方法：编辑器右侧横杠标记红为错误黄为警告，代码多时可据此快速定位，附截图。"
+ },
+ {
+  "file": "content/posts/IIS-configure-配置.md",
+  "description": "排查IIS报500.19配置节被锁：安装ASP.NET等应用开发功能或将overrideModeDefault设为Allow解决，另记400无效主机名问题。"
+ },
+ {
+  "file": "content/posts/JS-闭包.md",
+  "description": "JavaScript学习笔记：涵盖闭包、let/const、Promise链式调用解决回调地狱、apply/call、事件监听与冒泡捕获及事件循环机制。"
+ },
+ {
+  "file": "content/posts/Java Web技术与实践-javaweb技术与实践.md",
+  "description": "Java Web读书笔记：梳理B/S与HTTP、Servlet生命周期与容器、JSP和MVC、内置对象，并介绍Spring的IoC注入、AOP与MVC原理。"
+ },
+ {
+  "file": "content/posts/Java web项目Linux下部署的中文乱码问题-javaweb项目linux下部署的中文乱码问题.md",
+  "description": "记录Java Web项目Linux部署中文乱码的编码差异：读文件用UTF-8而response输出用GB2312，与Windows相反；文中未给出明确解法。"
+ },
+ {
+  "file": "content/posts/Java.lang.NoClassDefFoundError jar 打包-javalangnoclassdeffounderrorjar打包.md",
+  "description": "排查改pom后打包jar报NoClassDefFoundError：IDEA的artifacts未随依赖更新致jar缺类，重建artifacts解决。"
+ },
+ {
+  "file": "content/posts/Jenkins springboot maven kotlin java混合 不混合的多模块 问题总结有点小坑-jenkinsspringbootmavenkotlinjava混合不混合的多模块问题总结有点小坑.md",
+  "description": "排查Jenkins构建多模块报package不存在：纯Kotlin模块未指定源码目录致打出空jar，为kotlin插件配置sourceDirs解决。"
+ },
+ {
+  "file": "content/posts/Lifecycle.md",
+  "description": "ASP.NET底层笔记：梳理Http.sys到HttpHandler请求管道与OWIN摆脱System.Web依赖，并涉猎Harmony、Dapper等生态。"
+ },
+ {
+  "file": "content/posts/Linux服务systemd管理版本.md",
+  "description": "介绍systemd管理.NET服务的版本方案：unit文件版本控制、releases加current符号链接原子切换与回滚、蓝绿零停机部署及健康检查自动回退。"
+ },
+ {
+  "file": "content/posts/Linux根目录扩容 Gpart iso方式-linux根目录扩容gpartiso方式.md",
+  "description": "记录CentOS7虚拟机根分区扩容：fdisk与LVM未果且不装桌面，改用GParted官方ISO从CD启动GUI扩容sda3成功，另思服务器命令行方案。"
+ },
+ {
+  "file": "content/posts/NET发布portable和winx64区别.md",
+  "description": "对比.NET发布portable与win-x64：portable启动需JIT且含多平台runtimes目录，win-x64在构建机预编译启动更快。"
+ },
+ {
+  "file": "content/posts/Net编码UTF-8BOM问题.md",
+  "description": "梳理.NET的UTF-8 BOM：Encoding.UTF8默认带BOM致JSON解析报错，用UTF8Encoding(false)去除，BOM作用于文件。"
+ },
+ {
+  "file": "content/posts/Nodejs-win7下安装.md",
+  "description": "记录Win7安装Node.js的限制：官方仅支持到13，14.5.3可解压二进制包并配环境变量运行，更高版本易缺dll不建议尝试。"
+ },
+ {
+  "file": "content/posts/ORACLE-JOB失败16次后停止.md",
+  "description": "说明Oracle DBMS_JOB的broken机制：连续16次执行失败或经DBMS_JOB.BROKEN显式标记后作业中断不再重试，监控指标超阈值告警。"
+ },
+ {
+  "file": "content/posts/ORACLE使用SELECT后INSERT报ORA-01652错误.md",
+  "description": "标题记录Oracle中SELECT后INSERT报ORA-01652错误的问题，正文为空，未附排查过程与结论。"
+ },
+ {
+  "file": "content/posts/Oracle-字符集设置和乱码.md",
+  "description": "笔记Oracle字符集与乱码：客户端经profile或注册表设NLS_LANG，乱码源于服务端客户端不匹配；.NET可试连接串unicode=true。"
+ },
+ {
+  "file": "content/posts/PHP其它类型的变量转换为布尔类型时,哪些值被认为是false-php其它类型的变量转换为布尔类型时哪些值被认为是false.md",
+  "description": "总结PHP其它类型转布尔时视为false的值：false、整型0、浮点0.0、空串与字符串0、空数组、NULL及未设定变量。"
+ },
+ {
+  "file": "content/posts/PHP调试-环境选择-window 原理principle调试流程解析 DBGp是什么 cmd乱码-php调试-环境选择-window原理principle调试流程解析dbgp是什么cmd乱码.md",
+  "description": "PHP调试原理笔记：Windows下xdebug配php.ini端口与idekey，解析DBGp代理与php-CGI链路，chcp 65001解cmd乱码。"
+ },
+ {
+  "file": "content/posts/PLSQL登录数据库.md",
+  "description": "介绍PL/SQL登录Oracle两种情形：本机有库在首选项设连接直连；无库下载instantclient配目录，装库后登不上改目录为安装目录。"
+ },
+ {
+  "file": "content/posts/PPT艺术参考-ppt艺术参考.md",
+  "description": "PPT设计与排版经验集：留白、标尺对齐、配色三种、深浅背景按投影选择、元素层次与点线面引导视线、SCQA与MECE内容架构，及母版、嵌入字体、合并形状等技巧。"
+ },
+ {
+  "file": "content/posts/Public Key Retrieval is not allowed-publickeyretrievalisnotallowed.md",
+  "description": "MySQL报Public Key Retrieval is not allowed：URL补useSSL=false与serverTimezone等参数可解。"
+ },
+ {
+  "file": "content/posts/RDLC教程.md",
+  "description": "RDLC报表笔记：装ReportViewer扩展与NuGet包，用ObjectDataSource绑DataSet，记缺Oracle驱动致异常、数据源未提供。"
+ },
+ {
+  "file": "content/posts/RDLC滑动条无法滑动.md",
+  "description": "排查RDLC滑动条无法滑动：VS2019打开旧rdlc报定义无效，按参考修复并拖动table居中后恢复滑动，但竖向到底后横向仍不能滑，未彻底解决。"
+ },
+ {
+  "file": "content/posts/RPC远程调用.md",
+  "description": "梳理远程调用从SOA、SOAP到REST与gRPC的演进：SOAP与REST基于文本、gRPC基于二进制性能更高，XSD约束协议、WSDL作文档。"
+ },
+ {
+  "file": "content/posts/TLS-ALPN-routing.md",
+  "description": "排查Android客户端拿到自签名证书：OpenResty按ALPN分流，无ALPN落入RDP后端；在SNI映射加子域名通配指向web后端，修复后证书正常。"
+ },
+ {
+  "file": "content/posts/To avoid scope ambiguity, the default slot should also use ＜template＞ syntax when there are other na-toavoidscopeambiguitythedefaultslotshouldalsousetemplatesyntaxwhenthereareotherna.md",
+  "description": "讲解Vue具名插槽：子组件定义多个具名slot，父用template加v-slot分发内容；有具名插槽时默认插槽也应用template语法避免作用域歧义。"
+ },
+ {
+  "file": "content/posts/Unrecognized field   OkHttpClient_ Callback failure for call to-unrecognizedfieldokhttpclientcallbackfailureforcallto.md",
+  "description": "排查Android开混淆后OkHttp回调报Unrecognized field：根因是bean属性名被混淆，加keep保持beans包解决。"
+ },
+ {
+  "file": "content/posts/WINDBG学习.md",
+  "description": "WinDbg分析IIS进程dump笔记：procdump按32/64位抓取，.loadby sos clr加载SOS，!analyze -v修DAC不匹配。"
+ },
+ {
+  "file": "content/posts/WINDOW10解决CET问题.md",
+  "description": "记录VS Code C#开发触发CET堆栈保护致闪退：不能升级时，在Exploit Protection把主程序与两个C#服务进程加白名单关CET，重启生效。"
+ },
+ {
+  "file": "content/posts/WINDOW内存分析.md",
+  "description": "排查.NET非托管内存泄露：!FinalizeQueue显示590个Bitmap与Graphics未释放，根因Graphics未Dispose。"
+ },
+ {
+  "file": "content/posts/WindowsSSH配置.md",
+  "description": "Windows下SSH config教程：用Host别名配HostName、User、IdentityFile与Port简化连接，icacls限权仅当前用户。"
+ },
+ {
+  "file": "content/posts/Your anti-virus program might be impacting  防火墙-youranti-virusprogrammightbeimpacting防火墙.md",
+  "description": "记录Android Studio提示杀毒软件可能影响构建性能并列出受检目录：机器无第三方杀毒仅Windows防火墙，附截图，未给出明确排除步骤。"
+ },
+ {
+  "file": "content/posts/_index.md",
+  "description": "Zola博客文章列表的分区索引页，frontmatter设按日期排序、每页10条分页，无正文内容。"
+ },
+ {
+  "file": "content/posts/adb命令连接 多条命令 cmd wifi调试 root与非root-adb命令连接多条命令cmdwifi调试root与非root.md",
+  "description": "汇总adb实用命令：用&&串联卸载、安装与启动Activity；局域网wifi调试两法，非root需数据线先开tcpip且重启后重做，root可手机直接开。"
+ },
+ {
+  "file": "content/posts/adonet事务与并发.md",
+  "description": "介绍ADO.NET测试开放式并发冲突的一法：表加时间戳列，查询返回时间戳，更新时比对库中时间戳与原值是否一致以判冲突，附官方文档。"
+ },
+ {
+  "file": "content/posts/android studio proxy-androidstudioproxy.md",
+  "description": "记录Android Studio代理分IDE与Gradle两层：IDE在Settings设置、留空用系统代理，Gradle在用户目录配置全局生效，以截图为主。"
+ },
+ {
+  "file": "content/posts/android 下的判断网络是否连通的方法。-android下的判断网络是否连通的方法.md",
+  "description": "标题为Android下判断网络是否连通的方法，标签涉ping，正文为空，未附具体实现与结论。"
+ },
+ {
+  "file": "content/posts/android存储，布局约束-android存储布局约束.md",
+  "description": "Android笔记：应用专属SD缓存目录getExternalFilesDir等无需权限、卸载即清空，权限须运行时动态申请；约束布局基线对齐，建议看官方文档。"
+ },
+ {
+  "file": "content/posts/android安装sdk时，failed read或者write可能是权限问题-android安装sdk时failedread或者write可能是权限问题.md",
+  "description": "标题指Android安装SDK时failed to read or write可能是权限问题，正文仅附一条StackOverflow链接，无展开说明。"
+ },
+ {
+  "file": "content/posts/android录音状态机.md",
+  "description": "标题为Android录音状态机，标签MediaRecorder，正文仅一张状态机示意图，无文字说明。"
+ },
+ {
+  "file": "content/posts/android改app版本号-android改app版本号.md",
+  "description": "改Android版本号：在app模块build.gradle修改并与manifest一致；报NDK UNKNOWN错误时先make project再生成apk。"
+ },
+ {
+  "file": "content/posts/apache httpconf-apachehttpconf.md",
+  "description": "Apache httpd.conf改动笔记：改前备份、重启生效，配置有错无法启动需逐条加入定位，查日志或httpd.exe -k start看提示。"
+ },
+ {
+  "file": "content/posts/apache配置代理-apache配置代理.md",
+  "description": "Apache配置代理：conf追加proxy等LoadModule模块、启用ProxyRequests并允许所有访问，重启后浏览器设代理本机端口，能访问即成功。"
+ },
+ {
+  "file": "content/posts/ava.sql.SQLException_ The server time zone value '�й���׼ʱ��' is unrecognized or represents more than-avasqlsqlexceptiontheservertimezonevalueisunrecognizedorrepresentsmorethan.md",
+  "description": "排查Java连MySQL报server time zone value无法识别：需在JDBC URL指定serverTimezone=UTC等时区参数。"
+ },
+ {
+  "file": "content/posts/bing图片-bing图片.md",
+  "description": "记录获取Bing每日图片：用bing.ioliu.cn与官方HPImageArchive接口，注意跨域与JSONP；Java后端聚合7天图片返回JSONP。"
+ }
+]

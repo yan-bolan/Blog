@@ -4,6 +4,7 @@ date = "2021-02-06 11:05:03"
 updated = "2021-05-14 22:02:56"
 slug = "a46ec359"
 aliases = ["/2021/02_06_a46ec359.html"]
+description = "记录Kali与PandoraBox上wifiphisher钓鱼实验的排查：射频硬阻塞、opkg源404、端口占用致门户不弹窗，重启后短暂成功，最终放弃。"
 [taxonomies]
 tags = ["openwrt"]
 [extra]

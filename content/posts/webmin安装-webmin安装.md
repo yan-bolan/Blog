@@ -4,6 +4,7 @@ date = "2019-12-06 09:52:28"
 updated = "2021-05-14 22:04:18"
 slug = "c051e112"
 aliases = ["/2019/12_06_c051e112.html"]
+description = "记录CentOS安装Webmin：rpm依赖缺失用yum补perl模块，SSL模式需以https访问，IPv6监听在端口设置中开启并装perl-Socket6。"
 [taxonomies]
 tags = ["webmin,ipv6,install"]
 [extra]

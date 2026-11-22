@@ -4,6 +4,7 @@ date = "2019-10-24 10:07:18"
 updated = "2021-05-14 22:00:46"
 slug = "9d2360d0"
 aliases = ["/2019/10_24_9d2360d0.html"]
+description = "IDEA 配置 Struts2.5 的参考链接与截图集，涵盖环境搭建修复、Struts2 工作原理与执行流程及 action 用法详解。"
 [taxonomies]
 tags = ["struts2.5"]
 [extra]

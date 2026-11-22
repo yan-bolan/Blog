@@ -4,6 +4,7 @@ date = "2019-11-10 00:09:57"
 updated = "2021-05-14 22:00:50"
 slug = "ba1da1f7"
 aliases = ["/2019/11_10_ba1da1f7.html"]
+description = "记录IDEA错误定位方法：编辑器右侧横杠标记红为错误黄为警告，代码多时可据此快速定位，附截图。"
 [extra]
 category = "IDE"
 categories = ["IDE"]

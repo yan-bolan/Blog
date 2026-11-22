@@ -4,6 +4,7 @@ date = "2019-10-22 13:14:50"
 updated = "2021-05-14 22:04:09"
 slug = "74cbf184"
 aliases = ["/2019/10_22_74cbf184.html"]
+description = "说明VMware桥接模式配置：宿主机网卡需安装VMware桥接协议，虚拟机指定桥接到该网卡，与主机处于对等网段，并建议换国内yum源。"
 [extra]
 category = "Linux"
 categories = ["Linux"]

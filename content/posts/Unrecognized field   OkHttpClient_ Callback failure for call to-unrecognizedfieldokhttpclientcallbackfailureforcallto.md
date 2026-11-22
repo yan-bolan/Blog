@@ -4,6 +4,7 @@ date = "2020-09-13 13:31:42"
 updated = "2021-05-14 22:04:07"
 slug = "4afced11"
 aliases = ["/2020/09_13_4afced11.html"]
+description = "排查Android开混淆后OkHttp回调报Unrecognized field：根因是bean属性名被混淆，加keep保持beans包解决。"
 [taxonomies]
 tags = ["android,Progouard,bean,okhttp"]
 [extra]

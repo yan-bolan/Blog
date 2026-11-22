@@ -3,6 +3,7 @@ title = "netcsharp语法学习"
 date = "2022-11-12 17:59:20"
 slug = "69d0b943"
 aliases = ["/2022/11_12_69d0b943.html"]
+description = "按版本梳理C#新语法：lambda与委托、switch模式匹配、is/not/and/or、空值运算符、var、init属性与record，附官方示例与建议。"
 [taxonomies]
 tags = ["csahrp"]
 [extra]

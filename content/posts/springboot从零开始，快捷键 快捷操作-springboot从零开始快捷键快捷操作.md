@@ -4,6 +4,7 @@ date = "2020-02-08 18:16:27"
 updated = "2021-05-14 22:03:55"
 slug = "964158b2"
 aliases = ["/2020/02_08_964158b2.html"]
+description = "SpringBoot入门视频笔记：Maven建项目、yml配置与取值注解、Profile多环境与打包部署，兼及热部署、actuator监控和微服务组件。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png"
 +++

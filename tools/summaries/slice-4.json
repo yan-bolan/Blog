@@ -1,0 +1,286 @@
+[
+  {
+    "file": "content/posts/win10系统变量的列表显示方法-win10系统变量的列表显示方法.md",
+    "description": "排查Win10环境变量Path列表显示异常：旧版本需把首行改为盘符开头而非百分号，20H2新版已支持百分号写法。"
+  },
+  {
+    "file": "content/posts/win10远程唤醒，网卡驱动电源管理是灰色。-win10远程唤醒网卡驱动电源管理是灰色.md",
+    "description": "解决Win10远程唤醒时网卡电源管理选项灰色不可点的问题：更新网卡驱动并检查BIOS设置，再取消勾选限制选项即可恢复。"
+  },
+  {
+    "file": "content/posts/window-outbound转发.md",
+    "description": "整理Windows下拦截转发outbound TCP流量的方案：用虚拟网卡设定IP再监听端口，对比clash改协议方式与Linux的iptables。"
+  },
+  {
+    "file": "content/posts/windows 根据端口查看进行PID 并杀掉进程-windows根据端口查看进行pid并杀掉进程.md",
+    "description": "Windows按端口查PID并杀进程：netstat -ano配合find查端口对应PID，需管理员权限运行taskkill并加/F强制结束。"
+  },
+  {
+    "file": "content/posts/word 通配符小结-word通配符小结.md",
+    "description": "小结Word查找替换通配符用法：区分查找栏与替换栏可用符号，用括号分组并在替换栏引用保留内容，借助定界与!非运算减少误匹配。"
+  },
+  {
+    "file": "content/posts/word快捷键记录-word快捷键记录.md",
+    "description": "记录Word快捷键使用心得：不必死背快捷键，知道存在即可随用随查，并给出选中整行的鼠标点击与Shift加方向键等便捷操作。"
+  },
+  {
+    "file": "content/posts/wsl2 docker hpye-v window config.v2.json位置目录-wsl2dockerhpye-vwindowconfigv2json位置目录.md",
+    "description": "记录WSL2版Docker Desktop容器配置文件config.v2.json的路径在docker-desktop-data发行版中，默认发行版里找不到。"
+  },
+  {
+    "file": "content/posts/xml does not fulfill production-xmldoesnotfulfillproduction.md",
+    "description": "解析XML报错does not fulfill production Name：语法描述中圆括号表必选、方括号表可选，只是表示约定，不能照抄进实际代码。"
+  },
+  {
+    "file": "content/posts/xrdp自动登录.md",
+    "description": "配置WSL中xrdp自动登录：改xrdp.ini的Xorg用户名密码，并放开gdm与PAM对root图形登录的限制，实现增强模式免输密码。"
+  },
+  {
+    "file": "content/posts/zip包乱码.md",
+    "description": "解决跨语言Windows间zip文件名乱码：zip不记录编码所致，用Linux打补丁的unzip -O指定Big5解压，再转存7z格式保留编码。"
+  },
+  {
+    "file": "content/posts/“Failed to load response data“ django@xframe_options_exempt 网站不许 Firefox 显示被嵌入的网页-failedtoloadresponsedatadjangoxframeoptionsexempt网站不许firefox显示被嵌入的网页.md",
+    "description": "排查Django站点Ajax响应在浏览器中加载失败：实为X-Frame点击劫持防护拦截嵌入，给视图加xframe_options_exempt注解后恢复。"
+  },
+  {
+    "file": "content/posts/个人.md",
+    "description": "一篇个人随笔：感慨普通人读书、房贷、育儿、养老的重压与阶层落差，主张身处困境更应取悦自己、靠自己前行。"
+  },
+  {
+    "file": "content/posts/个发发展管理系统.md",
+    "description": "简记绩效管理概念：PMD为绩效管理系统，其结果对接PIP绩效改进计划，二者构成个人发展管理闭环。"
+  },
+  {
+    "file": "content/posts/代理 设置wsl_为 WSL2 一键设置代理 clash-代理设置wsl为wsl2一键设置代理clash.md",
+    "description": "记录为WSL2一键设置clash代理的方法：除常规主机代理配置外，可开启clash的TAP模式并配置DNS，使WSL内nameserver随之改变。"
+  },
+  {
+    "file": "content/posts/代码生成.md",
+    "description": "用swagger-codegen从swagger.json生成代码：只需Java环境，运行cli jar即可产出typescript-axios等客户端。"
+  },
+  {
+    "file": "content/posts/代码覆盖率测试.md",
+    "description": "记录.NET代码覆盖率测试流程：用dotnet-coverage采集运行数据输出xml，再以ReportGenerator按源码目录与程序集过滤生成报表。"
+  },
+  {
+    "file": "content/posts/佩奇排名-佩奇排名.md",
+    "description": "介绍PageRank网页排名算法：按链接结构分配页面得分，被越多重要页面指向分越高，并用随机游走模型解决闭环累加问题。"
+  },
+  {
+    "file": "content/posts/内部异常.md",
+    "description": "记录.NET内部异常InnerException的排查要点：反射调用抛出的异常常被包裹，需查看内部异常才能定位真正原因。"
+  },
+  {
+    "file": "content/posts/分布式事务性.md",
+    "description": "收藏分布式事务的Saga模式参考资料：指向微软Azure架构文档，用于了解跨服务事务的最终一致性设计。"
+  },
+  {
+    "file": "content/posts/分页排序正确性问题.md",
+    "description": "提醒LINQ分页查询的正确性隐患：若每次排序结果不确定，两次分页数据会错乱，需保证排序稳定唯一。"
+  },
+  {
+    "file": "content/posts/删数问题，贪心策略-删数问题贪心策略.md",
+    "description": "讲解删数问题的贪心解法：为使剩余数最小优先删除最近下降点的大数字，重复k次，并给出更接近伪代码的C++链表实现。"
+  },
+  {
+    "file": "content/posts/制造业常用名词记录.md",
+    "description": "汇总制造业与SAP常用名词缩写：涵盖MM物料、PP生产计划、MES制造执行、MRP物料需求等模块术语及相关英文单词与部门简称。"
+  },
+  {
+    "file": "content/posts/剪切蒙版是什么-剪切蒙版是什么.md",
+    "description": "辨析PS剪切蒙版与蒙版：剪切蒙版只作用于特定图层的像素，而普通蒙版作用于整个画布。"
+  },
+  {
+    "file": "content/posts/双系统安装问题记录.md",
+    "description": "记录Win与Linux双系统安装要点：用UEFI加GPT、先装Win后装Linux并修复被覆盖的引导，借助Ventoy单U盘启动多ISO。"
+  },
+  {
+    "file": "content/posts/各语言数学运算支持.md",
+    "description": "比较各语言数值运算与舍入：JS的toFixed并非四舍五入，财务货币计算应改用C#的decimal以避免浮点误差。"
+  },
+  {
+    "file": "content/posts/图表搜索 广度 深度 优先搜索 贝尔曼-福特算法 戴克斯算法 A_搜索算法-图表搜索广度深度优先搜索贝尔曼-福特算法戴克斯算法a搜索算法.md",
+    "description": "图解图搜索算法：广度优先用队列横向展开、深度优先纵向深入，并介绍贝尔曼-福特、戴克斯特拉与A*等最短路径算法。"
+  },
+  {
+    "file": "content/posts/复制params时，技巧-复制params时技巧.md",
+    "description": "记录IDE中复制params的小技巧：通过右击复制即可得到param格式的参数，免去逐个手动输入。"
+  },
+  {
+    "file": "content/posts/如何在Excel中将科学计数法转换为文本或数字.md",
+    "description": "介绍Excel把科学计数法转为文本或数字的方法：数字前加单引号、自定义单元格格式为0或用TEXT函数，并附时间运算技巧。"
+  },
+  {
+    "file": "content/posts/完成软件需求分析和GUI设计-完成软件需求分析和gui设计.md",
+    "description": "记录软件需求分析与GUI设计的完成成果，正文以设计截图展示界面与需求要点。"
+  },
+  {
+    "file": "content/posts/宝塔linux-宝塔linux.md",
+    "description": "排查宝塔Linux面板安装失败：开放8888端口仍无效，安装过程异常，最终重装系统并选用低版本面板解决。"
+  },
+  {
+    "file": "content/posts/工作中心.md",
+    "description": "讲解SAP工作中心五大板块与关键数据：基本数据、工艺路线默认值、产能、排程与成本人力，并说明标准值码如何定义成本归集粗细。"
+  },
+  {
+    "file": "content/posts/开源协议.md",
+    "description": "辨析开源协议常识：开源与自由软件都不等于免费，free指自由；安卓上层用宽松ASL协议隔离以避免GPL传染整个系统。"
+  },
+  {
+    "file": "content/posts/当前目录cmd快捷键-当前目录cmd快捷键.md",
+    "description": "记录在当前目录快速打开cmd的两种方法：Shift加右击选择在此处打开命令窗口，或在资源管理器地址栏直接输入cmd。"
+  },
+  {
+    "file": "content/posts/批发系统详细设计文档-批发系统详细设计文档.md",
+    "description": "某市食品批发管理系统详细设计文档：划分注册、登录、网上审批、物流查询、交易五大模块，基于Spring与MySQL给出实现约定与流程。"
+  },
+  {
+    "file": "content/posts/技巧help github 博客 jjekyll-技巧helpgithub博客jjekyll.md",
+    "description": "关于用GitHub与Jekyll搭建博客的技巧笔记，正文暂无实质内容，仅留标题待补充。"
+  },
+  {
+    "file": "content/posts/排序算法 冒泡 选择 插入 堆 归并 快速 图解 记录-排序算法冒泡选择插入堆归并快速图解记录.md",
+    "description": "图解记录冒泡、选择、插入、堆、归并、快速等排序算法的手动推演过程，强调复杂度各有适用场景，并推荐算法动画图解App辅助理解。"
+  },
+  {
+    "file": "content/posts/数据库-EF-Core-连接层.md",
+    "description": "整理EF Core数据库连接层入门：对比EF6与三种开发模式，介绍PMC迁移命令、Oracle工厂与连接池，并给出增删改查示例。"
+  },
+  {
+    "file": "content/posts/数据库ACID.md",
+    "description": "围绕数据库一致性整理Oracle锁机制：列举各级锁模式与select for update用法，并介绍v$lock等视图及AWR性能分析。"
+  },
+  {
+    "file": "content/posts/数据结构 哈希表，二叉查找树 堆 优先队列-数据结构哈希表二叉查找树堆优先队列.md",
+    "description": "梳理常见数据结构：链表、数组、栈、队列、哈希表与二叉查找树的特性及增删查操作，指出退化成线性时需自平衡树（如红黑树）维持效率。"
+  },
+  {
+    "file": "content/posts/整数因子分解-整数因子分解.md",
+    "description": "整数因子分解算法的学习记录，正文以参考链接与截图为主，展示分解问题的求解思路。"
+  },
+  {
+    "file": "content/posts/无法下载goproxy-无法下载goproxy.md",
+    "description": "记录proxy-admin无法下载时的手动安装法：脚本从GitHub拉取proxy_admin_free最新release，解压安装后访问32080端口。"
+  },
+  {
+    "file": "content/posts/时间戳精度单线程下机器得到相同号.md",
+    "description": "解释C#单线程快速循环得到相同随机号的原因：Random默认种子取自低分辨率时钟，15毫秒内重复实例化会重合，应复用同一Random实例。"
+  },
+  {
+    "file": "content/posts/查找替换 idea,ctrl r, ctrl f-查找替换ideactrlrctrlf.md",
+    "description": "记录IDEA中查找与替换的快捷键Ctrl F与Ctrl R，正文仅附参考链接。"
+  },
+  {
+    "file": "content/posts/正则表达式的一些理解，？问号的用法 逻辑非的表达==-正则表达式的一些理解问号的用法逻辑非的表达.md",
+    "description": "整理正则表达式理解：分组替换$1、行锚点^$、或逻辑与字符集，辨析问号的量词与非贪婪含义，及非捕获组与零宽预查表达逻辑非。"
+  },
+  {
+    "file": "content/posts/水印技术-水印技术.md",
+    "description": "介绍数字水印技术：明水印易被去除，暗水印需平衡透明性与鲁棒性，对比空域LSB与变换域DCT、DWT小波嵌入的优缺点。"
+  },
+  {
+    "file": "content/posts/浏览器flash开启  cmd ip 查域名。-浏览器flash开启cmdip查域名.md",
+    "description": "关于浏览器开启Flash及用cmd按IP查域名的技巧笔记，正文暂无实质内容，仅留标题。"
+  },
+  {
+    "file": "content/posts/浏览器通知apichrome没有显示原因.md",
+    "description": "排查Chrome通知不显示：因Notifications API的basic类型在Chrome中iconUrl为必填项，Firefox则可选。"
+  },
+  {
+    "file": "content/posts/用idea + ssh+ maven 搭一个大概框架样式-用ideasshmaven搭一个大概框架样式.md",
+    "description": "记录用IDEA加SSH加Maven搭建Web开发框架的过程：以网页管理方式替代客户端编程环境，已完成配置并持续更新。"
+  },
+  {
+    "file": "content/posts/画廊-画廊.md",
+    "description": "一则生活画廊随笔：以荡胸生层云、一览众山小诗句起兴，嵌入视频与背景音乐供欣赏。"
+  },
+  {
+    "file": "content/posts/监听ipv6端口 转代理到ipv4  window下 squid-监听ipv6端口转代理到ipv4window下squid.md",
+    "description": "排查Windows下squid监听IPv6代理失败：ccproxy不支持IPv6，squid访问被拒多因DNS或ACL，可用tcping查[::]监听。"
+  },
+  {
+    "file": "content/posts/确定项目为食品批发管理系统的设计与开发-确定项目为食品批发管理系统的设计与开发.md",
+    "description": "记录课程作业立项：经小组讨论最终确定以某市食品批发管理系统的设计与开发为题。"
+  },
+  {
+    "file": "content/posts/程序卡住记录.md",
+    "description": "记录用WinDbg排查程序卡住：加载SOS与pdb后用!runaway看线程耗时、!handle分析事件句柄，定位.NET程序阻塞原因。"
+  },
+  {
+    "file": "content/posts/算法复杂度-算法复杂度.md",
+    "description": "整理算法复杂度概念：θ、O、Ω分别表示复杂度、上界与下界，常省略常数，并以二分法推导最坏情况为log2n。"
+  },
+  {
+    "file": "content/posts/算法设计与分析课后题，统计数字问题-算法设计与分析课后题统计数字问题.md",
+    "description": "讲解统计数字问题（书页码中各数字出现次数）的解法：按位用公式累加，特殊处理零的计数，并可用穷举法验证结果。"
+  },
+  {
+    "file": "content/posts/素数测试 费马小定理 辗转相除法-素数测试费马小定理辗转相除法.md",
+    "description": "介绍素数测试与最大公约数：用费马小定理及改进的米勒-拉宾检验判定素数（用于RSA），并以辗转相除法反复取模求GCD。"
+  },
+  {
+    "file": "content/posts/红黑树-红黑树.md",
+    "description": "红黑树学习笔记：它本质是二叉查找树，通过旋转与变色实现自平衡，文中附两篇优质参考文章。"
+  },
+  {
+    "file": "content/posts/继续完善GUI设计，学会使用Axure RP工具-继续完善gui设计学会使用axurerp工具.md",
+    "description": "记录用Axure RP继续完善GUI设计：完成登录界面及登录下拉选框的原型，正文以截图展示。"
+  },
+  {
+    "file": "content/posts/网络代理知识整理.md",
+    "description": "整理网络代理知识：辨析正向、反向、透明代理，比较squid、lvs、nginx、haproxy的工作层级，并给出Windows用netsh端口转发的命令。"
+  },
+  {
+    "file": "content/posts/聚类算法k-均值 列表搜索算法 线性搜索 二分搜索-聚类算法k-均值列表搜索算法线性搜索二分搜索.md",
+    "description": "图解K-均值聚类与列表搜索：K-均值需先定群集数，随机中心后按最近归类并迭代移动重心至收敛；另介绍线性搜索与二分搜索。"
+  },
+  {
+    "file": "content/posts/英文版window-中文应用乱码问题.md",
+    "description": "解决英文版Windows中文应用乱码：区域与显示语言改中文后仍乱码，需在管理语言设置中把非Unicode程序的语言改为中文。"
+  },
+  {
+    "file": "content/posts/虚拟机固定ip DHCP方式-虚拟机固定ipdhcp方式.md",
+    "description": "记录虚拟机固定IP的DHCP思路：可尝试把DHCP最大租约天数调大以稳定地址，正文附配置截图。"
+  },
+  {
+    "file": "content/posts/表达式获取bindMemberAssignment .md",
+    "description": "讲解用C#表达式树获取对象初始化时已赋值的属性名：解析MemberInitExpression中的赋值绑定项，供SqlSugar按需更新列。"
+  },
+  {
+    "file": "content/posts/要使HTML表单生成文件上传变量必须满足哪3个条件-要使html表单生成文件上传变量必须满足哪3个条件.md",
+    "description": "说明HTML表单生成文件上传变量的三条件：用POST提交、enctype设为multipart/form-data、含文件上传控件。"
+  },
+  {
+    "file": "content/posts/规则引擎.md",
+    "description": "对比.NET规则引擎：NRules基于Rete算法用C# DSL定义规则，RulesEngine用JSON可运行时修改（微软出品），商业可选URule Pro。"
+  },
+  {
+    "file": "content/posts/计划赶不上变化.md",
+    "description": "一则随感：计划赶不上变化，决定放弃Python、Kotlin、Java转向C#与C++，并嵌入Lycoris Recoil视频。"
+  },
+  {
+    "file": "content/posts/计算份数算法公式.md",
+    "description": "给出把总数均分为若干份的算法公式：基本份额取整除、余数按编号补一使各份尽量相等；另附无条件进位、尾数放最后一份的变体。"
+  },
+  {
+    "file": "content/posts/语录-wen-ji--yu-lu.md",
+    "description": "一则文集语录：摘录寂寥冷清的心境短句，配以插图、网易云音乐与钢琴曲音频营造氛围。"
+  },
+  {
+    "file": "content/posts/调试没有显示错误行号.md",
+    "description": "排查调试不显示错误行号：PDB虽生成却因反射加载未载入，导出dump后设符号路径、用!sym noisy与kv堆栈定位。"
+  },
+  {
+    "file": "content/posts/软件测试.md",
+    "description": "软件测试笔记：列出单元测试、黑盒测试、白盒测试的优先级排序，正文仅起头尚待补充。"
+  },
+  {
+    "file": "content/posts/霍 夫曼(Huffman)编码 游程编码-赫哈霍夫曼huffman编码游程编码-2.md",
+    "description": "讲解数据压缩的游程编码与哈夫曼编码：游程编码用计数表示连续重复像素（适合二值图像），哈夫曼按概率赋变长码使平均码长最短。"
+  },
+  {
+    "file": "content/posts/霍 夫曼(Huffman)编码 游程编码-赫哈霍夫曼huffman编码游程编码.md",
+    "description": "介绍游程编码与哈夫曼编码两种压缩算法：游程编码以游程长度压缩连续重复像素，哈夫曼编码依符号概率构造平均长度最短的变长即时码。"
+  }
+]

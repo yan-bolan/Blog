@@ -4,6 +4,7 @@ date = "2019-10-20 12:57:25"
 updated = "2021-05-14 22:00:42"
 slug = "b5018db5"
 aliases = ["/2019/10_20_b5018db5.html"]
+description = "收藏一条博客园教程链接，供在 IDEA 中配置 GitHub 与 Git 集成时参考。"
 [extra]
 category = "IDE"
 categories = ["IDE"]

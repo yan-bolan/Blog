@@ -4,6 +4,7 @@ date = "2020-05-10 09:35:47"
 updated = "2021-05-14 22:02:54"
 slug = "927cb3d9"
 aliases = ["/2020/05_10_927cb3d9.html"]
+description = "记录Windows下nginx+PhpStorm+Xdebug调试PHP的踩坑：cgi路径与端口、超时设置，最终改用PhpStorm自带服务器。"
 [taxonomies]
 tags = ["php,nginx,phpstorm,xdebug"]
 [extra]

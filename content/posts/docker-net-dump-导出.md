@@ -3,6 +3,7 @@ title = "docker net dump 导出"
 date = "2024-09-28 19:45:38"
 slug = "94d365fa"
 aliases = ["/2024/09_28_94d365fa.html"]
+description = "在 Docker 容器内用 dotnet-dump 抓取 .NET 转储并以 SOS 命令分析崩溃与 GC，需与目标共用 TMPDIR，功能少于本机调试器。"
 [taxonomies]
 tags = ["dump", "net"]
 [extra]

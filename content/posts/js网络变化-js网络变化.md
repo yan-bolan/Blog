@@ -4,6 +4,7 @@ date = "2019-10-16 13:23:47"
 updated = "2021-05-14 22:02:36"
 slug = "df0fabd4"
 aliases = ["/2019/10_16_df0fabd4.html"]
+description = "用 window 的 online/offline 事件监听网络连通与断开，但只能感知网线插拔，无法判断是否真正 ping 通外网。"
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

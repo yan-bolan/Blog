@@ -4,6 +4,7 @@ date = "2019-11-15 19:36:20"
 updated = "2021-05-14 22:05:05"
 slug = "498636da"
 aliases = ["/2019/11_15_498636da.html"]
+description = "排查宝塔Linux面板安装失败：开放8888端口仍无效，安装过程异常，最终重装系统并选用低版本面板解决。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png"
 +++

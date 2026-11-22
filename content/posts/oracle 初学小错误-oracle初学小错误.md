@@ -4,6 +4,7 @@ date = "2020-05-30 16:21:08"
 updated = "2021-05-14 22:02:56"
 slug = "44d35709"
 aliases = ["/2020/05_30_44d35709.html"]
+description = "汇总Oracle初学小错误：SQL*Plus报SP2-0667需设ORACLE_HOME，ORA-01017多因用户名大小写，连接被拒查防火墙1521端口。"
 [taxonomies]
 tags = ["oracle"]
 [extra]

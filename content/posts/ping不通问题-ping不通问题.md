@@ -4,6 +4,7 @@ date = "2020-03-19 12:08:26"
 updated = "2021-05-14 22:02:13"
 slug = "3b6ee3d9"
 aliases = ["/2020/03_19_3b6ee3d9.html"]
+description = "排查两台主机互ping不通：虚拟机需用桥接模式，检查中间路由与防火墙，放行ICMP入站规则；单向不通多因一侧防火墙未关。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png"
 +++

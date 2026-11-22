@@ -4,6 +4,7 @@ date = "2020-11-01 13:16:08"
 updated = "2021-05-14 22:01:18"
 slug = "472078e4"
 aliases = ["/2020/11_01_472078e4.html"]
+description = "Java Date.getMonth() 返回 0-11、getDate() 返回 1-31，两者已弃用应改用 Calendar.get，面试常考其取值范围。"
 [taxonomies]
 tags = ["java,getMonth,getDate"]
 [extra]

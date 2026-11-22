@@ -3,6 +3,7 @@ title = "nuget当前packages目录"
 date = "2026-03-04 21:10:07"
 slug = "133a0cf6"
 aliases = ["/2026/03_04_133a0cf6.html"]
+description = "用NuGet.config的globalPackagesFolder把NuGet包缓存改到项目内packages目录，便于跨网络环境迁移时离线构建。"
 [taxonomies]
 tags = ["nuget", "packages", "本地化"]
 [extra]

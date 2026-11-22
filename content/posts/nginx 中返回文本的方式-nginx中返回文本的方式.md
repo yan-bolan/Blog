@@ -4,6 +4,7 @@ date = "2020-05-30 16:17:55"
 updated = "2021-05-14 22:02:54"
 slug = "ef43fdac"
 aliases = ["/2020/05_30_ef43fdac.html"]
+description = "备忘nginx直接返回文本的配置参考链接，以及用docker logs -f查看nginx容器日志的命令。"
 [taxonomies]
 tags = ["nginx"]
 [extra]

@@ -3,6 +3,7 @@ title = "Nodejs win7下安装"
 date = "2023-10-10 21:54:50"
 slug = "c3b6c751"
 aliases = ["/2023/10_10_c3b6c751.html"]
+description = "记录Win7安装Node.js的限制：官方仅支持到13，14.5.3可解压二进制包并配环境变量运行，更高版本易缺dll不建议尝试。"
 [taxonomies]
 tags = ["nodejs", "win7"]
 [extra]

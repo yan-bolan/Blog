@@ -4,6 +4,7 @@ date = "2019-10-20 13:07:33"
 updated = "2021-05-14 22:04:22"
 slug = "4be37479"
 aliases = ["/2019/10_20_4be37479.html"]
+description = "记录Word文档滚轮滚动太慢的问题，调整Win10鼠标滚轮速度设置即可改善，正文附设置截图。"
 [extra]
 category = "win10"
 categories = ["win10"]

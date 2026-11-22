@@ -4,6 +4,7 @@ date = "2019-12-27 18:16:48"
 updated = "2021-05-14 22:06:33"
 slug = "2f277b9e"
 aliases = ["/2019/12_27_2f277b9e.html"]
+description = "解决Vue+axios跨域：开发环境用vue cli的proxyTable代理，生产用nginx转发并添加CORS响应头，避免改后端地址反复重启。"
 [taxonomies]
 tags = ["nginx"]
 [extra]

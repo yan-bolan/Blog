@@ -4,6 +4,7 @@ date = "2021-03-16 16:26:00"
 updated = "2021-05-14 22:02:56"
 slug = "1b5ba2cf"
 aliases = ["/2021/03_16_1b5ba2cf.html"]
+description = "记录浏览器调试技巧：getComputedStyle取CSS伪元素内容、DevTools美化CSS，控制台for循环失效改用立即执行函数加forEach遍历。"
 [taxonomies]
 tags = ["安装插件,控制台for代码,伪元素抓取"]
 [extra]

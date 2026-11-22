@@ -4,6 +4,7 @@ date = "2020-05-20 21:59:29"
 updated = "2021-05-14 22:04:09"
 slug = "a8afa23e"
 aliases = ["/2020/05_20_a8afa23e.html"]
+description = "解决Windows下SSH私钥报key are too open：把私钥文件所有者改为自己并仅保留所有者权限，附参考博文与权限设置截图。"
 [taxonomies]
 tags = ["vm ssh权限问题,ssh,权限,虚拟机"]
 [extra]

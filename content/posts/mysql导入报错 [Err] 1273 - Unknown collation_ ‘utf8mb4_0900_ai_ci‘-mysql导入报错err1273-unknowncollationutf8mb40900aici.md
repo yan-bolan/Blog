@@ -4,6 +4,7 @@ date = "2019-11-16 07:57:57"
 updated = "2021-05-14 22:02:51"
 slug = "f2eff8f"
 aliases = ["/2019/11_16_f2eff8f.html"]
+description = "解决MySQL导入报1273未知排序规则utf8mb4_0900_ai_ci：先查服务器排序规则，再替换SQL文件中的字符集，Navicat设置无效。"
 [extra]
 category = "数据库"
 categories = ["数据库"]

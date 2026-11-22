@@ -1,0 +1,286 @@
+[
+  {
+    "file": "content/posts/bootstrap3-bootstrap3.md",
+    "description": "Bootstrap2 栅格列写作 span5，Bootstrap3 写作 col-*-*，跨版本复制布局代码无效，需改用对应版本 CSS。"
+  },
+  {
+    "file": "content/posts/c#path.md",
+    "description": "dotnet 单文件发布会使 Assembly.Location 返回空，应改用 AppContext.BaseDirectory，旧代码可开兼容开关恢复。"
+  },
+  {
+    "file": "content/posts/centos ftp-centosftp.md",
+    "description": "收藏一条博客园教程链接，供 CentOS 搭建 FTP 服务时参考。"
+  },
+  {
+    "file": "content/posts/centos8 虚拟机ip问题-centos8虚拟机ip问题.md",
+    "description": "CentOS8 虚拟机开机网卡不自动启用，设 ifcfg-eth0 的 ONBOOT 为 yes 解决；另记 VMware Tools 灰色需精简光驱设备。"
+  },
+  {
+    "file": "content/posts/clash dashboard linux docker Response “Unauthorized“ -clashdashboardlinuxdockerresponseunauthorized.md",
+    "description": "Clash 面板在 Linux Docker 部署下访问返回 Unauthorized 的问题备忘，正文仅有标题与标签，未记录具体排查与解决。"
+  },
+  {
+    "file": "content/posts/clash-dig-fail.md",
+    "description": "Clash TUN 模式下 dig 反推域名失败，多因浏览器默认开启安全 DNS 干扰劫持，关闭浏览器安全 DNS 即可恢复。"
+  },
+  {
+    "file": "content/posts/compact用法 php-compact用法php.md",
+    "description": "PHP compact() 按传入的变量名字符串把变量组成数组，键为名值为值，作用与 extract() 相反，传变量本身是错误用法。"
+  },
+  {
+    "file": "content/posts/csharp-语法点训练-记录.md",
+    "description": "C# 语法训练记录：委托的声明实例化调用、匿名方法与 lambda 简化、Action 与 Func 泛型委托及协变逆变，并简介扩展方法。"
+  },
+  {
+    "file": "content/posts/css 修改样式 浏览器-css修改样式浏览器.md",
+    "description": "借助浏览器开发者工具定位元素并实时修改 CSS 属性来排查模板样式问题，无从下手时用排除法、删除法与二分定位法缩小范围。"
+  },
+  {
+    "file": "content/posts/cte递归查询执行顺序.md",
+    "description": "递归 CTE 由定位点成员与递归成员组成，先执行定位点得基准集，再以前一轮结果为输入迭代至空集，最后 UNION ALL 合并，用于树形与相邻比较。"
+  },
+  {
+    "file": "content/posts/date.getMonth()  date.getDate())-dategetmonthdategetdate.md",
+    "description": "Java Date.getMonth() 返回 0-11、getDate() 返回 1-31，两者已弃用应改用 Calendar.get，面试常考其取值范围。"
+  },
+  {
+    "file": "content/posts/docker copy命令注意与理解-dockercopy命令注意与理解.md",
+    "description": "Dockerfile COPY dir1 ./ 复制的是目录内容而非目录本身，COPY dir1/* ./ 则只摊平复制各层文件、不保留原有目录结构。"
+  },
+  {
+    "file": "content/posts/docker daemon 端口冲Failed to start Docker Application Container Engine. -- Subject_ Unit docker.servic-dockerdaemon端口冲failedtostartdockerapplicationcontainerengine--subjectunitdockerservic.md",
+    "description": "Docker 服务起不来常因 restart=always 容器端口冲突随服务自启，用 dockerd 前台定位占用，删容器或改 hostconfig 端口。"
+  },
+  {
+    "file": "content/posts/docker-net-dump-导出.md",
+    "description": "在 Docker 容器内用 dotnet-dump 抓取 .NET 转储并以 SOS 命令分析崩溃与 GC，需与目标共用 TMPDIR，功能少于本机调试器。"
+  },
+  {
+    "file": "content/posts/draw-io教程.md",
+    "description": "draw.io 入门可照官方示例图与模板练习，配色借助 Color Hunt、Art Palette、Eggradients 等调色板与渐变资源挑选。"
+  },
+  {
+    "file": "content/posts/efdbfirst代码生成.md",
+    "description": "EF Core 用 dotnet-ef 的 dbcontext scaffold 从数据库连接串生成 DbContext 与实体，T4 模板版本须与工具一致。"
+  },
+  {
+    "file": "content/posts/gatherallfilestopublish错误.md",
+    "description": "VS 发布报 GatherAllFilesToPublish 错误，疑因装 VC redist，删 .vs 目录与 csproj 相关 target 行解决。"
+  },
+  {
+    "file": "content/posts/gc非托管内存泄露.md",
+    "description": ".NET GC 无法自动释放非托管资源，须实现 Dispose 显式清理并抑制终结器，推荐用 SafeHandle 包装句柄而非自写终结器，以防内存泄露。"
+  },
+  {
+    "file": "content/posts/git clone push 太慢-gitclonepush太慢.md",
+    "description": "git clone、push 慢因未走本地代理，用 git config --global 设置 http/https 代理指向本机 socks5 端口加速。"
+  },
+  {
+    "file": "content/posts/git_diff_二进制打补丁更新.md",
+    "description": "用 git diff --no-index --binary 比较两目录生成二进制补丁 patch.txt 做增量更新，另荐 xdelta3 GUI。"
+  },
+  {
+    "file": "content/posts/github 删除release-github删除release.md",
+    "description": "GitHub 增删 release 无需 git 命令行，管理员在网页进入 tags 点对应版本删除，或点 latest release 新增版本。"
+  },
+  {
+    "file": "content/posts/git合并commit.md",
+    "description": "用 git rebase 变基重放提交整合分叉历史或 squash 合并重复 commit，已推到仓库外、他人可能基于其开发的提交切勿变基。"
+  },
+  {
+    "file": "content/posts/git忽略本地修改.md",
+    "description": "已跟踪文件的本地定制修改可用 git update-index --skip-worktree 忽略，使其不进 git status，但拉取或切分支可能冲突。"
+  },
+  {
+    "file": "content/posts/hexopluginCover.md",
+    "description": "Hexo 自动封面插件开发备忘：参考 Hexo Tag API、插件开发教程与 kiko.io 自动头图方案，借助 Hook 钩子自行实现插件。"
+  },
+  {
+    "file": "content/posts/hibernate idea-hibernateidea.md",
+    "description": "IDEA 下 Hibernate 踩坑：cfg.xml 放 resources、区分配置与 hbm.xml 表映射、url 中 & 要转义成 &amp;。"
+  },
+  {
+    "file": "content/posts/html 标记分类字幕,css3新特性-html标记分类字幕css3新特性.md",
+    "description": "总结 HTML 标记分类（字幕 marquee、锚点、框架）、CSS 定义方式与优先级顺序，及 CSS3 阴影、变形、@font-face、过渡动画等新特性。"
+  },
+  {
+    "file": "content/posts/html动画效果.md",
+    "description": "叙事性网站常用滚动触发的入场动画，可借助 wow.js 在元素滚动到视口时揭示动画效果。"
+  },
+  {
+    "file": "content/posts/http-sys代理Delegation-net-反向代理应用层.md",
+    "description": ".NET 反向代理可用 YARP 路由与重写；Http.sys Delegation 仅限 Windows、需 Core 6+ 且不能与 IIS 共用。"
+  },
+  {
+    "file": "content/posts/http缓存_浏览器跨域.md",
+    "description": "HTTP 强制缓存优先于协商缓存，无策略时按修改时差一成启发缓存，Ctrl+F5 只刷新请求；跨域是浏览器防 CSRF 策略，CORS 需询问目标站是否允许。"
+  },
+  {
+    "file": "content/posts/hugo wercker-hugowercker.md",
+    "description": "Wercker 持续集成构建 Hugo 的踩坑：hugo-build 版本号去引号、主题托管到 GitHub、git token 配在环境变量。"
+  },
+  {
+    "file": "content/posts/hugo网易云音乐-hugo网易云音乐.md",
+    "description": "给 Hugo 博客嵌入网易云音乐外链播放器：可在首页 HTML 加代码，或在 md 中插入外链 iframe，auto=1 控制自动播放。"
+  },
+  {
+    "file": "content/posts/hutao.md",
+    "description": "编程语言取舍随想：Java 语言与前景俱佳，C# 语言好但生态一般，C/C++ 佳，Kotlin 前景受限，JS/TS 前端繁杂，Python 偏科学工具。"
+  },
+  {
+    "file": "content/posts/hyper-v-nat网络设置.md",
+    "description": "Hyper-V NAT 端口绑定失败因落在 Windows 保留区，用 netsh 查排除范围、停 winnat 重置或占位；虚拟机 ping 不通关防火墙。"
+  },
+  {
+    "file": "content/posts/hypervubuntu增强会话.md",
+    "description": "Hyper-V Ubuntu 22.0 起支持增强会话：先基础模式设用户密码并退出，再切增强模式登录，两模式不可同时在线，root 需手动开 xorg。"
+  },
+  {
+    "file": "content/posts/idea github git-ideagithubgit.md",
+    "description": "收藏一条博客园教程链接，供在 IDEA 中配置 GitHub 与 Git 集成时参考。"
+  },
+  {
+    "file": "content/posts/idea javaweb 热部署-ideajavaweb热部署.md",
+    "description": "IDEA JavaWeb 热部署：Tomcat 部署选 war exploded，更新与失焦设为 update classes and resources。"
+  },
+  {
+    "file": "content/posts/idea select all occurrences 正则表达式复制  查找结果复制-ideaselectalloccurrences正则表达式复制查找结果复制.md",
+    "description": "IDEA 中用正则查找或 Select All Occurrences 选中所有匹配项（如各 R.color 值），再 Ctrl+C 一次性复制查找结果。"
+  },
+  {
+    "file": "content/posts/idea struts2.5-ideastruts25.md",
+    "description": "IDEA 配置 Struts2.5 的参考链接与截图集，涵盖环境搭建修复、Struts2 工作原理与执行流程及 action 用法详解。"
+  },
+  {
+    "file": "content/posts/idea test junit快捷生成方法-ideatestjunit快捷生成方法.md",
+    "description": "IDEA 用 Alt+Insert 快捷生成 JUnit 测试方法；测试报类找不到因重构项目名后文件留旧目录，从 Project Structure 重命名。"
+  },
+  {
+    "file": "content/posts/idea tomcat运行时控制台乱码-ideatomcat运行时控制台乱码.md",
+    "description": "收藏一条博客园教程链接，供解决 IDEA 运行 Tomcat 时控制台中文乱码问题参考。"
+  },
+  {
+    "file": "content/posts/idea局部类运行-idea局部类运行.md",
+    "description": "IDEA 中给某个类临时加 main 方法即可单独运行做实时测试，无需等到最后统一写 main 入口。"
+  },
+  {
+    "file": "content/posts/idea自带的正则表达检查-idea自带的正则表达检查.md",
+    "description": "IDEA 中对正则表达式按 Alt+Enter 选择检查正则，即可用自带工具验证其是否正确。"
+  },
+  {
+    "file": "content/posts/idm 快捷键暂停 调用-idm快捷键暂停调用.md",
+    "description": "IDM 下载遇 400 等问题时，按住 Alt 再点下载链接可临时暂停 IDM 接管，改用浏览器自身下载，快捷键在选项常规中设置。"
+  },
+  {
+    "file": "content/posts/iis技巧命令行.md",
+    "description": "IIS 站点配置在 applicationHost.config，用 appcmd 命令行修改，日志按 W3SVC 编号存于 inetpub 的 logs。"
+  },
+  {
+    "file": "content/posts/innerhtml bokeh 不起作用 script src-innerhtmlbokeh不起作用scriptsrc.md",
+    "description": "innerHTML 插入的 script 不执行致 Bokeh 未定义，用 createElement 设 src 追加，或用 Bokeh INLINE 内联。"
+  },
+  {
+    "file": "content/posts/java.lang.ClassNotFoundException_ com.mysql.cj.jdbc.Driver _at java.net.URLClassLoader.findClass(URL-javalangclassnotfoundexceptioncommysqlcjjdbcdriveratjavaneturlclassloaderfindclassurl.md",
+    "description": "JavaWeb 报 MySQL 驱动类找不到，因缺 mysql-connector-java 包，按数据库版本从 Maven 仓库取依赖写入 pom.xml。"
+  },
+  {
+    "file": "content/posts/javaheapspace.md",
+    "description": "SQL Developer 大堆内存需 64 位 JDK，-Xmx 选项写 appdata 的 product.conf，不要改安装目录 ide.conf。"
+  },
+  {
+    "file": "content/posts/javaweb spring   requestmap404-javawebspringrequestmap404.md",
+    "description": "Spring @RequestMapping 方法映射不要多加斜杠，否则 404；文中另附 jsp include、pixi 背景色等零散片段。"
+  },
+  {
+    "file": "content/posts/javaweb连mysql-javaweb连mysql.md",
+    "description": "JavaWeb 用 JDBC 连 MySQL，分 UserVo 实体、connection 取连接、option 增删查改三类，执行 SQL 完成 CRUD。"
+  },
+  {
+    "file": "content/posts/java在jsp中增加元素-java在jsp中增加元素.md",
+    "description": "收藏 CSDN 与博客园链接，供参考在 JSP 中用 Java 动态增加页面元素及 session 相关用法。"
+  },
+  {
+    "file": "content/posts/jenkins 支持的steps-jenkins支持的steps.md",
+    "description": "罗列 Jenkins Pipeline 的 steps 与 symbols，如 git、sh、stage、parallel、cron 等，供编写流水线参考。"
+  },
+  {
+    "file": "content/posts/js-好用常用库.md",
+    "description": "推荐 JS 常用库 lodash（封装常用操作很实用），附 40 个最佳 JS 库榜单及 futil-js 等补充库链接。"
+  },
+  {
+    "file": "content/posts/jscrypto安全域问题.md",
+    "description": "crypto.randomUUID 等仅在安全上下文（HTTPS）可用，localhost 被视为安全源，非安全域可参考所附链接启用。"
+  },
+  {
+    "file": "content/posts/json java解析-jsonjava解析.md",
+    "description": "fastjson 解析对象套数组的 JSON：parseObject 取对象，数组字段再 parseArray，元素须 toString 再取值，忌直接强转。"
+  },
+  {
+    "file": "content/posts/jsp的几种跳转方式-jsp的几种跳转方式.md",
+    "description": "收藏一条博客园教程链接，供参考 JSP 页面的几种跳转方式。"
+  },
+  {
+    "file": "content/posts/js学习原理-js学习原理.md",
+    "description": "系统梳理 JavaScript 核心原理：函数是第一类对象、闭包、原型面向对象、作用域、单线程异步事件队列与页面构建生命周期，附调试与性能分析实践。"
+  },
+  {
+    "file": "content/posts/js引用传递.md",
+    "description": "setInterval 传入的是函数对象引用，之后给变量重新赋值新函数不会改变已注册回调，仍执行旧函数，体现 JS 按引用传递与闭包特性。"
+  },
+  {
+    "file": "content/posts/js网络变化-js网络变化.md",
+    "description": "用 window 的 online/offline 事件监听网络连通与断开，但只能感知网线插拔，无法判断是否真正 ping 通外网。"
+  },
+  {
+    "file": "content/posts/js调试-js调试.md",
+    "description": "JS 杂记：按标签或类名批量取改元素、读本地 JSON 的 utf8 编码问题，以及 ajax 不能跨域、jsonp 需服务端回调返回 函数(data)。"
+  },
+  {
+    "file": "content/posts/jwt登录方案.md",
+    "description": "JWT 登录方案：各语言库见 jwt.io/libraries，.NET 推荐 jwt-dotnet 的 Jwt.Net，jwt.io 提供密钥生成与调试。"
+  },
+  {
+    "file": "content/posts/layui 使用 导航栏偏移-layui使用导航栏偏移.md",
+    "description": "用 layui 栅格的 layui-col-md-offset4 类实现导航栏列偏移，附效果截图。"
+  },
+  {
+    "file": "content/posts/layui内容居中.md",
+    "description": "layui 页面内容居中两法：容器设 CSS text-align:center 水平居中，或用栅格 offset3 加 md-6 把内容放入居中列。"
+  },
+  {
+    "file": "content/posts/layui数据表格，异步格式-layui数据表格异步格式.md",
+    "description": "layui 数据表格异步加载一直转圈并报 LAY_TABLE_INDEX 赋值错误，因返回数据不符规范，成功状态码须为 code:0，附排查链接。"
+  },
+  {
+    "file": "content/posts/linux ftp服务器-linuxftp服务器.md",
+    "description": "收藏 Linux FTP 服务器搭建相关链接，涵盖安装、用户配置、保存与目录设置等参考教程。"
+  },
+  {
+    "file": "content/posts/linux 安装python3和pip 注意事项。-linux安装python3和pip注意事项.md",
+    "description": "Linux 安装 Python3 和 pip 的注意事项备忘。"
+  },
+  {
+    "file": "content/posts/linux 端口占用lsof 网卡-linux端口占用lsof网卡.md",
+    "description": "用 lsof -i:端口号 查端口占用；VM 装 Docker 后 SSH 误连 Docker 网卡，删除 VM 网络适配器再重新添加即可恢复。"
+  },
+  {
+    "file": "content/posts/linux 虚拟化 docker技术-linux虚拟化docker技术.md",
+    "description": "剖析 Docker 底层 Linux 虚拟化技术：chroot 限制根目录、namespace 隔离进程视图、cgroup 限制资源，及 Intel VT。"
+  },
+  {
+    "file": "content/posts/linux学习记录，-linux学习记录.md",
+    "description": "Linux 学习杂记：curl 与 post 上网、SSH 桥接复制、vmtools 共享文件夹、清华镜像加速、yum 与全局代理、man 查用法等常用命令。"
+  },
+  {
+    "file": "content/posts/linux防火墙开启-linux防火墙开启.md",
+    "description": "Linux 防火墙排查：外网打不开先查 firewalld/iptables 并重启，切记宁可关闭也别卸载防火墙；兼记路径与 Apache 配置。"
+  },
+  {
+    "file": "content/posts/matlab 指定python 路径 64bit-matlab指定python路径64bit.md",
+    "description": "MATLAB 不支持 32 位及高版本 Python，需用 pyversion 指定 Anaconda 环境里 64 位 python 路径，重启后会失效。"
+  },
+  {
+    "file": "content/posts/microbin.md",
+    "description": "MicroBin 是 Rust 写的微型自托管粘贴箱与 URL 缩短器，可 cargo install 部署或用公开实例，但久未维护仅作收藏。"
+  }
+]

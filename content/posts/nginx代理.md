@@ -3,6 +3,7 @@ title = "nginx代理"
 date = "2023-09-18 19:37:59"
 slug = "dc13b4b1"
 aliases = ["/2023/09_18_dc13b4b1.html"]
+description = "介绍nginx透明代理的概念与proxy_pass配置示例，通过proxy_set_header传递真实IP，并对比反向代理的使用场景。"
 [taxonomies]
 tags = ["代理", "nginx"]
 [extra]

@@ -3,6 +3,7 @@ title = "http.sys代理Delegation net 反向代理应用层"
 date = "2022-11-06 17:36:10"
 slug = "820ce945"
 aliases = ["/2022/11_06_820ce945.html"]
+description = ".NET 反向代理可用 YARP 路由与重写；Http.sys Delegation 仅限 Windows、需 Core 6+ 且不能与 IIS 共用。"
 [taxonomies]
 tags = ["代理 yarp"]
 [extra]

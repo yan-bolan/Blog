@@ -4,6 +4,7 @@ date = "2019-11-16 09:40:08"
 updated = "2021-05-14 22:03:58"
 slug = "8c82bc09"
 aliases = ["/2019/11_16_8c82bc09.html"]
+description = "记录ThinkPHP日志写入失败的处理：先导入日志类，Linux下mkdir权限被拒时给application与runtime目录放权，并核对路径与权限。"
 [extra]
 category = "php"
 categories = ["php"]

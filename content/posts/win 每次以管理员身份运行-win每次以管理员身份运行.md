@@ -4,6 +4,7 @@ date = "2020-03-07 11:04:15"
 updated = "2021-05-14 22:04:20"
 slug = "8cf0b6a8"
 aliases = ["/2020/03_07_8cf0b6a8.html"]
+description = "让Windows程序每次自动以管理员身份运行：在快捷方式属性的高级选项里勾选管理员身份运行，免去每次手动选择。"
 [taxonomies]
 tags = ["管理员身份"]
 [extra]

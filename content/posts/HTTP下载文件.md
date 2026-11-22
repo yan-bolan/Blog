@@ -3,6 +3,7 @@ title = "HTTP下载文件"
 date = "2023-07-06 21:34:23"
 slug = "da92f61f"
 aliases = ["/2023/07_06_da92f61f.html"]
+description = "笔记HTTP下载文件：响应头设Content-Disposition、ASP.NET改form提交；ajax返回文件不弹下载，需借Blob创建标签触发请求。"
 [taxonomies]
 tags = ["http", "web", "xhr", "form", "aspnet"]
 [extra]

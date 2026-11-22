@@ -2,6 +2,7 @@
 title = "AssemblyLocation"
 date = "2025-06-07 09:16:59"
 slug = "2808a27d-2"
+description = "dotnet 单文件发布会使 Assembly.Location 返回空，应改用 AppContext.BaseDirectory，旧代码可开兼容开关恢复。"
 [extra]
 cover = "https://api.paugram.com/wallpaper/?source=sm"
 +++

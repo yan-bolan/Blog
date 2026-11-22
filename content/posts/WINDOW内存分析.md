@@ -3,6 +3,7 @@ title = "WINDOW内存分析"
 date = "2023-09-15 22:58:26"
 slug = "6c4b239d"
 aliases = ["/2023/09_15_6c4b239d.html"]
+description = "排查.NET非托管内存泄露：!FinalizeQueue显示590个Bitmap与Graphics未释放，根因Graphics未Dispose。"
 [taxonomies]
 tags = ["Net"]
 [extra]

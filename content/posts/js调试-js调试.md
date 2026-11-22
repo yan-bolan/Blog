@@ -4,6 +4,7 @@ date = "2019-11-13 18:05:07"
 updated = "2021-05-14 22:02:33"
 slug = "e2be6777"
 aliases = ["/2019/11_13_e2be6777.html"]
+description = "JS 杂记：按标签或类名批量取改元素、读本地 JSON 的 utf8 编码问题，以及 ajax 不能跨域、jsonp 需服务端回调返回 函数(data)。"
 [extra]
 category = "JavaScript"
 categories = ["JavaScript"]

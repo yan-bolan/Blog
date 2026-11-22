@@ -4,6 +4,7 @@ date = "2021-04-17 13:12:25"
 updated = "2021-05-14 22:03:58"
 slug = "7e4dfc13"
 aliases = ["/2021/04_17_7e4dfc13.html"]
+description = "解决Illustrator导出SVG网页字体不一致：原CSS的serif等样式影响渲染，改为把SVG直接内联进HTML而非img引入，并用fill属性修正颜色。"
 [extra]
 category = "前端"
 categories = ["前端"]

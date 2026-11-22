@@ -4,6 +4,7 @@ date = "2021-05-08 22:12:38"
 updated = "2021-05-14 22:05:08"
 slug = "87f917a4"
 aliases = ["/2021/05_08_87f917a4.html"]
+description = "记录为WSL2一键设置clash代理的方法：除常规主机代理配置外，可开启clash的TAP模式并配置DNS，使WSL内nameserver随之改变。"
 [extra]
 category = "win10"
 categories = ["win10"]

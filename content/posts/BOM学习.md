@@ -3,6 +3,7 @@ title = "BOM学习"
 date = "2025-06-07 09:16:59"
 slug = "2808a27d"
 aliases = ["/2025/06_07_2808a27d.html"]
+description = "梳理BOM物料清单的分类，介绍EBOM、MBOM等业务视角及简单、变体、多重、计划、虚拟、扁平化等技术视角BOM的含义与用途。"
 [taxonomies]
 tags = ["bOm"]
 [extra]

@@ -4,6 +4,7 @@ date = "2020-10-11 19:19:24"
 updated = "2021-05-14 22:03:55"
 slug = "970c5d22"
 aliases = ["/2020/10_11_970c5d22.html"]
+description = "排查SpringBoot的@RequestBody对象为空：Jackson按JavaBean规范将首字母大写属性转小写致绑定失败，可加注解或换fastjson。"
 [taxonomies]
 tags = ["spring,RequestBody"]
 [extra]

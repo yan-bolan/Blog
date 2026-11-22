@@ -4,6 +4,7 @@ date = "2021-01-11 15:45:12"
 updated = "2021-05-14 22:02:17"
 slug = "36dff600"
 aliases = ["/2021/01_11_36dff600.html"]
+description = "PPT设计与排版经验集：留白、标尺对齐、配色三种、深浅背景按投影选择、元素层次与点线面引导视线、SCQA与MECE内容架构，及母版、嵌入字体、合并形状等技巧。"
 [taxonomies]
 tags = ["ppt,ppt艺术,ppt排版"]
 [extra]

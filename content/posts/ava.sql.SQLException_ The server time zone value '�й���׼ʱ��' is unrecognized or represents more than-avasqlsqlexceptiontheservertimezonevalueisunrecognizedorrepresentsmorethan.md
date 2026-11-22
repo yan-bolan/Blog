@@ -4,6 +4,7 @@ date = "2019-10-16 22:58:24"
 updated = "2021-05-14 22:01:09"
 slug = "b7f40c7f"
 aliases = ["/2019/10_16_b7f40c7f.html"]
+description = "排查Java连MySQL报server time zone value无法识别：需在JDBC URL指定serverTimezone=UTC等时区参数。"
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

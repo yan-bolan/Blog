@@ -4,6 +4,7 @@ date = "2020-06-01 17:38:55"
 updated = "2021-05-14 22:02:59"
 slug = "64b3e3d"
 aliases = ["/2020/06_01_64b3e3d.html"]
+description = "用实例对比PHP的array_merge与数组加法：merge对关联数组同键覆盖、索引数组追加，加法则无论何种数组都只保留首次出现的键。"
 [taxonomies]
 tags = ["php,数组加法,数组合并,区别"]
 [extra]

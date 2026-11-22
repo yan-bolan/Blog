@@ -2,6 +2,7 @@
 title = "microbin"
 date = "2026-10-17 10:35:04"
 slug = "microbin"
+description = "MicroBin 是 Rust 写的微型自托管粘贴箱与 URL 缩短器，可 cargo install 部署或用公开实例，但久未维护仅作收藏。"
 [taxonomies]
 tags = ["文本分享"]
 [extra]

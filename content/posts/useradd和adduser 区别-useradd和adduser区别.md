@@ -4,6 +4,7 @@ date = "2020-06-07 12:40:25"
 updated = "2021-05-14 22:04:07"
 slug = "7a9d6084"
 aliases = ["/2020/06_07_7a9d6084.html"]
+description = "对比useradd与adduser：RedHat中后者是前者的符号链接，Slackware中是交互式脚本，Ubuntu下家目录创建行为不同。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
 +++

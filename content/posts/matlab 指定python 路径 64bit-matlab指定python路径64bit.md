@@ -4,6 +4,7 @@ date = "2020-09-03 11:14:52"
 updated = "2021-05-14 22:02:45"
 slug = "9789d32"
 aliases = ["/2020/09_03_9789d32.html"]
+description = "MATLAB 不支持 32 位及高版本 Python，需用 pyversion 指定 Anaconda 环境里 64 位 python 路径，重启后会失效。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
 +++

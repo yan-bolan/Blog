@@ -4,6 +4,7 @@ date = "2021-04-30 15:40:54"
 updated = "2021-05-14 22:01:21"
 slug = "ca2fad54"
 aliases = ["/2021/04_30_ca2fad54.html"]
+description = "Dockerfile COPY dir1 ./ 复制的是目录内容而非目录本身，COPY dir1/* ./ 则只摊平复制各层文件、不保留原有目录结构。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
 +++

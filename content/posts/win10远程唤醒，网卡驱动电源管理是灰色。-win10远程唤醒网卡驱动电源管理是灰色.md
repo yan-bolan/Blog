@@ -4,6 +4,7 @@ date = "2019-10-23 10:32:00"
 updated = "2021-05-14 22:04:25"
 slug = "32300f50"
 aliases = ["/2019/10_23_32300f50.html"]
+description = "解决Win10远程唤醒时网卡电源管理选项灰色不可点的问题：更新网卡驱动并检查BIOS设置，再取消勾选限制选项即可恢复。"
 [extra]
 category = "win10"
 categories = ["win10"]

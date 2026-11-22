@@ -3,6 +3,7 @@ title = "ExcelCount_Learn"
 date = "2023-01-10 20:28:51"
 slug = "25708afb"
 aliases = ["/2023/01_10_25708afb.html"]
+description = "Excel计数学习笔记：统计包含指定文本的单元格与重复个数，附参考链接，并对pivot用法存疑待查。"
 [extra]
 cover = "https://picsum.photos/400"
 +++

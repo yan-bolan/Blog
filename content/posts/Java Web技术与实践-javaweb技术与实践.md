@@ -4,6 +4,7 @@ date = "2021-05-12 17:50:10"
 updated = "2021-05-15 15:43:07"
 slug = "1b052525"
 aliases = ["/2021/05_12_1b052525.html"]
+description = "Java Web读书笔记：梳理B/S与HTTP、Servlet生命周期与容器、JSP和MVC、内置对象，并介绍Spring的IoC注入、AOP与MVC原理。"
 [taxonomies]
 tags = ["Javaweb概述,web技术,spring"]
 [extra]

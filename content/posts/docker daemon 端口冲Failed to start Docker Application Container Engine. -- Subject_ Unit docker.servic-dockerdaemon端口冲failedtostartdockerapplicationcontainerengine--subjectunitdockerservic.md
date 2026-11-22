@@ -4,6 +4,7 @@ date = "2021-03-23 20:43:17"
 updated = "2021-05-14 22:01:21"
 slug = "8635693c"
 aliases = ["/2021/03_23_8635693c.html"]
+description = "Docker 服务起不来常因 restart=always 容器端口冲突随服务自启，用 dockerd 前台定位占用，删容器或改 hostconfig 端口。"
 [taxonomies]
 tags = ["docker,端口冲突,dockerd,docker服务无法启动"]
 [extra]

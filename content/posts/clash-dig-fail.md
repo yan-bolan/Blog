@@ -3,6 +3,7 @@ title = "clash dig fail"
 date = "2023-10-14 09:42:25"
 slug = "186421e6"
 aliases = ["/2023/10_14_186421e6.html"]
+description = "Clash TUN 模式下 dig 反推域名失败，多因浏览器默认开启安全 DNS 干扰劫持，关闭浏览器安全 DNS 即可恢复。"
 [taxonomies]
 tags = ["clash", "dns", "tun"]
 [extra]

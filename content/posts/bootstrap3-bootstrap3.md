@@ -4,6 +4,7 @@ date = "2019-11-14 20:55:32"
 updated = "2021-05-14 22:01:12"
 slug = "3d865ce1"
 aliases = ["/2019/11_14_3d865ce1.html"]
+description = "Bootstrap2 栅格列写作 span5，Bootstrap3 写作 col-*-*，跨版本复制布局代码无效，需改用对应版本 CSS。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
 +++

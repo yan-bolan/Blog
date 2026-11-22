@@ -4,6 +4,7 @@ date = "2020-04-17 15:00:53"
 updated = "2021-05-14 22:03:52"
 slug = "a88e955"
 aliases = ["/2020/04_17_a88e955.html"]
+description = "记录Android Studio提示杀毒软件可能影响构建性能并列出受检目录：机器无第三方杀毒仅Windows防火墙，附截图，未给出明确排除步骤。"
 [taxonomies]
 tags = ["anti-virus,window Defender,排除"]
 [extra]

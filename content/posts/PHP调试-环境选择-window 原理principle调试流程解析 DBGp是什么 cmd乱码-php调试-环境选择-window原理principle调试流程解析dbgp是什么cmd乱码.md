@@ -4,6 +4,7 @@ date = "2021-01-01 14:00:27"
 updated = "2021-05-14 22:02:10"
 slug = "793afe65"
 aliases = ["/2021/01_01_793afe65.html"]
+description = "PHP调试原理笔记：Windows下xdebug配php.ini端口与idekey，解析DBGp代理与php-CGI链路，chcp 65001解cmd乱码。"
 [taxonomies]
 tags = ["phpstorm调试,xdebug调试,cmd乱码,调试原理,调试流程"]
 [extra]

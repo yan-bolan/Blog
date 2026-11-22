@@ -3,6 +3,7 @@ title = "net_using_找不到"
 date = "2023-10-09 20:42:10"
 slug = "fdb6fcb9"
 aliases = ["/2023/10_09_fdb6fcb9.html"]
+description = "排查C#报CS0246找不到类型：引用的程序集框架版本高于目标框架所致，升级net4.0至4.5或安装匹配的System.Net.Http包解决。"
 [taxonomies]
 tags = ["csharp", "net", "using", "依赖"]
 [extra]

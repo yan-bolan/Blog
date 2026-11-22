@@ -4,6 +4,7 @@ date = "2021-04-09 18:36:46"
 updated = "2021-05-14 22:00:53"
 slug = "d7364b76"
 aliases = ["/2021/04_09_d7364b76.html"]
+description = "innerHTML 插入的 script 不执行致 Bokeh 未定义，用 createElement 设 src 追加，或用 Bokeh INLINE 内联。"
 [taxonomies]
 tags = ["js"]
 [extra]

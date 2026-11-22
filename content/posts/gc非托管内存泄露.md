@@ -3,6 +3,7 @@ title = "gc非托管内存泄露"
 date = "2023-09-10 10:26:18"
 slug = "43959cba"
 aliases = ["/2023/09_10_43959cba.html"]
+description = ".NET GC 无法自动释放非托管资源，须实现 Dispose 显式清理并抑制终结器，推荐用 SafeHandle 包装句柄而非自写终结器，以防内存泄露。"
 [taxonomies]
 tags = ["net"]
 [extra]

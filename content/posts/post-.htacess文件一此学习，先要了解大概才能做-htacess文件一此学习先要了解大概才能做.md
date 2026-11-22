@@ -3,6 +3,7 @@ title = ".htacess文件一此学习，先要了解大概才能做"
 date = "2020-06-17 15:35:02"
 updated = "2021-05-14 22:01:27"
 slug = "htacess文件一此学习，先要了解大概才能做-htacess文件一此学习先要了解大概才能做"
+description = "初学.htaccess文件：RewriteRule与Redirect permanent两种301重定向写法，需先开启重写支持，附在线编辑工具与防盗链参考。"
 [taxonomies]
 tags = [".htacesss"]
 [extra]

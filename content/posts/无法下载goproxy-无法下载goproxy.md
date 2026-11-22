@@ -4,6 +4,7 @@ date = "2019-10-25 20:59:27"
 updated = "2021-05-14 22:05:00"
 slug = "1d9e16f8"
 aliases = ["/2019/10_25_1d9e16f8.html"]
+description = "记录proxy-admin无法下载时的手动安装法：脚本从GitHub拉取proxy_admin_free最新release，解压安装后访问32080端口。"
 [extra]
 category = "Linux"
 categories = ["Linux"]

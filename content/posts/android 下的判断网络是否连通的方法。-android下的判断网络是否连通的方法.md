@@ -4,6 +4,7 @@ date = "2020-05-09 14:49:45"
 updated = "2021-05-14 22:01:00"
 slug = "7f4ed8ff"
 aliases = ["/2020/05_09_7f4ed8ff.html"]
+description = "标题为Android下判断网络是否连通的方法，标签涉ping，正文为空，未附具体实现与结论。"
 [taxonomies]
 tags = ["ping,安卓,网络连通"]
 [extra]

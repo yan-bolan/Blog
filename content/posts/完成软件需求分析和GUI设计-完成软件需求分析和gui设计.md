@@ -4,6 +4,7 @@ date = "2019-10-01 22:55:49"
 updated = "2021-05-14 22:05:00"
 slug = "c858520b"
 aliases = ["/2019/10_01_c858520b.html"]
+description = "记录软件需求分析与GUI设计的完成成果，正文以设计截图展示界面与需求要点。"
 [taxonomies]
 tags = ["GUI"]
 [extra]

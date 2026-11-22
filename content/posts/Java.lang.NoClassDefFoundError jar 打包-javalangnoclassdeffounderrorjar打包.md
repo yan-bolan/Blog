@@ -4,6 +4,7 @@ date = "2020-07-30 19:42:36"
 updated = "2021-05-14 22:02:27"
 slug = "a07c8ebb"
 aliases = ["/2020/07_30_a07c8ebb.html"]
+description = "排查改pom后打包jar报NoClassDefFoundError：IDEA的artifacts未随依赖更新致jar缺类，重建artifacts解决。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
 +++

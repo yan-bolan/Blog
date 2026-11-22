@@ -3,6 +3,7 @@ title = "Net编码UTF-8BOM问题"
 date = "2023-04-25 21:31:18"
 slug = "5c8085e"
 aliases = ["/2023/04_25_5c8085e.html"]
+description = "梳理.NET的UTF-8 BOM：Encoding.UTF8默认带BOM致JSON解析报错，用UTF8Encoding(false)去除，BOM作用于文件。"
 [taxonomies]
 tags = ["net", "encoding", "utfbom"]
 [extra]

@@ -3,6 +3,7 @@ title = "cte递归查询执行顺序"
 date = "2023-05-27 08:19:35"
 slug = "15c2bc64"
 aliases = ["/2023/05_27_15c2bc64.html"]
+description = "递归 CTE 由定位点成员与递归成员组成，先执行定位点得基准集，再以前一轮结果为输入迭代至空集，最后 UNION ALL 合并，用于树形与相邻比较。"
 [taxonomies]
 tags = ["oracle", "sql_server", "原理"]
 [extra]

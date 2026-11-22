@@ -4,6 +4,7 @@ date = "2019-10-16 23:11:02"
 updated = "2021-05-14 22:00:50"
 slug = "7fd2371e"
 aliases = ["/2019/10_16_7fd2371e.html"]
+description = "IDEA 中给某个类临时加 main 方法即可单独运行做实时测试，无需等到最后统一写 main 入口。"
 [extra]
 category = "IDE"
 categories = ["IDE"]

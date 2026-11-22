@@ -3,6 +3,7 @@ title = "sqldeveloper窗口布局"
 date = "2023-05-01 16:58:16"
 slug = "d6ced2b0"
 aliases = ["/2023/05_01_d6ced2b0.html"]
+description = "解决SQL Developer窗口布局重置无效：拖动选项卡出现黄色框后松开即可重新停靠，也可更新版本或以管理员权限设置布局。"
 [taxonomies]
 tags = ["窗口布局"]
 [extra]

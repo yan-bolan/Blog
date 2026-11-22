@@ -4,6 +4,7 @@ date = "2021-03-25 13:47:12"
 updated = "2021-05-14 22:02:48"
 slug = "8a25f384"
 aliases = ["/2021/03_25_8a25f384.html"]
+description = "记录selenium联动mitmproxy时Chrome报USB设备描述符读取失败的问题，改用继承线程类方式后mitmproxy可继续执行，但报错仍未根除。"
 [taxonomies]
 tags = ["python,多线程,mitmproxy,函数线程"]
 [extra]

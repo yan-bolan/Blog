@@ -4,6 +4,7 @@ date = "2020-05-30 16:18:45"
 updated = "2021-05-14 22:01:03"
 slug = "4bcb4106"
 aliases = ["/2020/05_30_4bcb4106.html"]
+description = "Android笔记：应用专属SD缓存目录getExternalFilesDir等无需权限、卸载即清空，权限须运行时动态申请；约束布局基线对齐，建议看官方文档。"
 [taxonomies]
 tags = ["android,存储"]
 [extra]

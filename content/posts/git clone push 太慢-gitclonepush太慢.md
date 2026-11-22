@@ -4,6 +4,7 @@ date = "2020-06-19 20:49:29"
 updated = "2021-05-14 22:01:24"
 slug = "6df7b723"
 aliases = ["/2020/06_19_6df7b723.html"]
+description = "git clone、push 慢因未走本地代理，用 git config --global 设置 http/https 代理指向本机 socks5 端口加速。"
 [taxonomies]
 tags = ["proxy,git"]
 [extra]

@@ -4,6 +4,7 @@ date = "2020-06-28 12:00:31"
 updated = "2021-05-14 22:00:57"
 slug = "440b3379"
 aliases = ["/2020/06_28_440b3379.html"]
+description = "汇总adb实用命令：用&&串联卸载、安装与启动Activity；局域网wifi调试两法，非root需数据线先开tcpip且重启后重做，root可手机直接开。"
 [taxonomies]
 tags = ["adb,cmd,多条"]
 [extra]

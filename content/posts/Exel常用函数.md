@@ -3,6 +3,7 @@ title = "Exel常用函数"
 date = "2022-10-09 21:04:13"
 slug = "4970e95"
 aliases = ["/2022/10_09_4970e95.html"]
+description = "梳理Excel常用函数：SUM、VLOOKUP与HLOOKUP、MATCH、LOOKUP及XLOOKUP等的用法差异，认为复杂公式的取舍取决于数据量与效益。"
 [extra]
 cover = "https://tva4.sinaimg.cn/large/0072Vf1pgy1foxk6le0yfj31hc0u0e3y.jpg"
 +++

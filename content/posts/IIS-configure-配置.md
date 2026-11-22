@@ -3,6 +3,7 @@ title = "IIS configure 配置"
 date = "2022-10-15 21:24:06"
 slug = "20ff60c4"
 aliases = ["/2022/10_15_20ff60c4.html"]
+description = "排查IIS报500.19配置节被锁：安装ASP.NET等应用开发功能或将overrideModeDefault设为Allow解决，另记400无效主机名问题。"
 [taxonomies]
 tags = ["iis"]
 [extra]

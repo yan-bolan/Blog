@@ -4,6 +4,7 @@ date = "2019-11-10 00:08:57"
 updated = "2021-05-14 22:01:16"
 slug = "83e06d3"
 aliases = ["/2019/11_10_83e06d3.html"]
+description = "记录JavaWeb中CheckBox选中取值与回填的参考资料，正文仅附博客园相关链接。"
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

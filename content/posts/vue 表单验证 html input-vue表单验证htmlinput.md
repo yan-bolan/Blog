@@ -4,6 +4,7 @@ date = "2020-10-11 23:11:57"
 updated = "2021-05-14 22:04:18"
 slug = "831c046e"
 aliases = ["/2020/10_11_831c046e.html"]
+description = "介绍用HTML原生属性做表单验证：input的required必填、maxlength限长、pattern正则，比Vue或Element校验更省事。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
 +++

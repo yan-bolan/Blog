@@ -4,6 +4,7 @@ date = "2019-10-21 20:13:01"
 updated = "2021-05-14 22:01:06"
 slug = "cb6ead73"
 aliases = ["/2019/10_21_cb6ead73.html"]
+description = "Apache配置代理：conf追加proxy等LoadModule模块、启用ProxyRequests并允许所有访问，重启后浏览器设代理本机端口，能访问即成功。"
 [extra]
 category = "网络"
 categories = ["网络"]

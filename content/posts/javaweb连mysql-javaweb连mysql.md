@@ -4,6 +4,7 @@ date = "2019-10-17 11:27:29"
 updated = "2021-05-14 22:02:27"
 slug = "2af26e9c"
 aliases = ["/2019/10_17_2af26e9c.html"]
+description = "JavaWeb 用 JDBC 连 MySQL，分 UserVo 实体、connection 取连接、option 增删查改三类，执行 SQL 完成 CRUD。"
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

@@ -4,6 +4,7 @@ date = "2020-04-21 20:17:35"
 updated = "2021-05-14 22:00:57"
 slug = "db6b87b4"
 aliases = ["/2020/04_21_db6b87b4.html"]
+description = "排查Spring报EnableAsync元数据未注入错误：ComponentScan未限定包而扫入Spring自身注解，指定扫描包或改用XML配置容器解决。"
 [taxonomies]
 tags = ["spring context"]
 [extra]

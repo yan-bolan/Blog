@@ -4,6 +4,7 @@ date = "2019-10-03 11:20:39"
 updated = "2021-05-14 22:04:20"
 slug = "9929bc1f"
 aliases = ["/2019/10_03_9929bc1f.html"]
+description = "备忘Win10 1903的截图快捷键Win+Shift+S，正文以截图演示为主，文字说明缺失。"
 [taxonomies]
 tags = ["快捷键"]
 [extra]

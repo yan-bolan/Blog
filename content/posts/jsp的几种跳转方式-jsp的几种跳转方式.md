@@ -4,6 +4,7 @@ date = "2019-10-09 22:24:40"
 updated = "2021-05-14 22:02:33"
 slug = "2e661f9a"
 aliases = ["/2019/10_09_2e661f9a.html"]
+description = "收藏一条博客园教程链接，供参考 JSP 页面的几种跳转方式。"
 [taxonomies]
 tags = ["jsp"]
 [extra]

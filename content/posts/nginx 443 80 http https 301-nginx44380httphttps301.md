@@ -4,6 +4,7 @@ date = "2021-03-20 17:35:19"
 updated = "2021-05-14 22:02:51"
 slug = "71a5c8f9"
 aliases = ["/2021/03_20_71a5c8f9.html"]
+description = "记录nginx将80端口HTTP请求301重定向到443 HTTPS的配置要点，并提醒浏览器会缓存301，需禁用缓存才能看到更新效果。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 +++

@@ -4,6 +4,7 @@ date = "2019-11-15 21:32:11"
 updated = "2021-05-14 22:02:43"
 slug = "30188e85"
 aliases = ["/2019/11_15_30188e85.html"]
+description = "Linux 防火墙排查：外网打不开先查 firewalld/iptables 并重启，切记宁可关闭也别卸载防火墙；兼记路径与 Apache 配置。"
 [extra]
 category = "Linux"
 categories = ["Linux"]

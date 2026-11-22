@@ -3,6 +3,7 @@ title = "net并行多发编程"
 date = "2023-04-01 21:30:26"
 slug = "fd8e85bf"
 aliases = ["/2023/04_01_fd8e85bf.html"]
+description = "梳理.NET异步编程演进：Thread、线程池、Task与async/await，剖析count++竞态与lock同步，澄清async不创建线程的误区。"
 [taxonomies]
 tags = ["net", "多线程"]
 [extra]

@@ -3,6 +3,7 @@ title = "nginx代理配置记录"
 date = "2022-04-12 00:17:55"
 slug = "d772a0a6"
 aliases = ["/2022/04_12_d772a0a6.html"]
+description = "整理nginx反向代理配置：location五种匹配符与优先级、proxy_pass带不带斜杠的路径差异，附可直接复用的配置示例。"
 [taxonomies]
 tags = ["nginx"]
 +++

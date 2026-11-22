@@ -4,6 +4,7 @@ date = "2019-11-09 14:54:29"
 updated = "2021-05-14 22:02:39"
 slug = "e44eae33"
 aliases = ["/2019/11_09_e44eae33.html"]
+description = "layui 数据表格异步加载一直转圈并报 LAY_TABLE_INDEX 赋值错误，因返回数据不符规范，成功状态码须为 code:0，附排查链接。"
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

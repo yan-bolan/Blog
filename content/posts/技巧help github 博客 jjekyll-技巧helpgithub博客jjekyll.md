@@ -4,6 +4,7 @@ date = "2020-05-13 18:46:03"
 updated = "2021-05-14 22:05:13"
 slug = "a3bd1c77"
 aliases = ["/2020/05_13_a3bd1c77.html"]
+description = "关于用GitHub与Jekyll搭建博客的技巧笔记，正文暂无实质内容，仅留标题待补充。"
 [taxonomies]
 tags = ["github"]
 [extra]

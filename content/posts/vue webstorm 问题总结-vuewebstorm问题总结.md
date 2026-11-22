@@ -4,6 +4,7 @@ date = "2020-01-02 22:48:41"
 updated = "2021-05-14 22:04:15"
 slug = "3c72f3ef"
 aliases = ["/2020/01_02_3c72f3ef.html"]
+description = "汇总Vue与WebStorm踩坑：iview解析与渲染问题、eslint规则关闭、prop单向绑定、click.native及axios回调this指向等解法。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
 +++

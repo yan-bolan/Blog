@@ -3,6 +3,7 @@ title = "PLSQL登录数据库"
 date = "2023-05-01 16:30:34"
 slug = "40d2138c"
 aliases = ["/2023/05_01_40d2138c.html"]
+description = "介绍PL/SQL登录Oracle两种情形：本机有库在首选项设连接直连；无库下载instantclient配目录，装库后登不上改目录为安装目录。"
 [taxonomies]
 tags = ["plsql"]
 [extra]

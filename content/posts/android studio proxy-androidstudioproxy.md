@@ -4,6 +4,7 @@ date = "2020-08-02 09:32:25"
 updated = "2021-05-14 22:01:00"
 slug = "4f223e60"
 aliases = ["/2020/08_02_4f223e60.html"]
+description = "记录Android Studio代理分IDE与Gradle两层：IDE在Settings设置、留空用系统代理，Gradle在用户目录配置全局生效，以截图为主。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
 +++

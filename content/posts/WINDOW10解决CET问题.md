@@ -3,6 +3,7 @@ title = "WINDOW10解决CET问题"
 date = "2026-07-31 10:10:59"
 slug = "a0403f4"
 aliases = ["/2026/07_31_a0403f4.html"]
+description = "记录VS Code C#开发触发CET堆栈保护致闪退：不能升级时，在Exploit Protection把主程序与两个C#服务进程加白名单关CET，重启生效。"
 [taxonomies]
 tags = ["CET", "VSCODE", "C#"]
 [extra]

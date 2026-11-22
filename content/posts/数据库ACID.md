@@ -3,6 +3,7 @@ title = "数据库ACID"
 date = "2023-02-04 14:58:57"
 slug = "c5cf1b6e"
 aliases = ["/2023/02_04_c5cf1b6e.html"]
+description = "围绕数据库一致性整理Oracle锁机制：列举各级锁模式与select for update用法，并介绍v$lock等视图及AWR性能分析。"
 [taxonomies]
 tags = ["ACID"]
 [extra]

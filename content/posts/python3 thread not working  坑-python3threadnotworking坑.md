@@ -4,6 +4,7 @@ date = "2021-03-30 19:58:31"
 updated = "2021-05-14 22:02:20"
 slug = "1e98952d"
 aliases = ["/2021/03_30_1e98952d.html"]
+description = "Python3多线程传参坑：_thread启动函数参数须为元组且单参数加逗号，线程池submit直接传参，写错时不报错但线程不执行。"
 [taxonomies]
 tags = ["python,多进程,tuple"]
 [extra]

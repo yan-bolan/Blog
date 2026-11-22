@@ -4,6 +4,7 @@ date = "2019-10-15 20:07:56"
 updated = "2021-05-14 22:01:03"
 slug = "bbbd38a3"
 aliases = ["/2019/10_15_bbbd38a3.html"]
+description = "改Android版本号：在app模块build.gradle修改并与manifest一致；报NDK UNKNOWN错误时先make project再生成apk。"
 [extra]
 category = "andriod"
 categories = ["andriod"]

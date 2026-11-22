@@ -4,6 +4,7 @@ date = "2020-03-28 20:37:24"
 updated = "2021-05-14 22:09:35"
 slug = "c0508d9a"
 aliases = ["/2020/03_28_c0508d9a.html"]
+description = "汇总PuTTY实用技巧：改版保存密码、keepalive保活、UTF-8中文显示与session保存，并详解SSH密钥登录及用PuTTYgen转换私钥格式。"
 [extra]
 category = "Linux"
 categories = ["Linux"]

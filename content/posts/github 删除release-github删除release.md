@@ -4,6 +4,7 @@ date = "2019-09-18 18:32:40"
 updated = "2021-05-14 22:01:27"
 slug = "5617b5e"
 aliases = ["/2019/09_18_5617b5e.html"]
+description = "GitHub 增删 release 无需 git 命令行，管理员在网页进入 tags 点对应版本删除，或点 latest release 新增版本。"
 [taxonomies]
 tags = ["github"]
 [extra]

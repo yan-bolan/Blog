@@ -4,6 +4,7 @@ date = "2019-10-24 10:35:05"
 updated = "2021-05-14 22:04:18"
 slug = "21eb2414"
 aliases = ["/2019/10_24_21eb2414.html"]
+description = "Windows相关操作记录条目，正文仅存一张截图，文字内容缺失，主题据标题推测与wine有关。"
 [extra]
 category = "win10"
 categories = ["win10"]

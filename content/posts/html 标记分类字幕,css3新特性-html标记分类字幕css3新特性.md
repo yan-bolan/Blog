@@ -4,6 +4,7 @@ date = "2021-05-11 10:30:51"
 updated = "2021-05-14 22:01:30"
 slug = "38bd0430"
 aliases = ["/2021/05_11_38bd0430.html"]
+description = "总结 HTML 标记分类（字幕 marquee、锚点、框架）、CSS 定义方式与优先级顺序，及 CSS3 阴影、变形、@font-face、过渡动画等新特性。"
 [taxonomies]
 tags = ["css3新特性,html标记分类,总结"]
 [extra]

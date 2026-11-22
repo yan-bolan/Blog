@@ -3,6 +3,7 @@ title = "Notificationsapi"
 date = "2025-03-30 20:14:35"
 slug = "cfc58453d"
 aliases = ["/2025/03_30_cfc58453d.html"]
+description = "排查Chrome通知不显示：因Notifications API的basic类型在Chrome中iconUrl为必填项，Firefox则可选。"
 [taxonomies]
 tags = ["mysql"]
 [extra]

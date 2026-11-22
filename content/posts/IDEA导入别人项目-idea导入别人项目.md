@@ -4,6 +4,7 @@ date = "2020-01-16 10:41:36"
 updated = "2021-05-14 22:00:50"
 slug = "962c9152"
 aliases = ["/2020/01_16_962c9152.html"]
+description = "记录IDEA导入他人项目报Invalid Maven home directory configured：需将Maven路径改为自己的本地配置，附参考链接。"
 [extra]
 category = "笔记"
 categories = ["笔记"]

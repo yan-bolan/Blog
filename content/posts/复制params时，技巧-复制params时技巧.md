@@ -4,6 +4,7 @@ date = "2019-10-16 12:59:01"
 updated = "2021-05-14 22:05:10"
 slug = "b5f314a4"
 aliases = ["/2019/10_16_b5f314a4.html"]
+description = "记录IDE中复制params的小技巧：通过右击复制即可得到param格式的参数，免去逐个手动输入。"
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

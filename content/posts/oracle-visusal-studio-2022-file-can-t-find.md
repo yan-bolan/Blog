@@ -3,6 +3,7 @@ title = "oracle visusal studio 2022 file can't find"
 date = "2023-01-13 23:04:55"
 slug = "302a9958"
 aliases = ["/2023/01_13_302a9958.html"]
+description = "排查VS2022报Oracle.DataAccess文件找不到：准备32与64位ODAC非托管客户端，并把AnyCPU项目平台目标改为对应位数。"
 [taxonomies]
 tags = ["oracle"]
 [extra]

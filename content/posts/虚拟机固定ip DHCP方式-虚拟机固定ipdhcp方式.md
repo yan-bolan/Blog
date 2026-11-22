@@ -4,6 +4,7 @@ date = "2020-05-18 21:24:43"
 updated = "2021-05-14 22:05:03"
 slug = "60c3eb0a"
 aliases = ["/2020/05_18_60c3eb0a.html"]
+description = "记录虚拟机固定IP的DHCP思路：可尝试把DHCP最大租约天数调大以稳定地址，正文附配置截图。"
 [taxonomies]
 tags = ["ip vm"]
 [extra]

@@ -4,6 +4,7 @@ date = "2019-10-21 20:06:36"
 updated = "2021-05-14 22:01:06"
 slug = "52071ffa"
 aliases = ["/2019/10_21_52071ffa.html"]
+description = "Apache httpd.conf改动笔记：改前备份、重启生效，配置有错无法启动需逐条加入定位，查日志或httpd.exe -k start看提示。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 +++

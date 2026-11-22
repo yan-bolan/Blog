@@ -4,6 +4,7 @@ date = "2021-05-03 16:38:16"
 updated = "2021-05-14 22:04:25"
 slug = "63f5bbdd"
 aliases = ["/2021/05_03_63f5bbdd.html"]
+description = "小结Word查找替换通配符用法：区分查找栏与替换栏可用符号，用括号分组并在替换栏引用保留内容，借助定界与!非运算减少误匹配。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
 +++

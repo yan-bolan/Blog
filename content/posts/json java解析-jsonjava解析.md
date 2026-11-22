@@ -4,6 +4,7 @@ date = "2019-11-13 13:52:21"
 updated = "2021-05-14 22:02:33"
 slug = "15dfb87e"
 aliases = ["/2019/11_13_15dfb87e.html"]
+description = "fastjson 解析对象套数组的 JSON：parseObject 取对象，数组字段再 parseArray，元素须 toString 再取值，忌直接强转。"
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

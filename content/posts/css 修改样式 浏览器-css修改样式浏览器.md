@@ -4,6 +4,7 @@ date = "2020-10-04 20:24:23"
 updated = "2021-05-14 22:01:18"
 slug = "a9f36936"
 aliases = ["/2020/10_04_a9f36936.html"]
+description = "借助浏览器开发者工具定位元素并实时修改 CSS 属性来排查模板样式问题，无从下手时用排除法、删除法与二分定位法缩小范围。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
 +++

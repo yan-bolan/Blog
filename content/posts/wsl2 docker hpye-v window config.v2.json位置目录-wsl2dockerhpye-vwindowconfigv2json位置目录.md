@@ -4,6 +4,7 @@ date = "2021-03-31 19:09:05"
 updated = "2021-05-14 22:03:48"
 slug = "3a6fd2e9"
 aliases = ["/2021/03_31_3a6fd2e9.html"]
+description = "记录WSL2版Docker Desktop容器配置文件config.v2.json的路径在docker-desktop-data发行版中，默认发行版里找不到。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
 +++

@@ -3,6 +3,7 @@ title = "Code-Faster-With-Visual-Studio-2022-Productivity-Tips"
 date = "2022-09-09 11:33:44"
 slug = "5a28305f"
 aliases = ["/2022/09_09_5a28305f.html"]
+description = "Visual Studio 2022效率技巧：清理命名空间与格式化快捷键、ctor和prop片段、Immediate窗口、交互式REPL及JSON粘贴生成类。"
 +++
 1. unused namespaces : delete;
    

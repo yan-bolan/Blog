@@ -3,6 +3,7 @@ title = "ORACLE JOB失败16次后停止"
 date = "2023-09-12 19:31:32"
 slug = "840d974e"
 aliases = ["/2023/09_12_840d974e.html"]
+description = "说明Oracle DBMS_JOB的broken机制：连续16次执行失败或经DBMS_JOB.BROKEN显式标记后作业中断不再重试，监控指标超阈值告警。"
 [taxonomies]
 tags = ["oracle", "oracle dbms"]
 [extra]

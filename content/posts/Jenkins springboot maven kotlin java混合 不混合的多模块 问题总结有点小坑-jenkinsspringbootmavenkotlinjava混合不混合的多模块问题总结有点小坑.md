@@ -4,6 +4,7 @@ date = "2020-10-07 10:33:10"
 updated = "2021-05-14 22:02:30"
 slug = "efdc1d52"
 aliases = ["/2020/10_07_efdc1d52.html"]
+description = "排查Jenkins构建多模块报package不存在：纯Kotlin模块未指定源码目录致打出空jar，为kotlin插件配置sourceDirs解决。"
 [taxonomies]
 tags = ["jenkins,maven问题,kotlinJAVA混合,多模块下的问题"]
 [extra]

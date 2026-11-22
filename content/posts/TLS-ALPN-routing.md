@@ -2,6 +2,7 @@
 title = "TLS、ALPN 与子域名分流排查记录"
 date = "2026-10-18 18:44:38"
 slug = "TLS-ALPN-routing"
+description = "排查Android客户端拿到自签名证书：OpenResty按ALPN分流，无ALPN落入RDP后端；在SNI映射加子域名通配指向web后端，修复后证书正常。"
 +++
 # TLS、ALPN 与子域名分流排查记录
 

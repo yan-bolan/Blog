@@ -3,6 +3,7 @@ title = "英文版window 中文应用乱码问题"
 date = "2022-10-30 15:46:56"
 slug = "f270544e"
 aliases = ["/2022/10_30_f270544e.html"]
+description = "解决英文版Windows中文应用乱码：区域与显示语言改中文后仍乱码，需在管理语言设置中把非Unicode程序的语言改为中文。"
 [extra]
 cover = "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxk6yzby3j31hc0u0nds.jpg"
 +++

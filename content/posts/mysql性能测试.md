@@ -3,6 +3,7 @@ title = "mysql性能测试"
 date = "2025-03-30 20:14:35"
 slug = "cfc5884dd"
 aliases = ["/2025/03_30_cfc5884dd.html"]
+description = "对比mysqlslap、SysBench、HammerDB等MySQL压测工具，实测并解读QPS与并发指标，记录HammerDB容器部署的踩坑。"
 [taxonomies]
 tags = ["mysql"]
 [extra]

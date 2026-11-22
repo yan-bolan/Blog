@@ -4,6 +4,7 @@ date = "2019-10-04 16:44:03"
 updated = "2021-05-14 22:05:03"
 slug = "285cf44f"
 aliases = ["/2019/10_04_285cf44f.html"]
+description = "记录用IDEA加SSH加Maven搭建Web开发框架的过程：以网页管理方式替代客户端编程环境，已完成配置并持续更新。"
 [taxonomies]
 tags = ["ssｈ"]
 [extra]

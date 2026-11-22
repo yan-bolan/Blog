@@ -4,6 +4,7 @@ date = "2019-10-22 19:26:51"
 updated = "2021-05-14 22:02:39"
 slug = "f09abf05"
 aliases = ["/2019/10_22_f09abf05.html"]
+description = "收藏 Linux FTP 服务器搭建相关链接，涵盖安装、用户配置、保存与目录设置等参考教程。"
 [extra]
 category = "Linux"
 categories = ["Linux"]

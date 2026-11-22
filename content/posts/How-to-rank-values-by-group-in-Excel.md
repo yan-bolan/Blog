@@ -3,6 +3,7 @@ title = "How to rank values by group in Excel?"
 date = "2023-05-05 20:52:39"
 slug = "e4698ace"
 aliases = ["/2023/05_05_e4698ace.html"]
+description = "介绍Excel分组排名：用SUMPRODUCT将分组匹配与大小比较的布尔数组相乘求和加一；作者认为公式复杂实用性有限，并解释矩阵相乘原理。"
 [taxonomies]
 tags = ["EXCEL", "分组排序"]
 [extra]

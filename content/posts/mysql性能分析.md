@@ -3,6 +3,7 @@ title = "mysqlEXPLAIN"
 date = "2025-03-30 20:14:35"
 slug = "cfc58724dd"
 aliases = ["/2025/03_30_cfc58724dd.html"]
+description = "介绍MySQL执行计划分析：EXPLAIN与EXPLAIN ANALYZE用法、Performance Schema和Workbench可视化，定位查询瓶颈。"
 [taxonomies]
 tags = ["mysql"]
 [extra]

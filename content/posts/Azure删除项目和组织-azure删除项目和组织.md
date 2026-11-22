@@ -4,6 +4,7 @@ date = "2019-10-03 12:42:01"
 updated = "2021-05-14 22:01:09"
 slug = "c6de1dfd"
 aliases = ["/2019/10_03_c6de1dfd.html"]
+description = "说明Azure DevOps中删除项目的操作入口：进入项目设置页面后在底部找到删除选项，附截图演示。"
 [taxonomies]
 tags = ["Azure"]
 [extra]

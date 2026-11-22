@@ -4,6 +4,7 @@ date = "2019-10-03 13:13:20"
 updated = "2021-05-14 22:05:13"
 slug = "6a415b3f"
 aliases = ["/2019/10_03_6a415b3f.html"]
+description = "记录用Axure RP继续完善GUI设计：完成登录界面及登录下拉选框的原型，正文以截图展示。"
 [taxonomies]
 tags = ["Axure RP"]
 [extra]

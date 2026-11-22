@@ -4,6 +4,7 @@ date = "2020-03-05 19:45:07"
 updated = "2021-05-14 22:02:20"
 slug = "f8c36cd4"
 aliases = ["/2020/03_05_f8c36cd4.html"]
+description = "Python学习杂记：pip安装与镜像源、shebang写法、Scrapy组件与运行流程，以及PyCharm用虚拟环境、Docker或SSH解释器的配置。"
 [taxonomies]
 tags = ["python,linux,docker"]
 [extra]

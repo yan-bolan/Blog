@@ -2,6 +2,7 @@
 title = "hypervubuntu增强会话"
 date = "2026-03-04 21:52:54"
 slug = "hypervubuntu增强会话"
+description = "Hyper-V Ubuntu 22.0 起支持增强会话：先基础模式设用户密码并退出，再切增强模式登录，两模式不可同时在线，root 需手动开 xorg。"
 +++
 这个22.0之后 已经可以了。一开先基础模式进入设置用户和密码。
 

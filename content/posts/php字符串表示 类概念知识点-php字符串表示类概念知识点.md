@@ -4,6 +4,7 @@ date = "2021-05-11 12:15:36"
 updated = "2021-05-14 22:02:13"
 slug = "b9d3fab3"
 aliases = ["/2021/05_11_b9d3fab3.html"]
+description = "罗列PHP字符串的四种表示（单双引号、heredoc、nowdoc）与类核心知识点：继承、static、traits、抽象接口、魔术方法及重载序列化等。"
 [taxonomies]
 tags = ["php类概念,php字符串"]
 [extra]

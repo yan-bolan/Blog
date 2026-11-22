@@ -4,6 +4,7 @@ date = "2021-05-13 23:20:08"
 updated = "2021-05-14 19:17:26"
 slug = "3ae0ab83"
 aliases = ["/2021/05_13_3ae0ab83.html"]
+description = "一则文集语录：摘录寂寥冷清的心境短句，配以插图、网易云音乐与钢琴曲音频营造氛围。"
 [taxonomies]
 tags = ["语录"]
 [extra]

@@ -4,6 +4,7 @@ date = "2019-10-16 22:50:35"
 updated = "2021-05-14 22:02:23"
 slug = "1559ec4"
 aliases = ["/2019/10_16_1559ec4.html"]
+description = "JavaWeb 报 MySQL 驱动类找不到，因缺 mysql-connector-java 包，按数据库版本从 Maven 仓库取依赖写入 pom.xml。"
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

@@ -4,6 +4,7 @@ date = "2020-06-02 17:33:35"
 updated = "2021-05-14 22:05:03"
 slug = "d7ab8dc5"
 aliases = ["/2020/06_02_d7ab8dc5.html"]
+description = "说明HTML表单生成文件上传变量的三条件：用POST提交、enctype设为multipart/form-data、含文件上传控件。"
 [taxonomies]
 tags = ["php文件上传,http协议"]
 [extra]

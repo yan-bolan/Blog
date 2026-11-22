@@ -3,6 +3,7 @@ title = "js引用传递"
 date = "2023-03-24 21:52:46"
 slug = "3dab0886"
 aliases = ["/2023/03_24_3dab0886.html"]
+description = "setInterval 传入的是函数对象引用，之后给变量重新赋值新函数不会改变已注册回调，仍执行旧函数，体现 JS 按引用传递与闭包特性。"
 [taxonomies]
 tags = ["闭包", "覆盖"]
 [extra]

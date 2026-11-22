@@ -4,6 +4,7 @@ date = "2020-06-18 21:22:10"
 updated = "2021-05-14 22:01:30"
 slug = "aa1d213f"
 aliases = ["/2020/06_18_aa1d213f.html"]
+description = "Wercker 持续集成构建 Hugo 的踩坑：hugo-build 版本号去引号、主题托管到 GitHub、git token 配在环境变量。"
 [taxonomies]
 tags = ["hugo,themes"]
 [extra]

@@ -4,6 +4,7 @@ date = "2021-01-03 18:15:50"
 updated = "2021-05-14 22:04:12"
 slug = "f87749d0"
 aliases = ["/2021/01_03_f87749d0.html"]
+description = "排查VSCode LaTeX Workshop报spawn latexmk enoent：TeX Live与PATH均正常，实为装后未重启系统，重启电脑即解决。"
 [taxonomies]
 tags = ["TexLive,latex,latexmk,vscode 环境变量"]
 [extra]

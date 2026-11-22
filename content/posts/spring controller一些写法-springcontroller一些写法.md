@@ -4,6 +4,7 @@ date = "2020-09-29 22:33:27"
 updated = "2021-05-14 22:03:52"
 slug = "15713189"
 aliases = ["/2020/09_29_15713189.html"]
+description = "以注释示例整理Spring Controller写法：请求映射与各类参数绑定、文件上传、JSR-303分组校验、拦截器、跨域与错误处理。"
 [taxonomies]
 tags = ["springboot,controller"]
 [extra]

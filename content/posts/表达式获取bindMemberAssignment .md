@@ -3,6 +3,7 @@ title = "表达式来有判断有设定哪些栏位"
 date = "2025-03-30 20:14:35"
 slug = "cfc5842dd"
 aliases = ["/2025/03_30_cfc5842dd.html"]
+description = "讲解用C#表达式树获取对象初始化时已赋值的属性名：解析MemberInitExpression中的赋值绑定项，供SqlSugar按需更新列。"
 [taxonomies]
 tags = ["c#"]
 [extra]

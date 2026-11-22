@@ -4,6 +4,7 @@ date = "2019-11-10 12:05:35"
 updated = "2021-05-14 22:02:27"
 slug = "5a3762d0"
 aliases = ["/2019/11_10_5a3762d0.html"]
+description = "Spring @RequestMapping 方法映射不要多加斜杠，否则 404；文中另附 jsp include、pixi 背景色等零散片段。"
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

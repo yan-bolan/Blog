@@ -3,6 +3,7 @@ title = "zip包乱码"
 date = "2022-10-15 19:52:12"
 slug = "6bbac0cf"
 aliases = ["/2022/10_15_6bbac0cf.html"]
+description = "解决跨语言Windows间zip文件名乱码：zip不记录编码所致，用Linux打补丁的unzip -O指定Big5解压，再转存7z格式保留编码。"
 [extra]
 cover = "https://tva2.sinaimg.cn/large/87c01ec7gy1frmbm9axbjj21hc0u0hdt.jpg"
 +++

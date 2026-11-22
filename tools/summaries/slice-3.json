@@ -1,0 +1,290 @@
+[
+  {
+    "file": "content/posts/mitmproxy USB_ usb_device_handl问题-mitmproxyusbusbdevicehandl问题.md",
+    "description": "记录selenium联动mitmproxy时Chrome报USB设备描述符读取失败的问题，改用继承线程类方式后mitmproxy可继续执行，但报错仍未根除。"
+  },
+  {
+    "file": "content/posts/mooc code7问题-mooccode7问题.md",
+    "description": "MOOC平台code7问题的记录条目，正文内容缺失，仅存标题，分类为win10。"
+  },
+  {
+    "file": "content/posts/mybatis一些细节-mybatis一些细节.md",
+    "description": "MyBatis整合SpringBoot的细节记录：英文官网差异、classpath与classpath*区别、Dao层注解与Mapper注入报错处理。"
+  },
+  {
+    "file": "content/posts/mysql-ha.md",
+    "description": "讲解MySQL双机主从与双向复制配置：复制账号、CHANGE MASTER、binlog位点同步，并修正原文重复建账号等问题，附验证与防火墙检查。"
+  },
+  {
+    "file": "content/posts/mysql冷备份.md",
+    "description": "给出Docker环境下MySQL全量与增量备份方案：mysqldump全备、mysqlbinlog按位点增备，配合crontab定时执行并保留7天。"
+  },
+  {
+    "file": "content/posts/mysql导入报错 [Err] 1273 - Unknown collation_ ‘utf8mb4_0900_ai_ci‘-mysql导入报错err1273-unknowncollationutf8mb40900aici.md",
+    "description": "解决MySQL导入报1273未知排序规则utf8mb4_0900_ai_ci：先查服务器排序规则，再替换SQL文件中的字符集，Navicat设置无效。"
+  },
+  {
+    "file": "content/posts/mysql性能分析.md",
+    "description": "介绍MySQL执行计划分析：EXPLAIN与EXPLAIN ANALYZE用法、Performance Schema和Workbench可视化，定位查询瓶颈。"
+  },
+  {
+    "file": "content/posts/mysql性能测试.md",
+    "description": "对比mysqlslap、SysBench、HammerDB等MySQL压测工具，实测并解读QPS与并发指标，记录HammerDB容器部署的踩坑。"
+  },
+  {
+    "file": "content/posts/net-learn.md",
+    "description": ".NET学习笔记：csproj在Framework与Core下的差异、NuGet使用，重点梳理async/await的状态机原理、线程池切换与死锁风险。"
+  },
+  {
+    "file": "content/posts/net-using-找不到.md",
+    "description": "排查C#报CS0246找不到类型：引用的程序集框架版本高于目标框架所致，升级net4.0至4.5或安装匹配的System.Net.Http包解决。"
+  },
+  {
+    "file": "content/posts/net-一些生态.md",
+    "description": "梳理.NET生态：各版本关系、工作流引擎、Topshelf、EF、ABP与furion等快速开发框架，以及NuGet命令行工具与微软架构示例项目。"
+  },
+  {
+    "file": "content/posts/net-调试技术.md",
+    "description": "整理.NET与Windows调试技术：Sysinternals套件各工具用途、线程与内核调试资料，以及用WinDbg向C#进程注入DLL中断线程的方法。"
+  },
+  {
+    "file": "content/posts/netcsharp语法学习.md",
+    "description": "按版本梳理C#新语法：lambda与委托、switch模式匹配、is/not/and/or、空值运算符、var、init属性与record，附官方示例与建议。"
+  },
+  {
+    "file": "content/posts/net并行多发编程.md",
+    "description": "梳理.NET异步编程演进：Thread、线程池、Task与async/await，剖析count++竞态与lock同步，澄清async不创建线程的误区。"
+  },
+  {
+    "file": "content/posts/nginx 443 80 http https 301-nginx44380httphttps301.md",
+    "description": "记录nginx将80端口HTTP请求301重定向到443 HTTPS的配置要点，并提醒浏览器会缓存301，需禁用缓存才能看到更新效果。"
+  },
+  {
+    "file": "content/posts/nginx phpstorm xdebug window-nginxphpstormxdebugwindow.md",
+    "description": "记录Windows下nginx+PhpStorm+Xdebug调试PHP的踩坑：cgi路径与端口、超时设置，最终改用PhpStorm自带服务器。"
+  },
+  {
+    "file": "content/posts/nginx 中返回文本的方式-nginx中返回文本的方式.md",
+    "description": "备忘nginx直接返回文本的配置参考链接，以及用docker logs -f查看nginx容器日志的命令。"
+  },
+  {
+    "file": "content/posts/nginx代理.md",
+    "description": "介绍nginx透明代理的概念与proxy_pass配置示例，通过proxy_set_header传递真实IP，并对比反向代理的使用场景。"
+  },
+  {
+    "file": "content/posts/nginx代理配置记录.md",
+    "description": "整理nginx反向代理配置：location五种匹配符与优先级、proxy_pass带不带斜杠的路径差异，附可直接复用的配置示例。"
+  },
+  {
+    "file": "content/posts/nigx代理解决跨域问题，vuecli axios 直接跨域，开发环境下调试跨域-nigx代理解决跨域问题vuecliaxios直接跨域开发环境下调试跨域.md",
+    "description": "解决Vue+axios跨域：开发环境用vue cli的proxyTable代理，生产用nginx转发并添加CORS响应头，避免改后端地址反复重启。"
+  },
+  {
+    "file": "content/posts/notepad插件，得到css伪元素 devtools 美化css 控制台无法for循环-notepad插件得到css伪元素devtools美化css控制台无法for循环.md",
+    "description": "记录浏览器调试技巧：getComputedStyle取CSS伪元素内容、DevTools美化CSS，控制台for循环失效改用立即执行函数加forEach遍历。"
+  },
+  {
+    "file": "content/posts/nuget当前packages目录.md",
+    "description": "用NuGet.config的globalPackagesFolder把NuGet包缓存改到项目内packages目录，便于跨网络环境迁移时离线构建。"
+  },
+  {
+    "file": "content/posts/openwrt pandorabox kali Captive portal not popping up wifiphisher-openwrtpandoraboxkalicaptiveportalnotpoppingupwifiphisher.md",
+    "description": "记录Kali与PandoraBox上wifiphisher钓鱼实验的排查：射频硬阻塞、opkg源404、端口占用致门户不弹窗，重启后短暂成功，最终放弃。"
+  },
+  {
+    "file": "content/posts/oracle 初学小错误-oracle初学小错误.md",
+    "description": "汇总Oracle初学小错误：SQL*Plus报SP2-0667需设ORACLE_HOME，ORA-01017多因用户名大小写，连接被拒查防火墙1521端口。"
+  },
+  {
+    "file": "content/posts/oracle-arraybind批量插入.md",
+    "description": "介绍Oracle数组绑定批量插入的原理：把数组一次性发送到服务器执行，减少网络往返，从而提升批量插入效率，附官方博文参考。"
+  },
+  {
+    "file": "content/posts/oracle-visusal-studio-2022-file-can-t-find.md",
+    "description": "排查VS2022报Oracle.DataAccess文件找不到：准备32与64位ODAC非托管客户端，并把AnyCPU项目平台目标改为对应位数。"
+  },
+  {
+    "file": "content/posts/oracle-with-net.md",
+    "description": "整理.NET用ODP.NET连Oracle的要点：ODAC多版本冲突与policy重定向、DllPath配置和非托管DLL搜索顺序，附配置文件示例。"
+  },
+  {
+    "file": "content/posts/php array_merge和加法数组的区别-phparraymerge和加法数组的区别.md",
+    "description": "用实例对比PHP的array_merge与数组加法：merge对关联数组同键覆盖、索引数组追加，加法则无论何种数组都只保留首次出现的键。"
+  },
+  {
+    "file": "content/posts/php 变量范围-php变量范围.md",
+    "description": "讲解PHP变量作用域：函数内默认使用局部变量，访问全局变量必须用global声明，与C语言全局变量自动生效的行为不同。"
+  },
+  {
+    "file": "content/posts/php字符串表示 类概念知识点-php字符串表示类概念知识点.md",
+    "description": "罗列PHP字符串的四种表示（单双引号、heredoc、nowdoc）与类核心知识点：继承、static、traits、抽象接口、魔术方法及重载序列化等。"
+  },
+  {
+    "file": "content/posts/picgo github-picgogithub.md",
+    "description": "PicGo搭配GitHub图床的记录条目，正文内容缺失，仅存标题与标签信息。"
+  },
+  {
+    "file": "content/posts/ping不通问题-ping不通问题.md",
+    "description": "排查两台主机互ping不通：虚拟机需用桥接模式，检查中间路由与防火墙，放行ICMP入站规则；单向不通多因一侧防火墙未关。"
+  },
+  {
+    "file": "content/posts/pip install 代理(clash for window)网速,ssl WARNING_ Retrying (Retry(total=4, connect=None, read=None,st-pipinstall代理clashforwindow网速sslwarningretryingretrytotal4connectnonereadnonest.md",
+    "description": "记录pip安装requirements超时、代理与SSL报错的排查：加超时、关代理、换镜像均不稳，最终用脚本逐行安装分而治之，并按Python版本选包。"
+  },
+  {
+    "file": "content/posts/post-.htacess文件一此学习，先要了解大概才能做-htacess文件一此学习先要了解大概才能做.md",
+    "description": "初学.htaccess文件：RewriteRule与Redirect permanent两种301重定向写法，需先开启重写支持，附在线编辑工具与防盗链参考。"
+  },
+  {
+    "file": "content/posts/putty 方便技巧ssh-putty方便技巧ssh.md",
+    "description": "汇总PuTTY实用技巧：改版保存密码、keepalive保活、UTF-8中文显示与session保存，并详解SSH密钥登录及用PuTTYgen转换私钥格式。"
+  },
+  {
+    "file": "content/posts/python pycharm spider pip docker-pythonpycharmspiderpipdocker.md",
+    "description": "Python学习杂记：pip安装与镜像源、shebang写法、Scrapy组件与运行流程，以及PyCharm用虚拟环境、Docker或SSH解释器的配置。"
+  },
+  {
+    "file": "content/posts/python3 thread not working  坑-python3threadnotworking坑.md",
+    "description": "Python3多线程传参坑：_thread启动函数参数须为元组且单参数加逗号，线程池submit直接传参，写错时不报错但线程不执行。"
+  },
+  {
+    "file": "content/posts/rsa转ppk格式.md",
+    "description": "备忘把RSA私钥转成PuTTY的ppk格式：用PuTTYgen加载rsa私钥后另存为ppk，供PuTTY密钥登录使用。"
+  },
+  {
+    "file": "content/posts/serive ondestory-seriveondestory.md",
+    "description": "Android Service的onDestroy回调学习资料链接收藏，正文仅存两条CSDN参考链接。"
+  },
+  {
+    "file": "content/posts/spring controller一些写法-springcontroller一些写法.md",
+    "description": "以注释示例整理Spring Controller写法：请求映射与各类参数绑定、文件上传、JSR-303分组校验、拦截器、跨域与错误处理。"
+  },
+  {
+    "file": "content/posts/springboot @RequestBody bean 对象 为空问题-springbootrequestbodybean对象为空问题.md",
+    "description": "排查SpringBoot的@RequestBody对象为空：Jackson按JavaBean规范将首字母大写属性转小写致绑定失败，可加注解或换fastjson。"
+  },
+  {
+    "file": "content/posts/springboot从零开始，快捷键 快捷操作-springboot从零开始快捷键快捷操作.md",
+    "description": "SpringBoot入门视频笔记：Maven建项目、yml配置与取值注解、Profile多环境与打包部署，兼及热部署、actuator监控和微服务组件。"
+  },
+  {
+    "file": "content/posts/springport application.yaml端口-springportapplicationyaml端口.md",
+    "description": "整理SpringBoot改端口的方式：命令行--server.port参数，或application.yml中server.port配置，支持环境变量占位。"
+  },
+  {
+    "file": "content/posts/sqldeveloper窗口布局.md",
+    "description": "解决SQL Developer窗口布局重置无效：拖动选项卡出现黄色框后松开即可重新停靠，也可更新版本或以管理员权限设置布局。"
+  },
+  {
+    "file": "content/posts/svg 字体 illustrator 导出svg 不一样css问题-svg字体illustrator导出svg不一样css问题.md",
+    "description": "解决Illustrator导出SVG网页字体不一致：原CSS的serif等样式影响渲染，改为把SVG直接内联进HTML而非img引入，并用fill属性修正颜色。"
+  },
+  {
+    "file": "content/posts/thinkphp日志-thinkphp日志.md",
+    "description": "记录ThinkPHP日志写入失败的处理：先导入日志类，Linux下mkdir权限被拒时给application与runtime目录放权，并核对路径与权限。"
+  },
+  {
+    "file": "content/posts/tinymce is not a valid module  layui is not define-tinymceisnotavalidmodulelayuiisnotdefine.md",
+    "description": "排查tinymce与layui模块未定义报错：IDEA部署Tomcat根路径差异致脚本加载失败，将项目输出直接复制到webapps的ROOT目录解决。"
+  },
+  {
+    "file": "content/posts/tomcat开发手册-tomcat开发手册.md",
+    "description": "Tomcat部署手册摘记：unpackWARs设为false时WAR不解压、以压缩文档形式部署应用，建议直接阅读官方英文手册。"
+  },
+  {
+    "file": "content/posts/tqdm单行显示-tqdm单行显示.md",
+    "description": "解决tqdm进度条多行滚动问题：多实例用完要close，输出改用tbar.write而非print，update默认加一、total可后设。"
+  },
+  {
+    "file": "content/posts/ubuntu网络图标不见-ubuntu网络图标不见.md",
+    "description": "解决Ubuntu网络图标消失：停止network-manager服务，删除NetworkManager.state状态文件后重启服务即可恢复。"
+  },
+  {
+    "file": "content/posts/ump安装的一个问题-ump安装的一个问题.md",
+    "description": "记录B站UMP破解版安装问题的处理思路：把系统日期改一下再试，附截图参考。"
+  },
+  {
+    "file": "content/posts/unbutu字符集临时修改，ssh 终端斜杠中文-unbutu字符集临时修改ssh终端斜杠中文.md",
+    "description": "临时修复Ubuntu终端中文乱码：locale -a查可用字符集，en_US.utf8未生成会报错，改设LC_CTYPE为C.UTF-8即时生效。"
+  },
+  {
+    "file": "content/posts/useradd和adduser 区别-useradd和adduser区别.md",
+    "description": "对比useradd与adduser：RedHat中后者是前者的符号链接，Slackware中是交互式脚本，Ubuntu下家目录创建行为不同。"
+  },
+  {
+    "file": "content/posts/vcpkg安装poco-vcpkg安装poco.md",
+    "description": "记录vcpkg安装POCO的要点：终端改英文、管理员运行，依赖下载量大需备好代理工具或手动预下载，附参考博文。"
+  },
+  {
+    "file": "content/posts/vmware-win7无网络编辑器子网NAT服务驱动安装.md",
+    "description": "排查Win7虚拟机无网络：VMnet8出现169开头IP说明问题在宿主机，需在虚拟网络编辑器重建NAT并配子网掩码与DHCP，服务随之自动启动。"
+  },
+  {
+    "file": "content/posts/vmware网络桥接模式-vmware网络桥接模式.md",
+    "description": "说明VMware桥接模式配置：宿主机网卡需安装VMware桥接协议，虚拟机指定桥接到该网卡，与主机处于对等网段，并建议换国内yum源。"
+  },
+  {
+    "file": "content/posts/vm虚拟机中的问题 key are too open. It is required that your private key files are NOT accessible by others.-vm虚拟机中的问题keyaretooopenitisrequiredthatyourprivatekeyfilesarenotaccessiblebyothers.md",
+    "description": "解决Windows下SSH私钥报key are too open：把私钥文件所有者改为自己并仅保留所有者权限，附参考博文与权限设置截图。"
+  },
+  {
+    "file": "content/posts/vs2019-vs2019.md",
+    "description": "提醒VS2019中勿用鼠标拖拽文件进项目：那只是建立链接，并不会把文件复制到对应目录，需另行真正添加文件。"
+  },
+  {
+    "file": "content/posts/vscode html js css 格式化插件问题-vscodehtmljscss格式化插件问题.md",
+    "description": "记录VSCode格式化插件破坏HTML的问题：id等属性值含空格时被插件改坏，解决办法是弃用插件或把双引号改成单引号。"
+  },
+  {
+    "file": "content/posts/vscode latex workshop recipe terminated with fatal error spawn latexmk enoent-vscodelatexworkshoprecipeterminatedwithfatalerrorspawnlatexmkenoent.md",
+    "description": "排查VSCode LaTeX Workshop报spawn latexmk enoent：TeX Live与PATH均正常，实为装后未重启系统，重启电脑即解决。"
+  },
+  {
+    "file": "content/posts/vscode ssh 密钥登录-vscodessh密钥登录.md",
+    "description": "记录VSCode Remote SSH密钥登录总走密码的问题：在ssh配置中用IdentityFile指定私钥，且私钥须放在用户主目录下才生效。"
+  },
+  {
+    "file": "content/posts/vscode远程ssh连不上-vscode远程ssh连不上.md",
+    "description": "记录VSCode远程SSH连不上的一个原因：私钥须放在用户主目录的.ssh下，且文件名不能含下划线。"
+  },
+  {
+    "file": "content/posts/vue webstorm 问题总结-vuewebstorm问题总结.md",
+    "description": "汇总Vue与WebStorm踩坑：iview解析与渲染问题、eslint规则关闭、prop单向绑定、click.native及axios回调this指向等解法。"
+  },
+  {
+    "file": "content/posts/vue 表单验证 html input-vue表单验证htmlinput.md",
+    "description": "介绍用HTML原生属性做表单验证：input的required必填、maxlength限长、pattern正则，比Vue或Element校验更省事。"
+  },
+  {
+    "file": "content/posts/web-config-aspnet-sqlite-realtive-path.md",
+    "description": "整理ASP.NET的SQLite相对路径方案：连接串用|DataDirectory|或代码拼接BaseDirectory，log4net场景相对路径不生效。"
+  },
+  {
+    "file": "content/posts/webmin安装-webmin安装.md",
+    "description": "记录CentOS安装Webmin：rpm依赖缺失用yum补perl模块，SSL模式需以https访问，IPv6监听在端口设置中开启并装perl-Socket6。"
+  },
+  {
+    "file": "content/posts/win e-wine.md",
+    "description": "Windows相关操作记录条目，正文仅存一张截图，文字内容缺失，主题据标题推测与wine有关。"
+  },
+  {
+    "file": "content/posts/win 每次以管理员身份运行-win每次以管理员身份运行.md",
+    "description": "让Windows程序每次自动以管理员身份运行：在快捷方式属性的高级选项里勾选管理员身份运行，免去每次手动选择。"
+  },
+  {
+    "file": "content/posts/win 输入法 v模式-win输入法v模式.md",
+    "description": "介绍Windows微软输入法的v模式：可快捷输入日期等常见用语，提升日常录入效率。"
+  },
+  {
+    "file": "content/posts/win10 1903最新版截图快捷键 win+shift+s-win101903最新版截图快捷键winshifts.md",
+    "description": "备忘Win10 1903的截图快捷键Win+Shift+S，正文以截图演示为主，文字说明缺失。"
+  },
+  {
+    "file": "content/posts/win10下MySQL 8.0登录Access denied for user‘root’@‘localhost’ (using password_ YES)问题的解决方法-win10下mysql80登录accessdeniedforuserrootlocalhostusingpasswordyes问题的解决方法.md",
+    "description": "解决Win10下MySQL 8.0登录报Access denied：mysqldump导出时-p后不要直接跟密码，改为回车后交互式输入。"
+  },
+  {
+    "file": "content/posts/win10控制鼠标滚轮速度，word文档-win10控制鼠标滚轮速度word文档.md",
+    "description": "记录Word文档滚轮滚动太慢的问题，调整Win10鼠标滚轮速度设置即可改善，正文附设置截图。"
+  }
+]

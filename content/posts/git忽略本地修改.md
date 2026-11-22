@@ -3,6 +3,7 @@ title = "git忽略本地修改"
 date = "2024-02-23 20:34:15"
 slug = "ee0ff368"
 aliases = ["/2024/02_23_ee0ff368.html"]
+description = "已跟踪文件的本地定制修改可用 git update-index --skip-worktree 忽略，使其不进 git status，但拉取或切分支可能冲突。"
 [taxonomies]
 tags = ["git", "协同"]
 [extra]

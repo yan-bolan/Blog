@@ -4,6 +4,7 @@ date = "2020-11-02 15:07:28"
 updated = "2021-05-14 22:02:43"
 slug = "733722dc"
 aliases = ["/2020/11_02_733722dc.html"]
+description = "剖析 Docker 底层 Linux 虚拟化技术：chroot 限制根目录、namespace 隔离进程视图、cgroup 限制资源，及 Intel VT。"
 [taxonomies]
 tags = ["内核,linux,虚拟化,docker"]
 [extra]

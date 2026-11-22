@@ -3,6 +3,7 @@ title = "Linux服务systemd管理版本"
 date = "2025-06-07 08:04:50"
 slug = "40efcbea"
 aliases = ["/2025/06_07_40efcbea.html"]
+description = "介绍systemd管理.NET服务的版本方案：unit文件版本控制、releases加current符号链接原子切换与回滚、蓝绿零停机部署及健康检查自动回退。"
 [taxonomies]
 tags = ["AI"]
 [extra]

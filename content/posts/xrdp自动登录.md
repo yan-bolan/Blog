@@ -3,6 +3,7 @@ title = "wsl自动登录xrdp"
 date = "2025-03-30 20:14:35"
 slug = "cfc5684dd"
 aliases = ["/2025/03_30_cfc5684dd.html"]
+description = "配置WSL中xrdp自动登录：改xrdp.ini的Xorg用户名密码，并放开gdm与PAM对root图形登录的限制，实现增强模式免输密码。"
 [taxonomies]
 tags = ["xrdp"]
 [extra]

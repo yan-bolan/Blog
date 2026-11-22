@@ -3,6 +3,7 @@ title = "git_diff"
 date = "2025-03-30 20:14:35"
 slug = "cfc584285cf44fdd"
 aliases = ["/2025/03_30_cfc584285cf44fdd.html"]
+description = "用 git diff --no-index --binary 比较两目录生成二进制补丁 patch.txt 做增量更新，另荐 xdelta3 GUI。"
 [taxonomies]
 tags = ["git_diff"]
 [extra]

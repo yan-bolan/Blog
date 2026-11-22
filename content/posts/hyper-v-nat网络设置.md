@@ -3,6 +3,7 @@ title = "hyper-v nat网络设置"
 date = "2024-11-09 13:06:07"
 slug = "d11f7f68"
 aliases = ["/2024/11_09_d11f7f68.html"]
+description = "Hyper-V NAT 端口绑定失败因落在 Windows 保留区，用 netsh 查排除范围、停 winnat 重置或占位；虚拟机 ping 不通关防火墙。"
 [taxonomies]
 tags = ["nat", "防火墙"]
 [extra]

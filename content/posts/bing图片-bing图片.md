@@ -4,6 +4,7 @@ date = "2019-11-14 09:22:05"
 updated = "2021-05-14 22:01:09"
 slug = "65ea1d1b"
 aliases = ["/2019/11_14_65ea1d1b.html"]
+description = "记录获取Bing每日图片：用bing.ioliu.cn与官方HPImageArchive接口，注意跨域与JSONP；Java后端聚合7天图片返回JSONP。"
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

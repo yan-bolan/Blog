@@ -4,6 +4,7 @@ date = "2019-11-11 13:19:16"
 updated = "2021-05-14 22:04:01"
 slug = "a9c8def1"
 aliases = ["/2019/11_11_a9c8def1.html"]
+description = "排查tinymce与layui模块未定义报错：IDEA部署Tomcat根路径差异致脚本加载失败，将项目输出直接复制到webapps的ROOT目录解决。"
 [extra]
 category = "前端"
 categories = ["前端"]

@@ -3,6 +3,7 @@ title = "EXCEL SQL 数学"
 date = "2023-03-10 03:37:02"
 slug = "1e3a832f"
 aliases = ["/2023/03_10_1e3a832f.html"]
+description = "探讨用Excel公式实现交集并集差集等集合运算：介绍空格交叉运算符、MATCH与ISERROR组合及新版溢出特性，认为SQL方式略多余。"
 [taxonomies]
 tags = ["excel", "sql", "数学"]
 [extra]

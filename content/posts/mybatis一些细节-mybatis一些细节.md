@@ -4,6 +4,7 @@ date = "2020-10-09 21:58:39"
 updated = "2021-05-14 22:02:48"
 slug = "6a1335e9"
 aliases = ["/2020/10_09_6a1335e9.html"]
+description = "MyBatis整合SpringBoot的细节记录：英文官网差异、classpath与classpath*区别、Dao层注解与Mapper注入报错处理。"
 [taxonomies]
 tags = ["mybatis,springboot"]
 [extra]
