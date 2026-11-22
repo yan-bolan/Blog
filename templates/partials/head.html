@@ -90,6 +90,8 @@
   @media (min-width: 769px) {
     .main, .sidebar { max-height: none; overflow-y: visible; }
   }
+  /* 本站定制：文章卡片封面（extra.cover，迁移自旧 Hexo；加载失败自动移除不留空位） */
+  .post-card-cover { width: 100%; height: 150px; object-fit: cover; border-radius: calc(var(--space-lg) - 6px); margin-bottom: var(--space-sm); background: color-mix(in srgb, var(--g-color) 8%, transparent); }
 </style>
 
 <meta name="search-script" content="{{ get_url(path='js/pamin/search.js') }}?v={{ get_hash(path='js/pamin/search.js', sha_type=256, base64=false) }}">
