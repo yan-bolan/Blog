@@ -92,7 +92,7 @@
   }
   /* 本站定制：格子画式文章列表——列表区毛玻璃；文章格子是"画窗"：同一张底图 fixed 定位，跨格连续如一幅画 */
   .post-list .list-area { background: rgba(var(--glass-r), var(--glass-g), var(--glass-b), 0.55); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); border-radius: var(--space-lg); padding: var(--space-md); border: var(--border-width) solid color-mix(in srgb, var(--g-color) 20%, transparent); }
-  .post-list .post-card { background: linear-gradient(rgba(var(--glass-r), var(--glass-g), var(--glass-b), 0.45), rgba(var(--glass-r), var(--glass-g), var(--glass-b), 0.45)), url("{{ get_url(path=config.extra.background.image) }}") center / cover no-repeat fixed; text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6); }
+  .post-list .post-card { background: linear-gradient(rgba(var(--glass-r), var(--glass-g), var(--glass-b), 0.55), rgba(var(--glass-r), var(--glass-g), var(--glass-b), 0.55)), url("{{ get_url(path=config.extra.background.image) }}") center / cover no-repeat fixed; text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6); }
   .post-list .post-card:hover { filter: brightness(1.1); }
   body.light .post-list .post-card { text-shadow: 0 1px 3px rgba(255, 255, 255, 0.65); }
 </style>
