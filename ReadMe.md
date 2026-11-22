@@ -71,12 +71,11 @@ cover = "https://example.com/cover.jpg"
 
 ## 部署（GitHub Actions）
 
-- `.github/workflows/deploy.yml`：push 到 main/master 后构建并 FTP 增量同步到服务器。
-  需要仓库 Secrets：`FTP_SERVER`（yuris.site）、`FTP_USERNAME`、`FTP_PASSWORD`。
+- Vercel：push 到 GitHub main 自动构建；`vercel.json` 锁定 Zola 0.23.6（Vercel 内置旧版 Zola 不认 0.23 的 `[languages.xx]` 写法）。
 - `.github/workflows/seo-push.yml`：每日 04:00 UTC 构建后向 Bing / Baidu / Google 推送 sitemap URL。
   沿用旧仓库 Secrets：`bing_apikey`、`baidu_token`、`google_client_email`、`google_private_key`（缺省自动跳过）。
 
-> 安全提示：旧 Hexo 配置中的 FTP 明文密码仍留在 git 历史里，建议修改 FTP 密码并仅通过 Secrets 注入。
+> 安全提示：旧 Hexo 配置中的 FTP 明文密码仍留在 git 历史里，建议修改该密码（FTP 部署已移除，部署改走 Vercel）。
 
 ## 迁移记录
 
