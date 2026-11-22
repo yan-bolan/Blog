@@ -16,6 +16,11 @@
   </div>
 </footer>
 <style>
+  /* 本站定制：页脚收紧——主题默认 80% 宽的大胶囊在宽屏上过于臃肿 */
+  .footer { gap: 0.45em; padding: 0.7em var(--space-md); }
+  .footer .siteage,
+  .footer .copyright { width: auto; max-width: 92%; padding: 0.35em 1.4em; font-size: 0.85em; gap: 0.5em; }
+  .footer .siteage .icon { width: 1.1em; height: 1.1em; }
   .footer .beian { display: flex; flex-wrap: wrap; gap: 0.4em 1.2em; justify-content: center; align-items: center; font-size: 0.85em; opacity: 0.85; margin-top: 0.3em; }
   .footer .beian a { color: inherit; text-decoration: none; display: inline-flex; align-items: center; gap: 0.3em; }
   .footer .beian a:hover { text-decoration: underline; }
