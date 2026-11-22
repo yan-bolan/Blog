@@ -85,6 +85,11 @@
   /* Zola giallo 语法高亮行容器 */
   .giallo-l { display: inline-block; min-height: 1lh; width: 100%; }
   .giallo-ln { display: inline-block; user-select: none; margin-right: 0.4em; padding: 0.4em; min-width: 3ch; text-align: right; opacity: 0.8; }
+  /* 本站定制：解除主题桌面端 600px 内滚动上限——正文随内容自然伸展、整页滚动，
+     玻璃面板撑满剩余视口高度，消除正文与页脚之间露出背景的空白带 */
+  @media (min-width: 769px) {
+    .main, .sidebar { max-height: none; overflow-y: visible; }
+  }
 </style>
 
 <meta name="search-script" content="{{ get_url(path='js/pamin/search.js') }}?v={{ get_hash(path='js/pamin/search.js', sha_type=256, base64=false) }}">
