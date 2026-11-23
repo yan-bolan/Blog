@@ -6,7 +6,7 @@ slug = "e76bfc3c"
 aliases = ["/2020/05_17_e76bfc3c.html"]
 description = "CentOS 8虚拟机无IP排查：系统废弃network.service改用NetworkManager，执行nmcli c up ens33激活网卡解决。"
 [taxonomies]
-tags = ["linux,vmare ip"]
+tags = ["linux", "vmware"]
 [extra]
 category = "Linux"
 categories = ["Linux"]

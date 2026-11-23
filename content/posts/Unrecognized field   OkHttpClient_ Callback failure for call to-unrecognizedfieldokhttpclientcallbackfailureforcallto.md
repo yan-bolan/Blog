@@ -6,7 +6,7 @@ slug = "4afced11"
 aliases = ["/2020/09_13_4afced11.html"]
 description = "排查Android开混淆后OkHttp回调报Unrecognized field：根因是bean属性名被混淆，加keep保持beans包解决。"
 [taxonomies]
-tags = ["android,Progouard,bean,okhttp"]
+tags = ["android", "proguard", "bean", "okhttp"]
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
 +++

@@ -6,7 +6,7 @@ slug = "285cf44f"
 aliases = ["/2019/10_04_285cf44f.html"]
 description = "记录用IDEA加SSH加Maven搭建Web开发框架的过程：以网页管理方式替代客户端编程环境，已完成配置并持续更新。"
 [taxonomies]
-tags = ["ssｈ"]
+tags = ["ssh"]
 [extra]
 category = "笔记"
 categories = ["笔记"]

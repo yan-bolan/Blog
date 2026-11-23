@@ -5,7 +5,7 @@ slug = "fdb6fcb9"
 aliases = ["/2023/10_09_fdb6fcb9.html"]
 description = "排查C#报CS0246找不到类型：引用的程序集框架版本高于目标框架所致，升级net4.0至4.5或安装匹配的System.Net.Http包解决。"
 [taxonomies]
-tags = ["csharp", "net", "using", "依赖"]
+tags = ["c#", "net", "using", "依赖"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

@@ -6,7 +6,7 @@ slug = "8aa20e1"
 aliases = ["/2019/09_14_8aa20e1.html"]
 description = "标题指Android安装SDK时failed to read or write可能是权限问题，正文仅附一条StackOverflow链接，无展开说明。"
 [taxonomies]
-tags = ["andriod"]
+tags = ["android"]
 [extra]
 category = "andriod"
 categories = ["andriod"]

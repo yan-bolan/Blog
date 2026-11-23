@@ -6,7 +6,7 @@ slug = "8cece0a4"
 aliases = ["/2020/10_08_8cece0a4.html"]
 description = "解决Docker构建镜像默认国外源导致装软件慢的问题：在Dockerfile中用sed将alpine源替换为清华TUNA镜像源加速。"
 [taxonomies]
-tags = ["docker,dokcerfile,jenkinsDocker,慢"]
+tags = ["docker", "dockerfile", "jenkinsdocker", "慢"]
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
 +++

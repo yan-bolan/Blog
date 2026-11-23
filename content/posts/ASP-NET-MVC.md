@@ -5,7 +5,7 @@ slug = "8d404d31"
 aliases = ["/2023/03_19_8d404d31.html"]
 description = "ASP.NET MVC读书笔记，梳理IIS各版本与ASP.NET请求处理管道的演进及ISAPI机制，并讲解MVC模式思想与MVP等变体。"
 [taxonomies]
-tags = ["ASPNET", "NET", "WEB"]
+tags = ["aspnet", "net", "web"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

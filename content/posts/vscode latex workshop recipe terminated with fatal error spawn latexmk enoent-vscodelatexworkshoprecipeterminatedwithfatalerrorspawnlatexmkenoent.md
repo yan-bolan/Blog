@@ -6,7 +6,7 @@ slug = "f87749d0"
 aliases = ["/2021/01_03_f87749d0.html"]
 description = "排查VSCode LaTeX Workshop报spawn latexmk enoent：TeX Live与PATH均正常，实为装后未重启系统，重启电脑即解决。"
 [taxonomies]
-tags = ["TexLive,latex,latexmk,vscode 环境变量"]
+tags = ["texlive", "latex", "latexmk", "vscode 环境变量"]
 [extra]
 category = "win10"
 categories = ["win10"]

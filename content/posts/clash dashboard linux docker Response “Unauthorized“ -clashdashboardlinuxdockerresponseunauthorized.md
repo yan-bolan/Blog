@@ -6,7 +6,7 @@ slug = "7d7748e9"
 aliases = ["/2021/03_23_7d7748e9.html"]
 description = "Clash 面板在 Linux Docker 部署下访问返回 Unauthorized 的问题备忘，正文仅有标题与标签，未记录具体排查与解决。"
 [taxonomies]
-tags = ["docker,ssh,clash dashboard"]
+tags = ["docker", "ssh", "clash"]
 [extra]
 category = "Linux"
 categories = ["Linux"]

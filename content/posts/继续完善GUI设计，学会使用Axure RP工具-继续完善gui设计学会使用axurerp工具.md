@@ -6,7 +6,7 @@ slug = "6a415b3f"
 aliases = ["/2019/10_03_6a415b3f.html"]
 description = "记录用Axure RP继续完善GUI设计：完成登录界面及登录下拉选框的原型，正文以截图展示。"
 [taxonomies]
-tags = ["Axure RP"]
+tags = ["axure rp"]
 [extra]
 category = "笔记"
 categories = ["笔记"]

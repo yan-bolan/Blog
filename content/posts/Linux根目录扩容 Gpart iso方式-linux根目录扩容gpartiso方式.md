@@ -6,7 +6,7 @@ slug = "e2747a13"
 aliases = ["/2020/06_11_e2747a13.html"]
 description = "记录CentOS7虚拟机根分区扩容：fdisk与LVM未果且不装桌面，改用GParted官方ISO从CD启动GUI扩容sda3成功，另思服务器命令行方案。"
 [taxonomies]
-tags = ["Gpart,vm,centos7"]
+tags = ["gpart", "vm", "centos7"]
 [extra]
 category = "Linux"
 categories = ["Linux"]

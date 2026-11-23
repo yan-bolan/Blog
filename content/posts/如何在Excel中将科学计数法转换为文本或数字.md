@@ -5,7 +5,7 @@ slug = "5692d420"
 aliases = ["/2023/08_04_5692d420.html"]
 description = "介绍Excel把科学计数法转为文本或数字的方法：数字前加单引号、自定义单元格格式为0或用TEXT函数，并附时间运算技巧。"
 [taxonomies]
-tags = ["EXCEL", "科学计数法"]
+tags = ["excel", "科学计数法"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

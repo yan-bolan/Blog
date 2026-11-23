@@ -6,7 +6,7 @@ slug = "5b751401"
 aliases = ["/2020/11_06_5b751401.html"]
 description = "系统梳理 JavaScript 核心原理：函数是第一类对象、闭包、原型面向对象、作用域、单线程异步事件队列与页面构建生命周期，附调试与性能分析实践。"
 [taxonomies]
-tags = ["javascript,学习,函数闭包,函数"]
+tags = ["javascript", "学习", "闭包", "函数"]
 [extra]
 category = "JavaScript"
 categories = ["JavaScript"]
