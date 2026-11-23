@@ -8,7 +8,7 @@ description = "对比useradd与adduser：RedHat中后者是前者的符号链接
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
 [taxonomies]
-tags = ["linux", "用户管理"]
+tags = ["linux", "用户管理", "ubuntu"]
 +++
 # 首先在redhat中是一样的。
 在Slackware中，adduser指令是个script程序，利用交谈的方式取得输入的用户帐号资料，然后再交由真正建立帐号的useradd命令建立新用户，如此可方便管理员建立用户帐号。在Red Hat Linux中， adduser命令 则是useradd命令的符号连接，两者实际上是同一个指令。

@@ -6,7 +6,7 @@ slug = "ce8da65e"
 aliases = ["/2020/05_17_ce8da65e.html"]
 description = "CentOS8 虚拟机开机网卡不自动启用，设 ifcfg-eth0 的 ONBOOT 为 yes 解决；另记 VMware Tools 灰色需精简光驱设备。"
 [taxonomies]
-tags = ["vmware"]
+tags = ["vmware", "linux", "网卡"]
 [extra]
 category = "Linux"
 categories = ["Linux"]

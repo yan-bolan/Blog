@@ -6,7 +6,7 @@ slug = "41085a7c"
 aliases = ["/2020/05_25_41085a7c.html"]
 description = "IDEA 用 Alt+Insert 快捷生成 JUnit 测试方法；测试报类找不到因重构项目名后文件留旧目录，从 Project Structure 重命名。"
 [taxonomies]
-tags = ["junit,idea"]
+tags = ["junit", "idea", "快捷键"]
 [extra]
 category = "IDE"
 categories = ["IDE"]

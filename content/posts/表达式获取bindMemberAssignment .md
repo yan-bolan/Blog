@@ -5,7 +5,7 @@ slug = "cfc5842dd"
 aliases = ["/2025/03_30_cfc5842dd.html"]
 description = "讲解用C#表达式树获取对象初始化时已赋值的属性名：解析MemberInitExpression中的赋值绑定项，供SqlSugar按需更新列。"
 [taxonomies]
-tags = ["c#"]
+tags = ["c#", "lambda", "表达式树"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

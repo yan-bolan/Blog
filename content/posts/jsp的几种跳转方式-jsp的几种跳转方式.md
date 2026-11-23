@@ -6,7 +6,7 @@ slug = "2e661f9a"
 aliases = ["/2019/10_09_2e661f9a.html"]
 description = "收藏一条博客园教程链接，供参考 JSP 页面的几种跳转方式。"
 [taxonomies]
-tags = ["jsp"]
+tags = ["jsp", "java", "web"]
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

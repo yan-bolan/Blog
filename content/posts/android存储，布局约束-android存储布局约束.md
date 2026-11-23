@@ -6,7 +6,7 @@ slug = "4bcb4106"
 aliases = ["/2020/05_30_4bcb4106.html"]
 description = "Android笔记：应用专属SD缓存目录getExternalFilesDir等无需权限、卸载即清空，权限须运行时动态申请；约束布局基线对齐，建议看官方文档。"
 [taxonomies]
-tags = ["android,存储"]
+tags = ["android", "存储", "权限"]
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
 +++

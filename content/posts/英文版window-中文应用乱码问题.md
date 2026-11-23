@@ -7,7 +7,7 @@ description = "解决英文版Windows中文应用乱码：区域与显示语言�
 [extra]
 cover = "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxk6yzby3j31hc0u0nds.jpg"
 [taxonomies]
-tags = ["win10", "encoding"]
+tags = ["win10", "encoding", "字符集"]
 +++
 在administrative language settings中；
 

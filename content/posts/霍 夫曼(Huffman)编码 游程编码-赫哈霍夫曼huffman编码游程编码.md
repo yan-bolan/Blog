@@ -6,7 +6,7 @@ slug = "db061071"
 aliases = ["/2020/09_23_db061071.html"]
 description = "介绍游程编码与哈夫曼编码两种压缩算法：游程编码以游程长度压缩连续重复像素，哈夫曼编码依符号概率构造平均长度最短的变长即时码。"
 [taxonomies]
-tags = ["huffman", "游程编码"]
+tags = ["huffman", "游程编码", "数据压缩"]
 [extra]
 category = "算法与设计"
 categories = ["算法与设计"]

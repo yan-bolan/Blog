@@ -10,7 +10,7 @@ category = "andriod"
 categories = ["andriod"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 [taxonomies]
-tags = ["android", "service"]
+tags = ["android", "service", "生命周期"]
 +++
 ﻿[https://blog.csdn.net/cadi2011/article/details/83659831](https://blog.csdn.net/cadi2011/article/details/83659831)
 [https://blog.csdn.net/lzyyzyq/article/details/80487746](https://blog.csdn.net/lzyyzyq/article/details/80487746)

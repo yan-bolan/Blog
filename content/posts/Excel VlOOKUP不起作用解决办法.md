@@ -5,7 +5,7 @@ slug = "bd5aefb"
 aliases = ["/2023/03_10_bd5aefb.html"]
 description = "梳理VLOOKUP不起作用的常见原因与对策：单元格格式、下拉递增需美元符绝对锁定、自动重算；另述LOOKUP升序要求与FILTER返回多值。"
 [taxonomies]
-tags = ["excel", "vlookup"]
+tags = ["excel", "vlookup", "函数"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

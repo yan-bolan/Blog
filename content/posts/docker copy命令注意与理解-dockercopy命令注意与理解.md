@@ -8,7 +8,7 @@ description = "Dockerfile COPY dir1 ./ 复制的是目录内容而非目录本�
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
 [taxonomies]
-tags = ["docker", "dockerfile"]
+tags = ["docker", "dockerfile", "镜像构建"]
 +++
 ﻿copy dir1 ./
 

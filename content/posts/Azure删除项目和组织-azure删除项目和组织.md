@@ -6,7 +6,7 @@ slug = "c6de1dfd"
 aliases = ["/2019/10_03_c6de1dfd.html"]
 description = "说明Azure DevOps中删除项目的操作入口：进入项目设置页面后在底部找到删除选项，附截图演示。"
 [taxonomies]
-tags = ["azure"]
+tags = ["azure", "azure devops", "项目管理"]
 [extra]
 category = "算法与设计"
 categories = ["算法与设计"]

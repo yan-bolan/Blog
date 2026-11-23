@@ -6,7 +6,7 @@ slug = "1ff3fb1a"
 aliases = ["/2020/06_02_1ff3fb1a.html"]
 description = "PHP compact() 按传入的变量名字符串把变量组成数组，键为名值为值，作用与 extract() 相反，传变量本身是错误用法。"
 [taxonomies]
-tags = ["php"]
+tags = ["php", "函数", "数组"]
 [extra]
 category = "php"
 categories = ["php"]

@@ -5,7 +5,7 @@ slug = "cdfb4f0e"
 aliases = ["/2023/05_07_cdfb4f0e.html"]
 description = "crypto.randomUUID 等仅在安全上下文（HTTPS）可用，localhost 被视为安全源，非安全域可参考所附链接启用。"
 [taxonomies]
-tags = ["js", "crypto"]
+tags = ["js", "crypto", "https"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

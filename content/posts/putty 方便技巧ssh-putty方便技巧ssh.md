@@ -10,7 +10,7 @@ category = "Linux"
 categories = ["Linux"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
 [taxonomies]
-tags = ["ssh", "putty"]
+tags = ["ssh", "putty", "密钥"]
 +++
 # 这是修改版的putty
 

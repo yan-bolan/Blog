@@ -6,7 +6,7 @@ slug = "80d7f7e6"
 aliases = ["/2021/04_15_80d7f7e6.html"]
 description = "记录VSCode格式化插件破坏HTML的问题：id等属性值含空格时被插件改坏，解决办法是弃用插件或把双引号改成单引号。"
 [taxonomies]
-tags = ["字符串"]
+tags = ["字符串", "vscode", "html"]
 [extra]
 category = "JavaScript"
 categories = ["JavaScript"]

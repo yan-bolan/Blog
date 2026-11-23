@@ -7,7 +7,7 @@ description = "Excel计数学习笔记：统计包含指定文本的单元格与
 [extra]
 cover = "https://picsum.photos/400"
 [taxonomies]
-tags = ["excel", "函数"]
+tags = ["excel", "函数", "countif"]
 +++
 [How to count if cell contains text or part of text in Excel? (extendoffice.com)](https://www.extendoffice.com/documents/excel/2874-excel-count-if-cell-contains-text.html)
 

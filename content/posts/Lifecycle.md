@@ -5,7 +5,7 @@ slug = "55011c36"
 aliases = ["/2023/03_18_55011c36.html"]
 description = "ASP.NET底层笔记：梳理Http.sys到HttpHandler请求管道与OWIN摆脱System.Web依赖，并涉猎Harmony、Dapper等生态。"
 [taxonomies]
-tags = ["net"]
+tags = ["net", "aspnet", "iis"]
 +++
 ---
 

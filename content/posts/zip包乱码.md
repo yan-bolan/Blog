@@ -7,7 +7,7 @@ description = "解决跨语言Windows间zip文件名乱码：zip不记录编码�
 [extra]
 cover = "https://tva2.sinaimg.cn/large/87c01ec7gy1frmbm9axbjj21hc0u0hdt.jpg"
 [taxonomies]
-tags = ["zip", "encoding"]
+tags = ["zip", "encoding", "字符集"]
 +++
 > 为什么 zip不在压缩的时候把自己文件是什么编码也一并写进压缩包里；然后交给别人的时候，别人就按给的编码读出来！
 > 

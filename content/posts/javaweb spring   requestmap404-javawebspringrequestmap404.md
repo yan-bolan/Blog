@@ -10,7 +10,7 @@ category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
 [taxonomies]
-tags = ["spring", "jsp"]
+tags = ["spring", "jsp", "http"]
 +++
 ﻿spring 重定向：
 [https://www.cnblogs.com/xiaoluohao/p/11354145.html](https://www.cnblogs.com/xiaoluohao/p/11354145.html)

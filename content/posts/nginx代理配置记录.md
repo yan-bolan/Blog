@@ -5,7 +5,7 @@ slug = "d772a0a6"
 aliases = ["/2022/04_12_d772a0a6.html"]
 description = "整理nginx反向代理配置：location五种匹配符与优先级、proxy_pass带不带斜杠的路径差异，附可直接复用的配置示例。"
 [taxonomies]
-tags = ["nginx"]
+tags = ["nginx", "代理", "proxy"]
 +++
 [nginx配置反向代理规则集合 - 不懂123 - 博客园](https://www.cnblogs.com/yxh168/p/13448631.html)
 

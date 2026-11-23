@@ -5,7 +5,7 @@ slug = "f37cac54"
 aliases = ["/2023/05_02_f37cac54.html"]
 description = "介绍ADO.NET测试开放式并发冲突的一法：表加时间戳列，查询返回时间戳，更新时比对库中时间戳与原值是否一致以判冲突，附官方文档。"
 [taxonomies]
-tags = ["数据访问"]
+tags = ["数据访问", "c#", "dotnet"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

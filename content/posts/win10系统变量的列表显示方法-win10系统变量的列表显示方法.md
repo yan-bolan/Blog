@@ -6,7 +6,7 @@ slug = "a95d7fe0"
 aliases = ["/2019/09_13_a95d7fe0.html"]
 description = "排查Win10环境变量Path列表显示异常：旧版本需把首行改为盘符开头而非百分号，20H2新版已支持百分号写法。"
 [taxonomies]
-tags = ["win10"]
+tags = ["win10", "环境变量", "path"]
 [extra]
 category = "win10"
 categories = ["win10"]

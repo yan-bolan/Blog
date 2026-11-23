@@ -6,7 +6,7 @@ slug = "60c33bd2"
 aliases = ["/2020/10_04_60c33bd2.html"]
 description = "讲解Vue具名插槽：子组件定义多个具名slot，父用template加v-slot分发内容；有具名插槽时默认插槽也应用template语法避免作用域歧义。"
 [taxonomies]
-tags = ["slot", "插槽"]
+tags = ["slot", "插槽", "vue"]
 [extra]
 category = "前端"
 categories = ["前端"]

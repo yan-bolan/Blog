@@ -6,7 +6,7 @@ slug = "d2ff0fb9"
 aliases = ["/2019/10_24_d2ff0fb9.html"]
 description = "IDEA 下 Hibernate 踩坑：cfg.xml 放 resources、区分配置与 hbm.xml 表映射、url 中 & 要转义成 &amp;。"
 [taxonomies]
-tags = ["hibernate"]
+tags = ["hibernate", "idea", "java"]
 [extra]
 category = "javaweb"
 categories = ["javaweb"]

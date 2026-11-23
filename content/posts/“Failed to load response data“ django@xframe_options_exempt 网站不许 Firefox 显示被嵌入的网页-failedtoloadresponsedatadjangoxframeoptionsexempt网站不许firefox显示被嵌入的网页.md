@@ -8,7 +8,7 @@ description = "排查Django站点Ajax响应在浏览器中加载失败：实为X
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 [taxonomies]
-tags = ["django", "python"]
+tags = ["django", "python", "http"]
 +++
 ﻿# python django ajax
 

@@ -10,7 +10,7 @@ category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
 [taxonomies]
-tags = ["js", "网络连通"]
+tags = ["js", "网络连通", "ping"]
 +++
 ```javascript
 window.ononline = function() {

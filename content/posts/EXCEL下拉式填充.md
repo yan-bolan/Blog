@@ -5,7 +5,7 @@ slug = "6f1cdf32"
 aliases = ["/2023/07_11_6f1cdf32.html"]
 description = "介绍Excel大数据量快速填充技巧：双击填充句柄、Ctrl+G定位区域后Ctrl+D、Shift加方向键选中再Ctrl+D，核心是选中后复制上行。"
 [taxonomies]
-tags = ["excel"]
+tags = ["excel", "快捷键", "快速填充"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

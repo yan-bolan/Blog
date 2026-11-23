@@ -5,7 +5,7 @@ slug = "1bf397a2"
 aliases = ["/2022/10_02_1bf397a2.html"]
 description = "Hexo 自动封面插件开发备忘：参考 Hexo Tag API、插件开发教程与 kiko.io 自动头图方案，借助 Hook 钩子自行实现插件。"
 [taxonomies]
-tags = ["hexo插件"]
+tags = ["hexo插件", "hexo", "nodejs"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

@@ -6,7 +6,7 @@ slug = "f62f4c8a"
 aliases = ["/2021/04_04_f62f4c8a.html"]
 description = "解决tqdm进度条多行滚动问题：多实例用完要close，输出改用tbar.write而非print，update默认加一、total可后设。"
 [taxonomies]
-tags = ["tqdm"]
+tags = ["tqdm", "python", "进度条"]
 [extra]
 category = "python"
 categories = ["python"]

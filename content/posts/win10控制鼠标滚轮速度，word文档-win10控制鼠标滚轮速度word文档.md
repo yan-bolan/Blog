@@ -10,7 +10,7 @@ category = "win10"
 categories = ["win10"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 [taxonomies]
-tags = ["win10", "word"]
+tags = ["win10", "word", "鼠标"]
 +++
 word文档文字滚动太慢了
 ![在这里插入图片描述](http://img.yayi.site/csdn/2019102013071362.png-watermaskStyle)

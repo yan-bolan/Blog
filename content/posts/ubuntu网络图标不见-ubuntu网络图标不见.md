@@ -10,7 +10,7 @@ category = "Linux"
 categories = ["Linux"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
 [taxonomies]
-tags = ["linux", "ubuntu"]
+tags = ["linux", "ubuntu", "networkmanager"]
 +++
 ﻿```css
 service NetworkManager stop

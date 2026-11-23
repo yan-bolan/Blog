@@ -6,7 +6,7 @@ slug = "310a9c9d"
 aliases = ["/2019/12_07_310a9c9d.html"]
 description = "排查Windows下squid监听IPv6代理失败：ccproxy不支持IPv6，squid访问被拒多因DNS或ACL，可用tcping查[::]监听。"
 [taxonomies]
-tags = ["ipv6,squid"]
+tags = ["ipv6", "squid", "proxy", "nginx"]
 [extra]
 category = "网络,win10,Linux"
 categories = ["网络,win10,Linux"]

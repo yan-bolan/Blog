@@ -5,7 +5,7 @@ slug = "de25e9bb"
 aliases = ["/2022/12_03_de25e9bb.html"]
 description = "排查Win7虚拟机无网络：VMnet8出现169开头IP说明问题在宿主机，需在虚拟网络编辑器重建NAT并配子网掩码与DHCP，服务随之自动启动。"
 [taxonomies]
-tags = ["vmware"]
+tags = ["vmware", "nat", "win7"]
 [extra]
 cover = "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxlnmr18gj31hc0u01ar.jpg"
 +++

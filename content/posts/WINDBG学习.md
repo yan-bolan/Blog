@@ -5,7 +5,7 @@ slug = "9c2ee053"
 aliases = ["/2024/07_31_9c2ee053.html"]
 description = "WinDbg分析IIS进程dump笔记：procdump按32/64位抓取，.loadby sos clr加载SOS，!analyze -v修DAC不匹配。"
 [taxonomies]
-tags = ["iis"]
+tags = ["iis", "windbg", "dump"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

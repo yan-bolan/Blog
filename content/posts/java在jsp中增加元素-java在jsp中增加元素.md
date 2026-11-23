@@ -10,7 +10,7 @@ category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
 [taxonomies]
-tags = ["java", "jsp"]
+tags = ["java", "jsp", "html"]
 +++
 ﻿[https://blog.csdn.net/aspenstars/article/details/76023599](https://blog.csdn.net/aspenstars/article/details/76023599)
 session

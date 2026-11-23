@@ -6,7 +6,7 @@ slug = "30603eea"
 aliases = ["/2020/06_02_30603eea.html"]
 description = "讲解PHP变量作用域：函数内默认使用局部变量，访问全局变量必须用global声明，与C语言全局变量自动生效的行为不同。"
 [taxonomies]
-tags = ["php"]
+tags = ["php", "函数", "作用域"]
 [extra]
 category = "php"
 categories = ["php"]

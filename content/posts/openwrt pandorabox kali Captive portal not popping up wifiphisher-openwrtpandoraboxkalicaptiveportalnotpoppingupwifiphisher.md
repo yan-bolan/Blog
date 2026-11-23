@@ -6,7 +6,7 @@ slug = "a46ec359"
 aliases = ["/2021/02_06_a46ec359.html"]
 description = "记录Kali与PandoraBox上wifiphisher钓鱼实验的排查：射频硬阻塞、opkg源404、端口占用致门户不弹窗，重启后短暂成功，最终放弃。"
 [taxonomies]
-tags = ["openwrt"]
+tags = ["openwrt", "kali", "端口占用"]
 [extra]
 category = "Linux"
 categories = ["Linux"]

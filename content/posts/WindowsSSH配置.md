@@ -4,7 +4,7 @@ date = "2026-03-04 21:52:54"
 slug = "WindowsSSH配置"
 description = "Windows下SSH config教程：用Host别名配HostName、User、IdentityFile与Port简化连接，icacls限权仅当前用户。"
 [taxonomies]
-tags = ["ssh", "win10"]
+tags = ["ssh", "win10", "权限"]
 +++
 # Windows 下 SSH 中的 Config 文件教程
 

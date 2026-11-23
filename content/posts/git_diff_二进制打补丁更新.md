@@ -5,7 +5,7 @@ slug = "cfc584285cf44fdd"
 aliases = ["/2025/03_30_cfc584285cf44fdd.html"]
 description = "用 git diff --no-index --binary 比较两目录生成二进制补丁 patch.txt 做增量更新，另荐 xdelta3 GUI。"
 [taxonomies]
-tags = ["git_diff"]
+tags = ["git_diff", "git", "增量更新"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

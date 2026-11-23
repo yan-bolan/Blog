@@ -5,7 +5,7 @@ slug = "fd8e85bf"
 aliases = ["/2023/04_01_fd8e85bf.html"]
 description = "梳理.NET异步编程演进：Thread、线程池、Task与async/await，剖析count++竞态与lock同步，澄清async不创建线程的误区。"
 [taxonomies]
-tags = ["net", "多线程"]
+tags = ["net", "多线程", "异步"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

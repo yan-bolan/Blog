@@ -10,7 +10,7 @@ category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
 [taxonomies]
-tags = ["mysql", "java"]
+tags = ["mysql", "java", "jdbc"]
 +++
 ﻿很多种可能。
 有一种是url问题

@@ -5,7 +5,7 @@ slug = "cfc58724dd"
 aliases = ["/2025/03_30_cfc58724dd.html"]
 description = "介绍MySQL执行计划分析：EXPLAIN与EXPLAIN ANALYZE用法、Performance Schema和Workbench可视化，定位查询瓶颈。"
 [taxonomies]
-tags = ["mysql"]
+tags = ["mysql", "sql", "explain"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

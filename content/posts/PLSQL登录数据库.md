@@ -5,7 +5,7 @@ slug = "40d2138c"
 aliases = ["/2023/05_01_40d2138c.html"]
 description = "介绍PL/SQL登录Oracle两种情形：本机有库在首选项设连接直连；无库下载instantclient配目录，装库后登不上改目录为安装目录。"
 [taxonomies]
-tags = ["plsql"]
+tags = ["plsql", "oracle", "instantclient"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

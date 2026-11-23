@@ -5,7 +5,7 @@ slug = "cfc58453d"
 aliases = ["/2025/03_30_cfc58453d.html"]
 description = "排查Chrome通知不显示：因Notifications API的basic类型在Chrome中iconUrl为必填项，Firefox则可选。"
 [taxonomies]
-tags = ["mysql"]
+tags = ["mysql", "js", "chrome"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

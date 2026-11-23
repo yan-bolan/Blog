@@ -10,7 +10,7 @@ category = "win10"
 categories = ["win10"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 [taxonomies]
-tags = ["cmd", "快捷键"]
+tags = ["cmd", "快捷键", "win10"]
 +++
 ﻿shift +右击 打开 当前目录cmd
 目录输入cmd

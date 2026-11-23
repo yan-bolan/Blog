@@ -6,7 +6,7 @@ slug = "60c3eb0a"
 aliases = ["/2020/05_18_60c3eb0a.html"]
 description = "记录虚拟机固定IP的DHCP思路：可尝试把DHCP最大租约天数调大以稳定地址，正文附配置截图。"
 [taxonomies]
-tags = ["ip vm"]
+tags = ["ip vm", "虚拟机", "dhcp"]
 [extra]
 category = "win10,Linux"
 categories = ["win10,Linux"]

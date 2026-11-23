@@ -10,7 +10,7 @@ category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
 [taxonomies]
-tags = ["idea", "java"]
+tags = ["idea", "java", "javaweb"]
 +++
 ﻿复制
 ，右击，这样，不用一个个输入。复制过来就是param样式了。

@@ -5,7 +5,7 @@ slug = "5b047a08"
 aliases = ["/2022/10_01_5b047a08.html"]
 description = ".NET学习笔记：csproj在Framework与Core下的差异、NuGet使用，重点梳理async/await的状态机原理、线程池切换与死锁风险。"
 [taxonomies]
-tags = ["异步"]
+tags = ["异步", "net", "nuget"]
 [extra]
 cover = "https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/lycorisRecoil.jpg"
 +++

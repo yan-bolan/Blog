@@ -6,7 +6,7 @@ slug = "e9c52fd1"
 aliases = ["/2020/10_08_e9c52fd1.html"]
 description = "罗列 Jenkins Pipeline 的 steps 与 symbols，如 git、sh、stage、parallel、cron 等，供编写流水线参考。"
 [taxonomies]
-tags = ["jenkins"]
+tags = ["jenkins", "pipeline", "ci"]
 [extra]
 category = "Linux"
 categories = ["Linux"]

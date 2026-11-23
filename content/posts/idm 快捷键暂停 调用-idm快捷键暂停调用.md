@@ -6,7 +6,7 @@ slug = "a8867fb"
 aliases = ["/2021/03_11_a8867fb.html"]
 description = "IDM 下载遇 400 等问题时，按住 Alt 再点下载链接可临时暂停 IDM 接管，改用浏览器自身下载，快捷键在选项常规中设置。"
 [taxonomies]
-tags = ["idm"]
+tags = ["idm", "快捷键", "win10"]
 [extra]
 category = "win10"
 categories = ["win10"]

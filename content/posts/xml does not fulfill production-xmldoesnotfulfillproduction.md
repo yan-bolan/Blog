@@ -8,7 +8,7 @@ description = "解析XML报错does not fulfill production Name：语法描述中
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png"
 [taxonomies]
-tags = ["xml", "语法"]
+tags = ["xml", "语法", "解析"]
 +++
 ﻿### Character '(' within text '(students' does not fulfill production 'Name'.
 ![在这里插入图片描述](http://img.yayi.site/csdn/20200626202604713.png-watermaskStyle)

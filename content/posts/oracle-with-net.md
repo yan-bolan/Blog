@@ -7,7 +7,7 @@ description = "整理.NET用ODP.NET连Oracle的要点：ODAC多版本冲突与po
 [extra]
 cover = "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxk78xqdoj31kw0w0dzz.jpg"
 [taxonomies]
-tags = ["oracle", "net"]
+tags = ["oracle", "net", "数据访问"]
 +++
 oracle 
 

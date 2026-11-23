@@ -6,7 +6,7 @@ slug = "db6b87b4"
 aliases = ["/2020/04_21_db6b87b4.html"]
 description = "排查Spring报EnableAsync元数据未注入错误：ComponentScan未限定包而扫入Spring自身注解，指定扫描包或改用XML配置容器解决。"
 [taxonomies]
-tags = ["spring context"]
+tags = ["spring context", "spring", "异步"]
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png"
 +++

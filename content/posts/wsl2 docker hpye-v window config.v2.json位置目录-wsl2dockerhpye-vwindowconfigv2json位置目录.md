@@ -8,7 +8,7 @@ description = "记录WSL2版Docker Desktop容器配置文件config.v2.json的路
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
 [taxonomies]
-tags = ["docker", "wsl"]
+tags = ["docker", "wsl", "hyper-v"]
 +++
 ﻿# docker desktop
 window 现在的是wls2 方式。而不是hpye-v模式。

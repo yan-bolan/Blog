@@ -5,7 +5,7 @@ slug = "9fb9d8bc"
 aliases = ["/2025/03_31_9fb9d8bc.html"]
 description = "讲解MySQL双机主从与双向复制配置：复制账号、CHANGE MASTER、binlog位点同步，并修正原文重复建账号等问题，附验证与防火墙检查。"
 [taxonomies]
-tags = ["ha"]
+tags = ["ha", "mysql", "主从复制"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

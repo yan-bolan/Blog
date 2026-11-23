@@ -7,7 +7,7 @@ description = "推荐 JS 常用库 lodash（封装常用操作很实用），附
 [extra]
 cover = "https://tva2.sinaimg.cn/large/87c01ec7gy1frqdpollutj21hc0u07wh.jpg"
 [taxonomies]
-tags = ["js", "lodash"]
+tags = ["js", "lodash", "js库"]
 +++
 https://www.wbolt.com/40-best-javascript-libraries.html
 

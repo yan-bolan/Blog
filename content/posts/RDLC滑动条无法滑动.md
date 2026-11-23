@@ -5,7 +5,7 @@ slug = "90e9277b"
 aliases = ["/2023/07_09_90e9277b.html"]
 description = "排查RDLC滑动条无法滑动：VS2019打开旧rdlc报定义无效，按参考修复并拖动table居中后恢复滑动，但竖向到底后横向仍不能滑，未彻底解决。"
 [taxonomies]
-tags = ["rdlc"]
+tags = ["rdlc", "vs2019", "xml"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

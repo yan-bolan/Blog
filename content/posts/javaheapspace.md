@@ -5,7 +5,7 @@ slug = "169edcb7"
 aliases = ["/2023/07_11_169edcb7.html"]
 description = "SQL Developer 大堆内存需 64 位 JDK，-Xmx 选项写 appdata 的 product.conf，不要改安装目录 ide.conf。"
 [taxonomies]
-tags = ["jdk"]
+tags = ["jdk", "java", "oracle"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

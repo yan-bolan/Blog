@@ -5,7 +5,7 @@ slug = "28d802e2"
 aliases = ["/2023/11_12_28d802e2.html"]
 description = "整理Windows下拦截转发outbound TCP流量的方案：用虚拟网卡设定IP再监听端口，对比clash改协议方式与Linux的iptables。"
 [taxonomies]
-tags = ["代理"]
+tags = ["代理", "clash", "win10"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

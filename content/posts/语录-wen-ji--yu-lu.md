@@ -6,7 +6,7 @@ slug = "3ae0ab83"
 aliases = ["/2021/05_13_3ae0ab83.html"]
 description = "一则文集语录：摘录寂寥冷清的心境短句，配以插图、网易云音乐与钢琴曲音频营造氛围。"
 [taxonomies]
-tags = ["语录"]
+tags = ["语录", "网易云音乐", "anime"]
 [extra]
 category = "文集"
 categories = ["文集"]

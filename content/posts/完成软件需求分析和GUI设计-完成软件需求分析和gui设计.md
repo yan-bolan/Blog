@@ -6,7 +6,7 @@ slug = "c858520b"
 aliases = ["/2019/10_01_c858520b.html"]
 description = "记录软件需求分析与GUI设计的完成成果，正文以设计截图展示界面与需求要点。"
 [taxonomies]
-tags = ["gui"]
+tags = ["gui", "需求分析", "软件工程"]
 [extra]
 category = "笔记"
 categories = ["笔记"]

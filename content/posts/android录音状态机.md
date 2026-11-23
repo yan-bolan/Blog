@@ -5,7 +5,7 @@ slug = "3d3b8b6b"
 aliases = ["/2023/07_23_3d3b8b6b.html"]
 description = "标题为Android录音状态机，标签MediaRecorder，正文仅一张状态机示意图，无文字说明。"
 [taxonomies]
-tags = ["mediarecorder"]
+tags = ["mediarecorder", "android", "状态机"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

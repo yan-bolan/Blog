@@ -8,7 +8,7 @@ description = "借助浏览器开发者工具定位元素并实时修改 CSS 属
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
 [taxonomies]
-tags = ["css", "调试"]
+tags = ["css", "调试", "devtools"]
 +++
 ﻿当复制别人的模板时很多时候会不合适情况 或者出现问题不知道定位，css 又不是很熟悉。
 浏览器：

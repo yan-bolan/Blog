@@ -5,7 +5,7 @@ slug = "dfd30e1c"
 aliases = ["/2025/03_31_dfd30e1c.html"]
 description = "给出Docker环境下MySQL全量与增量备份方案：mysqldump全备、mysqlbinlog按位点增备，配合crontab定时执行并保留7天。"
 [taxonomies]
-tags = ["mysql"]
+tags = ["mysql", "docker", "备份"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

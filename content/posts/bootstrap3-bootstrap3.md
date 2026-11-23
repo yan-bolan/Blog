@@ -8,7 +8,7 @@ description = "Bootstrap2 栅格列写作 span5，Bootstrap3 写作 col-*-*，�
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
 [taxonomies]
-tags = ["bootstrap", "css"]
+tags = ["bootstrap", "css", "html"]
 +++
 ﻿bootstrap3
 有一个可视化布局系统，栅格化用的是span ，所以复制过来是用不了的，除非你用3版本的！ idea用ctrl+左击变蓝就说明有存在定义，否则。。。。

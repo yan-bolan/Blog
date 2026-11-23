@@ -8,7 +8,7 @@ description = "记录VSCode Remote SSH密钥登录总走密码的问题：在ssh
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
 [taxonomies]
-tags = ["vscode", "ssh"]
+tags = ["vscode", "ssh", "密钥"]
 +++
 ﻿我的总是密码登录。
 ```powershell

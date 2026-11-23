@@ -5,7 +5,7 @@ slug = "81430ea4"
 aliases = ["/2023/10_20_81430ea4.html"]
 description = "layui 页面内容居中两法：容器设 CSS text-align:center 水平居中，或用栅格 offset3 加 md-6 把内容放入居中列。"
 [taxonomies]
-tags = ["layui", "居中"]
+tags = ["layui", "居中", "css"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

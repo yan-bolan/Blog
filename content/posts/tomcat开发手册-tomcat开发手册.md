@@ -8,7 +8,7 @@ description = "Tomcat部署手册摘记：unpackWARs设为false时WAR不解压�
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png"
 [taxonomies]
-tags = ["tomcat", "java"]
+tags = ["tomcat", "java", "web"]
 +++
 ﻿没有把 unpackWARs 属性设为 false，则 WAR 文件将不会膨胀，这时 Web 应用将部署为一个压缩文档。
 [http://doc.jaxmao.org/deployer-howto.html](http://doc.jaxmao.org/deployer-howto.html)

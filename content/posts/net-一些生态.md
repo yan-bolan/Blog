@@ -5,7 +5,7 @@ slug = "8736f653"
 aliases = ["/2022/09_09_8736f653.html"]
 description = "梳理.NET生态：各版本关系、工作流引擎、Topshelf、EF、ABP与furion等快速开发框架，以及NuGet命令行工具与微软架构示例项目。"
 [taxonomies]
-tags = ["net"]
+tags = ["net", "ef", "workflow"]
 +++
 net 6.0 net 5.0 net.core mono(被微软收购) ， net framework关系； 
 

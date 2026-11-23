@@ -7,7 +7,7 @@ description = "JWT 登录方案：各语言库见 jwt.io/libraries，.NET 推荐
 [extra]
 cover = "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf55zbij31kw0w0e55.jpg"
 [taxonomies]
-tags = ["jwt", "dotnet"]
+tags = ["jwt", "dotnet", "net"]
 +++
 各种语言实现的库可以在下面找到！！
 

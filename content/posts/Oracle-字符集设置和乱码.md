@@ -5,7 +5,7 @@ slug = "e209ee18"
 aliases = ["/2023/03_10_e209ee18.html"]
 description = "笔记Oracle字符集与乱码：客户端经profile或注册表设NLS_LANG，乱码源于服务端客户端不匹配；.NET可试连接串unicode=true。"
 [taxonomies]
-tags = ["oraclecharset"]
+tags = ["oraclecharset", "oracle", "encoding"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

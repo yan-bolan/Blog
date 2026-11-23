@@ -10,6 +10,6 @@ category = "win10"
 categories = ["win10"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
 [taxonomies]
-tags = ["win10"]
+tags = ["win10", "mooc", "错误码"]
 +++
 ﻿

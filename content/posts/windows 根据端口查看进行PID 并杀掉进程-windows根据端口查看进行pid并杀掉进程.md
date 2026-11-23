@@ -8,7 +8,7 @@ description = "Windows按端口查PID并杀进程：netstat -ano配合find查端
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
 [taxonomies]
-tags = ["端口占用", "cmd"]
+tags = ["端口占用", "cmd", "win10"]
 +++
 ﻿ 首先用netstat -ano | find “端口号”查出进程号
 2. takslist 查询当前的进行

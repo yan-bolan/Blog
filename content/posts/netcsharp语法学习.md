@@ -5,7 +5,7 @@ slug = "69d0b943"
 aliases = ["/2022/11_12_69d0b943.html"]
 description = "按版本梳理C#新语法：lambda与委托、switch模式匹配、is/not/and/or、空值运算符、var、init属性与record，附官方示例与建议。"
 [taxonomies]
-tags = ["c#"]
+tags = ["c#", "net", "lambda"]
 [extra]
 cover = "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxk6u83cvj31hc0u0wxh.jpg"
 +++

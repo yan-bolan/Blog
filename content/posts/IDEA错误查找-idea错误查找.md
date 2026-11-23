@@ -10,7 +10,7 @@ category = "IDE"
 categories = ["IDE"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png"
 [taxonomies]
-tags = ["idea", "调试"]
+tags = ["idea", "调试", "错误定位"]
 +++
 ﻿代码太多，好像滑有定位的键，不过旁边有这个横杠。红为错，黄为告 
 

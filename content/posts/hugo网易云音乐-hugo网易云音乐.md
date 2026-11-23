@@ -6,7 +6,7 @@ slug = "31fd4643"
 aliases = ["/2020/06_18_31fd4643.html"]
 description = "给 Hugo 博客嵌入网易云音乐外链播放器：可在首页 HTML 加代码，或在 md 中插入外链 iframe，auto=1 控制自动播放。"
 [taxonomies]
-tags = ["hugo,网易云音乐"]
+tags = ["hugo", "网易云音乐", "html"]
 [extra]
 category = "网络"
 categories = ["网络"]

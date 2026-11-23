@@ -10,7 +10,7 @@ category = "andriod"
 categories = ["andriod"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 [taxonomies]
-tags = ["android", "gradle"]
+tags = ["android", "gradle", "android studio"]
 +++
 app
 build.gradle

@@ -10,7 +10,7 @@ category = "Linux"
 categories = ["Linux"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
 [taxonomies]
-tags = ["vmware", "虚拟机"]
+tags = ["vmware", "虚拟机", "网卡"]
 +++
 ﻿你电脑适配器要安装虚拟控制协议桥接服务。
 vm设好连到那个网卡

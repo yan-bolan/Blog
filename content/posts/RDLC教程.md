@@ -5,7 +5,7 @@ slug = "7f6e80f3"
 aliases = ["/2023/03_29_7f6e80f3.html"]
 description = "RDLC报表笔记：装ReportViewer扩展与NuGet包，用ObjectDataSource绑DataSet，记缺Oracle驱动致异常、数据源未提供。"
 [taxonomies]
-tags = ["rdlc"]
+tags = ["rdlc", "net", "nuget"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

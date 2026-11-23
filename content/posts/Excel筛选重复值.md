@@ -5,7 +5,7 @@ slug = "d6ade37d"
 aliases = ["/2023/02_09_d6ade37d.html"]
 description = "笔记Excel实现类SQL分析：用&连字符合并多键值、COUNTIF计数与去重、筛选重复值及实现NOT IN，附参考链接。"
 [taxonomies]
-tags = ["excel"]
+tags = ["excel", "countif", "sql"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

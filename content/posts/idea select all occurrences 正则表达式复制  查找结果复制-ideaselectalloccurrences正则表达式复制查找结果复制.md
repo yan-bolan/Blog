@@ -6,7 +6,7 @@ slug = "c7f44292"
 aliases = ["/2020/11_26_c7f44292.html"]
 description = "IDEA 中用正则查找或 Select All Occurrences 选中所有匹配项（如各 R.color 值），再 Ctrl+C 一次性复制查找结果。"
 [taxonomies]
-tags = ["正则表达式"]
+tags = ["正则表达式", "idea", "快捷键"]
 [extra]
 category = "IDE"
 categories = ["IDE"]

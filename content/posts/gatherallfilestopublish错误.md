@@ -7,7 +7,7 @@ description = "VS 发布报 GatherAllFilesToPublish 错误，疑因装 VC redist
 [extra]
 cover = "https://tva2.sinaimg.cn/large/87c01ec7gy1frqdpollutj21hc0u07wh.jpg"
 [taxonomies]
-tags = ["visual studio", "dotnet"]
+tags = ["visual studio", "dotnet", "发布"]
 +++
 gatherallfilestopublish 错误
 

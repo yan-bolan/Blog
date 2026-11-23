@@ -6,7 +6,7 @@ slug = "6df7b723"
 aliases = ["/2020/06_19_6df7b723.html"]
 description = "git clone、push 慢因未走本地代理，用 git config --global 设置 http/https 代理指向本机 socks5 端口加速。"
 [taxonomies]
-tags = ["proxy,git"]
+tags = ["proxy", "git", "socks5"]
 [extra]
 category = "网络"
 categories = ["网络"]

@@ -6,7 +6,7 @@ slug = "b7c54147"
 aliases = ["/2021/05_13_b7c54147.html"]
 description = "杂谈笔记：Halo升级前先备份且不建议升级（主题跟不上），博客地址用IP而非域名否则无法下载；另测试网易云音乐、字体与B站视频嵌入。"
 [taxonomies]
-tags = ["杂谈"]
+tags = ["杂谈", "halo", "域名"]
 [extra]
 category = "杂谈"
 categories = ["杂谈"]

@@ -10,6 +10,6 @@ category = "Linux"
 categories = ["Linux"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
 [taxonomies]
-tags = ["centos7", "ftp"]
+tags = ["centos7", "ftp", "linux"]
 +++
 ﻿https://www.cnblogs.com/toutou/p/9662390.html

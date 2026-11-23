@@ -8,7 +8,7 @@ description = "小结Word查找替换通配符用法：区分查找栏与替换�
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
 [taxonomies]
-tags = ["word", "正则表达式"]
+tags = ["word", "正则表达式", "查找替换"]
 +++
 ﻿ 网上一览表很多，就不重复了。如果，你不要百度，在查找替换栏下方特殊格式中有示例。
 1. 概念。 一览表表分为 查找栏 能用的， 替换栏能用的， 勾没勾通配符能用的。

@@ -10,7 +10,7 @@ category = "win10"
 categories = ["win10"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
 [taxonomies]
-tags = ["win10", "网卡"]
+tags = ["win10", "网卡", "远程唤醒"]
 +++
 ﻿没电源管理，更新驱动。bios 
 灰色的：

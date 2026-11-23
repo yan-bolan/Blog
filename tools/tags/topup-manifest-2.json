@@ -1,0 +1,525 @@
+[
+ {
+  "file": "content/posts/jwt登录方案.md",
+  "tags": [
+   "jwt",
+   "dotnet"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/layui 使用 导航栏偏移-layui使用导航栏偏移.md",
+  "tags": [
+   "layui",
+   "css"
+  ],
+  "category": "前端"
+ },
+ {
+  "file": "content/posts/layui内容居中.md",
+  "tags": [
+   "layui",
+   "居中"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/Lifecycle.md",
+  "tags": [
+   "net"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/linux ftp服务器-linuxftp服务器.md",
+  "tags": [
+   "linux",
+   "ftp"
+  ],
+  "category": "Linux"
+ },
+ {
+  "file": "content/posts/Linux服务systemd管理版本.md",
+  "tags": [
+   "ai"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/linux防火墙开启-linux防火墙开启.md",
+  "tags": [
+   "linux",
+   "防火墙"
+  ],
+  "category": "Linux"
+ },
+ {
+  "file": "content/posts/microbin.md",
+  "tags": [
+   "文本分享"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/mooc code7问题-mooccode7问题.md",
+  "tags": [
+   "win10"
+  ],
+  "category": "win10"
+ },
+ {
+  "file": "content/posts/mybatis一些细节-mybatis一些细节.md",
+  "tags": [
+   "mybatis",
+   "springboot"
+  ],
+  "category": "数据库,# springboot"
+ },
+ {
+  "file": "content/posts/mysql-ha.md",
+  "tags": [
+   "ha"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/mysql冷备份.md",
+  "tags": [
+   "mysql"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/mysql导入报错 [Err] 1273 - Unknown collation_ ‘utf8mb4_0900_ai_ci‘-mysql导入报错err1273-unknowncollationutf8mb40900aici.md",
+  "tags": [
+   "mysql",
+   "字符集"
+  ],
+  "category": "数据库"
+ },
+ {
+  "file": "content/posts/mysql性能分析.md",
+  "tags": [
+   "mysql"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/mysql性能测试.md",
+  "tags": [
+   "mysql"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/net-learn.md",
+  "tags": [
+   "异步"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/net-一些生态.md",
+  "tags": [
+   "net"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/netcsharp语法学习.md",
+  "tags": [
+   "c#"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/NET发布portable和winx64区别.md",
+  "tags": [
+   "net"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/net并行多发编程.md",
+  "tags": [
+   "net",
+   "多线程"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/nginx 中返回文本的方式-nginx中返回文本的方式.md",
+  "tags": [
+   "nginx"
+  ],
+  "category": "java"
+ },
+ {
+  "file": "content/posts/nginx代理.md",
+  "tags": [
+   "代理",
+   "nginx"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/nginx代理配置记录.md",
+  "tags": [
+   "nginx"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/nigx代理解决跨域问题，vuecli axios 直接跨域，开发环境下调试跨域-nigx代理解决跨域问题vuecliaxios直接跨域开发环境下调试跨域.md",
+  "tags": [
+   "nginx"
+  ],
+  "category": "网络"
+ },
+ {
+  "file": "content/posts/Nodejs-win7下安装.md",
+  "tags": [
+   "nodejs",
+   "win7"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/openwrt pandorabox kali Captive portal not popping up wifiphisher-openwrtpandoraboxkalicaptiveportalnotpoppingupwifiphisher.md",
+  "tags": [
+   "openwrt"
+  ],
+  "category": "Linux"
+ },
+ {
+  "file": "content/posts/oracle 初学小错误-oracle初学小错误.md",
+  "tags": [
+   "oracle"
+  ],
+  "category": "数据库"
+ },
+ {
+  "file": "content/posts/ORACLE-JOB失败16次后停止.md",
+  "tags": [
+   "oracle",
+   "oracle dbms"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/oracle-visusal-studio-2022-file-can-t-find.md",
+  "tags": [
+   "oracle"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/oracle-with-net.md",
+  "tags": [
+   "oracle",
+   "net"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/Oracle-字符集设置和乱码.md",
+  "tags": [
+   "oraclecharset"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/ORACLE使用SELECT后INSERT报ORA-01652错误.md",
+  "tags": [
+   "ora-01652"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/php 变量范围-php变量范围.md",
+  "tags": [
+   "php"
+  ],
+  "category": "php"
+ },
+ {
+  "file": "content/posts/PHP其它类型的变量转换为布尔类型时,哪些值被认为是false-php其它类型的变量转换为布尔类型时哪些值被认为是false.md",
+  "tags": [
+   "php",
+   "类型转换"
+  ],
+  "category": "php"
+ },
+ {
+  "file": "content/posts/php字符串表示 类概念知识点-php字符串表示类概念知识点.md",
+  "tags": [
+   "php类概念",
+   "php字符串"
+  ],
+  "category": "php"
+ },
+ {
+  "file": "content/posts/picgo github-picgogithub.md",
+  "tags": [
+   "github",
+   "picgo"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/PLSQL登录数据库.md",
+  "tags": [
+   "plsql"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/post-.htacess文件一此学习，先要了解大概才能做-htacess文件一此学习先要了解大概才能做.md",
+  "tags": [
+   ".htaccess"
+  ],
+  "category": "网络"
+ },
+ {
+  "file": "content/posts/Public Key Retrieval is not allowed-publickeyretrievalisnotallowed.md",
+  "tags": [
+   "mysql",
+   "java"
+  ],
+  "category": "javaweb"
+ },
+ {
+  "file": "content/posts/putty 方便技巧ssh-putty方便技巧ssh.md",
+  "tags": [
+   "ssh",
+   "putty"
+  ],
+  "category": "Linux"
+ },
+ {
+  "file": "content/posts/RDLC教程.md",
+  "tags": [
+   "rdlc"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/RDLC滑动条无法滑动.md",
+  "tags": [
+   "rdlc"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/RPC远程调用.md",
+  "tags": [
+   "rpc web services soap wsdl wsd"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/rsa转ppk格式.md",
+  "tags": [
+   "ssh",
+   "putty"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/serive ondestory-seriveondestory.md",
+  "tags": [
+   "android",
+   "service"
+  ],
+  "category": "andriod"
+ },
+ {
+  "file": "content/posts/spring controller一些写法-springcontroller一些写法.md",
+  "tags": [
+   "springboot",
+   "controller"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/springboot @RequestBody bean 对象 为空问题-springbootrequestbodybean对象为空问题.md",
+  "tags": [
+   "spring",
+   "requestbody"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/springport application.yaml端口-springportapplicationyaml端口.md",
+  "tags": [
+   "java"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/sqldeveloper窗口布局.md",
+  "tags": [
+   "窗口布局"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/To avoid scope ambiguity, the default slot should also use ＜template＞ syntax when there are other na-toavoidscopeambiguitythedefaultslotshouldalsousetemplatesyntaxwhenthereareotherna.md",
+  "tags": [
+   "slot",
+   "插槽"
+  ],
+  "category": "前端"
+ },
+ {
+  "file": "content/posts/tomcat开发手册-tomcat开发手册.md",
+  "tags": [
+   "tomcat",
+   "java"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/tqdm单行显示-tqdm单行显示.md",
+  "tags": [
+   "tqdm"
+  ],
+  "category": "python"
+ },
+ {
+  "file": "content/posts/ubuntu网络图标不见-ubuntu网络图标不见.md",
+  "tags": [
+   "linux",
+   "ubuntu"
+  ],
+  "category": "Linux"
+ },
+ {
+  "file": "content/posts/ump安装的一个问题-ump安装的一个问题.md",
+  "tags": [
+   "ump",
+   "install"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/useradd和adduser 区别-useradd和adduser区别.md",
+  "tags": [
+   "linux",
+   "用户管理"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/vmware-win7无网络编辑器子网NAT服务驱动安装.md",
+  "tags": [
+   "vmware"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/vmware网络桥接模式-vmware网络桥接模式.md",
+  "tags": [
+   "vmware",
+   "虚拟机"
+  ],
+  "category": "Linux"
+ },
+ {
+  "file": "content/posts/vs2019-vs2019.md",
+  "tags": [
+   "vs2019",
+   "c++"
+  ],
+  "category": "C++"
+ },
+ {
+  "file": "content/posts/vscode html js css 格式化插件问题-vscodehtmljscss格式化插件问题.md",
+  "tags": [
+   "字符串"
+  ],
+  "category": "JavaScript"
+ },
+ {
+  "file": "content/posts/vscode ssh 密钥登录-vscodessh密钥登录.md",
+  "tags": [
+   "vscode",
+   "ssh"
+  ],
+  "category": ""
+ },
+ {
+  "file": "content/posts/vscode远程ssh连不上-vscode远程ssh连不上.md",
+  "tags": [
+   "ssh",
+   "vscode ssh问题"
+  ],
+  "category": "Linux"
+ },
+ {
+  "file": "content/posts/win e-wine.md",
+  "tags": [
+   "win10",
+   "wine"
+  ],
+  "category": "win10"
+ },
+ {
+  "file": "content/posts/win 每次以管理员身份运行-win每次以管理员身份运行.md",
+  "tags": [
+   "管理员身份"
+  ],
+  "category": "win10"
+ },
+ {
+  "file": "content/posts/win 输入法 v模式-win输入法v模式.md",
+  "tags": [
+   "快捷"
+  ],
+  "category": "win10"
+ },
+ {
+  "file": "content/posts/win10 1903最新版截图快捷键 win+shift+s-win101903最新版截图快捷键winshifts.md",
+  "tags": [
+   "快捷键"
+  ],
+  "category": "win10"
+ },
+ {
+  "file": "content/posts/win10下MySQL 8.0登录Access denied for user‘root’@‘localhost’ (using password_ YES)问题的解决方法-win10下mysql80登录accessdeniedforuserrootlocalhostusingpasswordyes问题的解决方法.md",
+  "tags": [
+   "mysql"
+  ],
+  "category": "javaweb"
+ },
+ {
+  "file": "content/posts/win10控制鼠标滚轮速度，word文档-win10控制鼠标滚轮速度word文档.md",
+  "tags": [
+   "win10",
+   "word"
+  ],
+  "category": "win10"
+ },
+ {
+  "file": "content/posts/win10系统变量的列表显示方法-win10系统变量的列表显示方法.md",
+  "tags": [
+   "win10"
+  ],
+  "category": "win10"
+ },
+ {
+  "file": "content/posts/win10远程唤醒，网卡驱动电源管理是灰色。-win10远程唤醒网卡驱动电源管理是灰色.md",
+  "tags": [
+   "win10",
+   "网卡"
+  ],
+  "category": "win10"
+ },
+ {
+  "file": "content/posts/WINDBG学习.md",
+  "tags": [
+   "iis"
+  ],
+  "category": ""
+ }
+]

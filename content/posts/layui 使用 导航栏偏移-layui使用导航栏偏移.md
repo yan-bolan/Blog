@@ -10,7 +10,7 @@ category = "前端"
 categories = ["前端"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
 [taxonomies]
-tags = ["layui", "css"]
+tags = ["layui", "css", "html"]
 +++
 ﻿layui-col-md-offset4
 

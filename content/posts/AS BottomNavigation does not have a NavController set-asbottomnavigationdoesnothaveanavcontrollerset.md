@@ -6,7 +6,7 @@ slug = "8075a9b0"
 aliases = ["/2020/09_13_8075a9b0.html"]
 description = "排查AS生成BottomNavigation活动报无NavController错误，发现与NoActionBar主题及布局设置有关，调整后解决。"
 [taxonomies]
-tags = ["navigation", "android"]
+tags = ["navigation", "android", "android studio"]
 [extra]
 category = "andriod"
 categories = ["andriod"]

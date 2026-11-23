@@ -6,7 +6,7 @@ slug = "5c40672e"
 aliases = ["/2020/10_08_5c40672e.html"]
 description = "整理SpringBoot改端口的方式：命令行--server.port参数，或application.yml中server.port配置，支持环境变量占位。"
 [taxonomies]
-tags = ["java"]
+tags = ["java", "springboot", "spring"]
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
 +++

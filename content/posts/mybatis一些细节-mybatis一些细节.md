@@ -6,7 +6,7 @@ slug = "6a1335e9"
 aliases = ["/2020/10_09_6a1335e9.html"]
 description = "MyBatis整合SpringBoot的细节记录：英文官网差异、classpath与classpath*区别、Dao层注解与Mapper注入报错处理。"
 [taxonomies]
-tags = ["mybatis,springboot"]
+tags = ["mybatis", "springboot", "maven问题"]
 [extra]
 category = "数据库,# springboot"
 categories = ["数据库,# springboot"]

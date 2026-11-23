@@ -5,7 +5,7 @@ slug = "af721f80"
 aliases = ["/2023/07_27_af721f80.html"]
 description = "用 git rebase 变基重放提交整合分叉历史或 squash 合并重复 commit，已推到仓库外、他人可能基于其开发的提交切勿变基。"
 [taxonomies]
-tags = ["git"]
+tags = ["git", "rebase", "squash"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

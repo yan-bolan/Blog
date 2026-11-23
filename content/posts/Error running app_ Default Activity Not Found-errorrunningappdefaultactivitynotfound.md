@@ -10,7 +10,7 @@ category = "andriod"
 categories = ["andriod"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
 [taxonomies]
-tags = ["android", "android studio"]
+tags = ["android", "android studio", "manifest"]
 +++
 ﻿https://blog.csdn.net/DeMonliuhui/article/details/83046252
 

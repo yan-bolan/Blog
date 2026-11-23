@@ -5,7 +5,7 @@ slug = "a040c78f"
 aliases = ["/2024/11_10_a040c78f.html"]
 description = "IIS 站点配置在 applicationHost.config，用 appcmd 命令行修改，日志按 W3SVC 编号存于 inetpub 的 logs。"
 [taxonomies]
-tags = ["iis"]
+tags = ["iis", "cmd", "appcmd"]
 [extra]
 cover = "https://picsum.photos/400"
 +++

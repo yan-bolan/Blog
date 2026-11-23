@@ -1,0 +1,471 @@
+[
+ {
+  "file": "content/posts/window-outbound转发.md",
+  "tags": [
+   "代理",
+   "clash",
+   "win10"
+  ]
+ },
+ {
+  "file": "content/posts/windows 根据端口查看进行PID 并杀掉进程-windows根据端口查看进行pid并杀掉进程.md",
+  "tags": [
+   "端口占用",
+   "cmd",
+   "win10"
+  ]
+ },
+ {
+  "file": "content/posts/WindowsSSH配置.md",
+  "tags": [
+   "ssh",
+   "win10",
+   "权限"
+  ]
+ },
+ {
+  "file": "content/posts/WINDOW内存分析.md",
+  "tags": [
+   "net",
+   "windbg",
+   "调试"
+  ]
+ },
+ {
+  "file": "content/posts/word 通配符小结-word通配符小结.md",
+  "tags": [
+   "word",
+   "正则表达式",
+   "查找替换"
+  ]
+ },
+ {
+  "file": "content/posts/word快捷键记录-word快捷键记录.md",
+  "tags": [
+   "word",
+   "快捷键",
+   "office"
+  ]
+ },
+ {
+  "file": "content/posts/wsl2 docker hpye-v window config.v2.json位置目录-wsl2dockerhpye-vwindowconfigv2json位置目录.md",
+  "tags": [
+   "docker",
+   "wsl",
+   "hyper-v"
+  ]
+ },
+ {
+  "file": "content/posts/xml does not fulfill production-xmldoesnotfulfillproduction.md",
+  "tags": [
+   "xml",
+   "语法",
+   "解析"
+  ]
+ },
+ {
+  "file": "content/posts/xrdp自动登录.md",
+  "tags": [
+   "xrdp",
+   "wsl",
+   "ubuntu"
+  ]
+ },
+ {
+  "file": "content/posts/zip包乱码.md",
+  "tags": [
+   "zip",
+   "encoding",
+   "字符集"
+  ]
+ },
+ {
+  "file": "content/posts/“Failed to load response data“ django@xframe_options_exempt 网站不许 Firefox 显示被嵌入的网页-failedtoloadresponsedatadjangoxframeoptionsexempt网站不许firefox显示被嵌入的网页.md",
+  "tags": [
+   "django",
+   "python",
+   "http"
+  ]
+ },
+ {
+  "file": "content/posts/个人.md",
+  "tags": [
+   "个人",
+   "生活",
+   "人生"
+  ]
+ },
+ {
+  "file": "content/posts/个发发展管理系统.md",
+  "tags": [
+   "系统",
+   "绩效管理",
+   "人力资源"
+  ]
+ },
+ {
+  "file": "content/posts/代码生成.md",
+  "tags": [
+   "wpf",
+   "net",
+   "java",
+   "swagger"
+  ]
+ },
+ {
+  "file": "content/posts/代码覆盖率测试.md",
+  "tags": [
+   "覆盖率",
+   "net",
+   "dotnet"
+  ]
+ },
+ {
+  "file": "content/posts/佩奇排名-佩奇排名.md",
+  "tags": [
+   "算法",
+   "pagerank",
+   "搜索引擎"
+  ]
+ },
+ {
+  "file": "content/posts/内部异常.md",
+  "tags": [
+   "exception",
+   "net",
+   "c#"
+  ]
+ },
+ {
+  "file": "content/posts/分布式事务性.md",
+  "tags": [
+   "sage",
+   "分布式事务",
+   "微服务"
+  ]
+ },
+ {
+  "file": "content/posts/分页排序正确性问题.md",
+  "tags": [
+   "linq",
+   "oracle",
+   "sql",
+   "分页"
+  ]
+ },
+ {
+  "file": "content/posts/制造业常用名词记录.md",
+  "tags": [
+   "制造业",
+   "sap",
+   "erp",
+   "供应链"
+  ]
+ },
+ {
+  "file": "content/posts/剪切蒙版是什么-剪切蒙版是什么.md",
+  "tags": [
+   "ps",
+   "剪切蒙版",
+   "图层"
+  ]
+ },
+ {
+  "file": "content/posts/双系统安装问题记录.md",
+  "tags": [
+   "linux",
+   "双系统",
+   "uefi",
+   "win10"
+  ]
+ },
+ {
+  "file": "content/posts/各语言数学运算支持.md",
+  "tags": [
+   "计算机数字",
+   "js",
+   "数学"
+  ]
+ },
+ {
+  "file": "content/posts/复制params时，技巧-复制params时技巧.md",
+  "tags": [
+   "idea",
+   "java",
+   "javaweb"
+  ]
+ },
+ {
+  "file": "content/posts/如何在Excel中将科学计数法转换为文本或数字.md",
+  "tags": [
+   "excel",
+   "科学计数法",
+   "类型转换"
+  ]
+ },
+ {
+  "file": "content/posts/完成软件需求分析和GUI设计-完成软件需求分析和gui设计.md",
+  "tags": [
+   "gui",
+   "需求分析",
+   "软件工程"
+  ]
+ },
+ {
+  "file": "content/posts/宝塔linux-宝塔linux.md",
+  "tags": [
+   "linux",
+   "宝塔",
+   "install"
+  ]
+ },
+ {
+  "file": "content/posts/工作中心.md",
+  "tags": [
+   "bom",
+   "sap",
+   "制造业"
+  ]
+ },
+ {
+  "file": "content/posts/开源协议.md",
+  "tags": [
+   "开",
+   "开源协议",
+   "android"
+  ]
+ },
+ {
+  "file": "content/posts/当前目录cmd快捷键-当前目录cmd快捷键.md",
+  "tags": [
+   "cmd",
+   "快捷键",
+   "win10"
+  ]
+ },
+ {
+  "file": "content/posts/批发系统详细设计文档-批发系统详细设计文档.md",
+  "tags": [
+   "详细设计",
+   "spring",
+   "mysql"
+  ]
+ },
+ {
+  "file": "content/posts/技巧help github 博客 jjekyll-技巧helpgithub博客jjekyll.md",
+  "tags": [
+   "github",
+   "jekyll",
+   "blog"
+  ]
+ },
+ {
+  "file": "content/posts/数据库ACID.md",
+  "tags": [
+   "acid",
+   "oracle",
+   "锁"
+  ]
+ },
+ {
+  "file": "content/posts/整数因子分解-整数因子分解.md",
+  "tags": [
+   "整数因子分解",
+   "算法",
+   "数学"
+  ]
+ },
+ {
+  "file": "content/posts/无法下载goproxy-无法下载goproxy.md",
+  "tags": [
+   "proxy",
+   "linux",
+   "github"
+  ]
+ },
+ {
+  "file": "content/posts/时间戳精度单线程下机器得到相同号.md",
+  "tags": [
+   "时间格式",
+   "精度",
+   "c#"
+  ]
+ },
+ {
+  "file": "content/posts/查找替换 idea,ctrl r, ctrl f-查找替换ideactrlrctrlf.md",
+  "tags": [
+   "idea",
+   "快捷键",
+   "查找替换"
+  ]
+ },
+ {
+  "file": "content/posts/浏览器通知apichrome没有显示原因.md",
+  "tags": [
+   "mysql",
+   "js",
+   "chrome"
+  ]
+ },
+ {
+  "file": "content/posts/用idea + ssh+ maven 搭一个大概框架样式-用ideasshmaven搭一个大概框架样式.md",
+  "tags": [
+   "ssh",
+   "idea",
+   "maven"
+  ]
+ },
+ {
+  "file": "content/posts/画廊-画廊.md",
+  "tags": [
+   "杂谈",
+   "生活",
+   "画廊"
+  ]
+ },
+ {
+  "file": "content/posts/监听ipv6端口 转代理到ipv4  window下 squid-监听ipv6端口转代理到ipv4window下squid.md",
+  "tags": [
+   "ipv6",
+   "squid",
+   "proxy",
+   "nginx"
+  ]
+ },
+ {
+  "file": "content/posts/确定项目为食品批发管理系统的设计与开发-确定项目为食品批发管理系统的设计与开发.md",
+  "tags": [
+   "立项",
+   "批发系统",
+   "软件工程"
+  ]
+ },
+ {
+  "file": "content/posts/程序卡住记录.md",
+  "tags": [
+   "windbg",
+   "net",
+   "dump"
+  ]
+ },
+ {
+  "file": "content/posts/算法复杂度-算法复杂度.md",
+  "tags": [
+   "算法",
+   "复杂度",
+   "二分法"
+  ]
+ },
+ {
+  "file": "content/posts/算法设计与分析课后题，统计数字问题-算法设计与分析课后题统计数字问题.md",
+  "tags": [
+   "算法与设计",
+   "算法",
+   "数学"
+  ]
+ },
+ {
+  "file": "content/posts/素数测试 费马小定理 辗转相除法-素数测试费马小定理辗转相除法.md",
+  "tags": [
+   "gcd",
+   "素数测试",
+   "算法"
+  ]
+ },
+ {
+  "file": "content/posts/红黑树-红黑树.md",
+  "tags": [
+   "红黑树",
+   "二叉查找树",
+   "数据结构"
+  ]
+ },
+ {
+  "file": "content/posts/继续完善GUI设计，学会使用Axure RP工具-继续完善gui设计学会使用axurerp工具.md",
+  "tags": [
+   "axure rp",
+   "gui",
+   "原型设计"
+  ]
+ },
+ {
+  "file": "content/posts/英文版window-中文应用乱码问题.md",
+  "tags": [
+   "win10",
+   "encoding",
+   "字符集"
+  ]
+ },
+ {
+  "file": "content/posts/虚拟机固定ip DHCP方式-虚拟机固定ipdhcp方式.md",
+  "tags": [
+   "ip vm",
+   "虚拟机",
+   "dhcp"
+  ]
+ },
+ {
+  "file": "content/posts/表达式获取bindMemberAssignment .md",
+  "tags": [
+   "c#",
+   "lambda",
+   "表达式树"
+  ]
+ },
+ {
+  "file": "content/posts/要使HTML表单生成文件上传变量必须满足哪3个条件-要使html表单生成文件上传变量必须满足哪3个条件.md",
+  "tags": [
+   "php文件上传",
+   "http协议",
+   "form"
+  ]
+ },
+ {
+  "file": "content/posts/计划赶不上变化.md",
+  "tags": [
+   "c#",
+   "c++",
+   "编程语言"
+  ]
+ },
+ {
+  "file": "content/posts/计算份数算法公式.md",
+  "tags": [
+   "公式",
+   "算法",
+   "数学"
+  ]
+ },
+ {
+  "file": "content/posts/语录-wen-ji--yu-lu.md",
+  "tags": [
+   "语录",
+   "网易云音乐",
+   "anime"
+  ]
+ },
+ {
+  "file": "content/posts/软件测试.md",
+  "tags": [
+   "软件测试",
+   "单元测试",
+   "黑盒测试"
+  ]
+ },
+ {
+  "file": "content/posts/霍 夫曼(Huffman)编码 游程编码-赫哈霍夫曼huffman编码游程编码-2.md",
+  "tags": [
+   "huffman",
+   "游程编码",
+   "数据压缩"
+  ]
+ },
+ {
+  "file": "content/posts/霍 夫曼(Huffman)编码 游程编码-赫哈霍夫曼huffman编码游程编码.md",
+  "tags": [
+   "huffman",
+   "游程编码",
+   "数据压缩"
+  ]
+ }
+]

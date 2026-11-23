@@ -6,7 +6,7 @@ description = "dotnet 单文件发布会使 Assembly.Location 返回空，应改
 [extra]
 cover = "https://api.paugram.com/wallpaper/?source=sm"
 [taxonomies]
-tags = ["c#", "dotnet"]
+tags = ["c#", "dotnet", "单文件发布"]
 +++
 [dotnet 警惕 Assembly.Location 返回空 (lindexi.com)](https://blog.lindexi.com/post/dotnet-%E8%AD%A6%E6%83%95-Assembly.Location-%E8%BF%94%E5%9B%9E%E7%A9%BA.html)~~~~
 

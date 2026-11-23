@@ -5,7 +5,7 @@ slug = "56a27354"
 aliases = ["/2022/09_26_56a27354.html"]
 description = "梳理远程调用从SOA、SOAP到REST与gRPC的演进：SOAP与REST基于文本、gRPC基于二进制性能更高，XSD约束协议、WSDL作文档。"
 [taxonomies]
-tags = ["rpc web services soap wsdl wsd"]
+tags = ["rpc web services soap wsdl wsd", "http", "grpc"]
 +++
 # 历史
 
