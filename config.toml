@@ -201,3 +201,11 @@ zh = "中文"
 "notfound.text" = "你似乎来到了没有知识存在的荒原"
 "notfound.back" = "返回首页"
 "notfound.latest" = "或者看看最近的文章"
+
+# ---------- 侧栏角色卡（移植自旧站 Nexmoe link 组件） ----------
+[[extra.heroes]]
+name = "犬吠·埼樹"
+image = "images/heroes/inukai-saito.webp"
+[[extra.heroes]]
+name = "東郷·美森"
+image = "images/heroes/togo-mimori.webp"
