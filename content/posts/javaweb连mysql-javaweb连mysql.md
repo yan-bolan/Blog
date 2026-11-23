@@ -9,6 +9,8 @@ description = "JavaWeb 用 JDBC 连 MySQL，分 UserVo 实体、connection 取�
 category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
+[taxonomies]
+tags = ["java", "mysql", "jdbc"]
 +++
 ﻿##### 一共三个类：
 userVo:// 定义一个 Bean，与数据库表中的各个字段对应：

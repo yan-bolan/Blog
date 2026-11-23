@@ -9,6 +9,8 @@ description = "解决Illustrator导出SVG网页字体不一致：原CSS的serif�
 category = "前端"
 categories = ["前端"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
+[taxonomies]
+tags = ["svg", "css", "illustrator"]
 +++
 ﻿illustrator 导出svg，用的是同一字体 ，导出到网页，不一样。
 

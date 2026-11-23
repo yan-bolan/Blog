@@ -7,6 +7,8 @@ aliases = ["/2021/03_25_cb572a12.html"]
 description = "临时修复Ubuntu终端中文乱码：locale -a查可用字符集，en_US.utf8未生成会报错，改设LC_CTYPE为C.UTF-8即时生效。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png"
+[taxonomies]
+tags = ["linux", "ssh", "encoding"]
 +++
  输入：locale
  输出

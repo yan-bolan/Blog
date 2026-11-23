@@ -9,6 +9,8 @@ description = "fastjson 解析对象套数组的 JSON：parseObject 取对象，
 category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+[taxonomies]
+tags = ["java", "json", "fastjson"]
 +++
 ﻿fastjson
 因为json中即有对象也有数组

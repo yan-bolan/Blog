@@ -9,6 +9,8 @@ description = "Apache配置代理：conf追加proxy等LoadModule模块、启用P
 category = "网络"
 categories = ["网络"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+[taxonomies]
+tags = ["apache", "proxy"]
 +++
 复制到你的conf后面。重启apache,无法重启说明有错，查看日志。
 ```bash

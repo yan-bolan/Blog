@@ -9,5 +9,7 @@ description = "记录JavaWeb中CheckBox选中取值与回填的参考资料，�
 category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+[taxonomies]
+tags = ["java", "jsp"]
 +++
 ﻿[https://www.cnblogs.com/ckxlovejava/p/7872478.html](https://www.cnblogs.com/ckxlovejava/p/7872478.html)

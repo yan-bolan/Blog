@@ -9,6 +9,8 @@ description = "记录ThinkPHP日志写入失败的处理：先导入日志类，
 category = "php"
 categories = ["php"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
+[taxonomies]
+tags = ["php", "thinkphp", "权限"]
 +++
 ﻿首先你要导入这个日志类，否则类找不到
 然后看开发手册

@@ -4,6 +4,8 @@ date = "2022-09-17 12:29:22"
 slug = "77cfbb8f"
 aliases = ["/2022/09_17_77cfbb8f.html"]
 description = "整理.NET与Windows调试技术：Sysinternals套件各工具用途、线程与内核调试资料，以及用WinDbg向C#进程注入DLL中断线程的方法。"
+[taxonomies]
+tags = ["windbg", "c#", "调试"]
 +++
 #工具
 

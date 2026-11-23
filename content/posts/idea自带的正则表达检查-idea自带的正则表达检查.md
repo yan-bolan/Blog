@@ -9,6 +9,8 @@ description = "IDEA 中对正则表达式按 Alt+Enter 选择检查正则，即�
 category = "IDE"
 categories = ["IDE"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
+[taxonomies]
+tags = ["idea", "正则表达式"]
 +++
 ﻿alt enter 选择 检查正则
 检验是否正确。

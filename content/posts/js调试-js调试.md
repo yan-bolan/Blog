@@ -9,6 +9,8 @@ description = "JS 杂记：按标签或类名批量取改元素、读本地 JSON
 category = "JavaScript"
 categories = ["JavaScript"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
+[taxonomies]
+tags = ["js", "jsonp", "跨域"]
 +++
 ﻿[https://www.cnblogs.com/yuerdong/p/9883951.html](https://www.cnblogs.com/yuerdong/p/9883951.html)
 

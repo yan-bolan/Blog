@@ -7,6 +7,8 @@ aliases = ["/2019/05_30_e6bce0f0.html"]
 description = "记录B站UMP破解版安装问题的处理思路：把系统日期改一下再试，附截图参考。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+[taxonomies]
+tags = ["ump", "install"]
 +++
 ﻿[toc](bilibli ump一些破解版安装的问题，把系统日期改一下，试试。)
 ![在这里插入图片描述](http://img.yayi.site/csdn/20190530222728172.png-watermaskStyle)

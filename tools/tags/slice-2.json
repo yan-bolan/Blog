@@ -1,0 +1,369 @@
+[
+ {
+  "file": "content/posts/mysql导入报错 [Err] 1273 - Unknown collation_ ‘utf8mb4_0900_ai_ci‘-mysql导入报错err1273-unknowncollationutf8mb40900aici.md",
+  "tags": [
+   "mysql",
+   "字符集"
+  ]
+ },
+ {
+  "file": "content/posts/net-调试技术.md",
+  "tags": [
+   "windbg",
+   "c#",
+   "调试"
+  ]
+ },
+ {
+  "file": "content/posts/nginx 443 80 http https 301-nginx44380httphttps301.md",
+  "tags": [
+   "nginx",
+   "http",
+   "https"
+  ]
+ },
+ {
+  "file": "content/posts/oracle-with-net.md",
+  "tags": [
+   "oracle",
+   "net"
+  ]
+ },
+ {
+  "file": "content/posts/ping不通问题-ping不通问题.md",
+  "tags": [
+   "ping",
+   "防火墙",
+   "vmware"
+  ]
+ },
+ {
+  "file": "content/posts/Public Key Retrieval is not allowed-publickeyretrievalisnotallowed.md",
+  "tags": [
+   "mysql",
+   "java"
+  ]
+ },
+ {
+  "file": "content/posts/putty 方便技巧ssh-putty方便技巧ssh.md",
+  "tags": [
+   "ssh",
+   "putty"
+  ]
+ },
+ {
+  "file": "content/posts/rsa转ppk格式.md",
+  "tags": [
+   "ssh",
+   "putty"
+  ]
+ },
+ {
+  "file": "content/posts/serive ondestory-seriveondestory.md",
+  "tags": [
+   "android",
+   "service"
+  ]
+ },
+ {
+  "file": "content/posts/springboot从零开始，快捷键 快捷操作-springboot从零开始快捷键快捷操作.md",
+  "tags": [
+   "springboot",
+   "快捷键",
+   "idea"
+  ]
+ },
+ {
+  "file": "content/posts/svg 字体 illustrator 导出svg 不一样css问题-svg字体illustrator导出svg不一样css问题.md",
+  "tags": [
+   "svg",
+   "css",
+   "illustrator"
+  ]
+ },
+ {
+  "file": "content/posts/thinkphp日志-thinkphp日志.md",
+  "tags": [
+   "php",
+   "thinkphp",
+   "权限"
+  ]
+ },
+ {
+  "file": "content/posts/tinymce is not a valid module  layui is not define-tinymceisnotavalidmodulelayuiisnotdefine.md",
+  "tags": [
+   "layui",
+   "js",
+   "tomcat"
+  ]
+ },
+ {
+  "file": "content/posts/TLS-ALPN-routing.md",
+  "tags": [
+   "nginx",
+   "tls",
+   "sni"
+  ]
+ },
+ {
+  "file": "content/posts/tomcat开发手册-tomcat开发手册.md",
+  "tags": [
+   "tomcat",
+   "java"
+  ]
+ },
+ {
+  "file": "content/posts/ubuntu网络图标不见-ubuntu网络图标不见.md",
+  "tags": [
+   "linux",
+   "ubuntu"
+  ]
+ },
+ {
+  "file": "content/posts/ump安装的一个问题-ump安装的一个问题.md",
+  "tags": [
+   "ump",
+   "install"
+  ]
+ },
+ {
+  "file": "content/posts/unbutu字符集临时修改，ssh 终端斜杠中文-unbutu字符集临时修改ssh终端斜杠中文.md",
+  "tags": [
+   "linux",
+   "ssh",
+   "encoding"
+  ]
+ },
+ {
+  "file": "content/posts/useradd和adduser 区别-useradd和adduser区别.md",
+  "tags": [
+   "linux",
+   "用户管理"
+  ]
+ },
+ {
+  "file": "content/posts/vcpkg安装poco-vcpkg安装poco.md",
+  "tags": [
+   "vcpkg",
+   "poco",
+   "c++"
+  ]
+ },
+ {
+  "file": "content/posts/vmware网络桥接模式-vmware网络桥接模式.md",
+  "tags": [
+   "vmware",
+   "虚拟机"
+  ]
+ },
+ {
+  "file": "content/posts/vs2019-vs2019.md",
+  "tags": [
+   "vs2019",
+   "c++"
+  ]
+ },
+ {
+  "file": "content/posts/vscode ssh 密钥登录-vscodessh密钥登录.md",
+  "tags": [
+   "vscode",
+   "ssh"
+  ]
+ },
+ {
+  "file": "content/posts/vue webstorm 问题总结-vuewebstorm问题总结.md",
+  "tags": [
+   "vue",
+   "webstorm",
+   "js"
+  ]
+ },
+ {
+  "file": "content/posts/vue 表单验证 html input-vue表单验证htmlinput.md",
+  "tags": [
+   "vue",
+   "html",
+   "form"
+  ]
+ },
+ {
+  "file": "content/posts/web-config-aspnet-sqlite-realtive-path.md",
+  "tags": [
+   "aspnet",
+   "sqlite",
+   "c#"
+  ]
+ },
+ {
+  "file": "content/posts/win e-wine.md",
+  "tags": [
+   "win10",
+   "wine"
+  ]
+ },
+ {
+  "file": "content/posts/win10控制鼠标滚轮速度，word文档-win10控制鼠标滚轮速度word文档.md",
+  "tags": [
+   "win10",
+   "word"
+  ]
+ },
+ {
+  "file": "content/posts/win10远程唤醒，网卡驱动电源管理是灰色。-win10远程唤醒网卡驱动电源管理是灰色.md",
+  "tags": [
+   "win10",
+   "网卡"
+  ]
+ },
+ {
+  "file": "content/posts/windows 根据端口查看进行PID 并杀掉进程-windows根据端口查看进行pid并杀掉进程.md",
+  "tags": [
+   "端口占用",
+   "cmd"
+  ]
+ },
+ {
+  "file": "content/posts/WindowsSSH配置.md",
+  "tags": [
+   "ssh",
+   "win10"
+  ]
+ },
+ {
+  "file": "content/posts/word 通配符小结-word通配符小结.md",
+  "tags": [
+   "word",
+   "正则表达式"
+  ]
+ },
+ {
+  "file": "content/posts/word快捷键记录-word快捷键记录.md",
+  "tags": [
+   "word",
+   "快捷键"
+  ]
+ },
+ {
+  "file": "content/posts/wsl2 docker hpye-v window config.v2.json位置目录-wsl2dockerhpye-vwindowconfigv2json位置目录.md",
+  "tags": [
+   "docker",
+   "wsl"
+  ]
+ },
+ {
+  "file": "content/posts/xml does not fulfill production-xmldoesnotfulfillproduction.md",
+  "tags": [
+   "xml",
+   "语法"
+  ]
+ },
+ {
+  "file": "content/posts/zip包乱码.md",
+  "tags": [
+   "zip",
+   "encoding"
+  ]
+ },
+ {
+  "file": "content/posts/“Failed to load response data“ django@xframe_options_exempt 网站不许 Firefox 显示被嵌入的网页-failedtoloadresponsedatadjangoxframeoptionsexempt网站不许firefox显示被嵌入的网页.md",
+  "tags": [
+   "django",
+   "python"
+  ]
+ },
+ {
+  "file": "content/posts/代理 设置wsl_为 WSL2 一键设置代理 clash-代理设置wsl为wsl2一键设置代理clash.md",
+  "tags": [
+   "clash",
+   "代理",
+   "wsl"
+  ]
+ },
+ {
+  "file": "content/posts/删数问题，贪心策略-删数问题贪心策略.md",
+  "tags": [
+   "算法",
+   "贪心",
+   "c++"
+  ]
+ },
+ {
+  "file": "content/posts/双系统安装问题记录.md",
+  "tags": [
+   "linux",
+   "双系统"
+  ]
+ },
+ {
+  "file": "content/posts/复制params时，技巧-复制params时技巧.md",
+  "tags": [
+   "idea",
+   "java"
+  ]
+ },
+ {
+  "file": "content/posts/宝塔linux-宝塔linux.md",
+  "tags": [
+   "linux",
+   "宝塔"
+  ]
+ },
+ {
+  "file": "content/posts/当前目录cmd快捷键-当前目录cmd快捷键.md",
+  "tags": [
+   "cmd",
+   "快捷键"
+  ]
+ },
+ {
+  "file": "content/posts/数据库-EF-Core-连接层.md",
+  "tags": [
+   "ef",
+   "c#",
+   "oracle"
+  ]
+ },
+ {
+  "file": "content/posts/无法下载goproxy-无法下载goproxy.md",
+  "tags": [
+   "proxy",
+   "linux"
+  ]
+ },
+ {
+  "file": "content/posts/查找替换 idea,ctrl r, ctrl f-查找替换ideactrlrctrlf.md",
+  "tags": [
+   "idea",
+   "快捷键"
+  ]
+ },
+ {
+  "file": "content/posts/算法复杂度-算法复杂度.md",
+  "tags": [
+   "算法",
+   "复杂度"
+  ]
+ },
+ {
+  "file": "content/posts/网络代理知识整理.md",
+  "tags": [
+   "代理",
+   "proxy",
+   "nginx"
+  ]
+ },
+ {
+  "file": "content/posts/英文版window-中文应用乱码问题.md",
+  "tags": [
+   "win10",
+   "encoding"
+  ]
+ },
+ {
+  "file": "content/posts/计划赶不上变化.md",
+  "tags": [
+   "c#",
+   "c++"
+  ]
+ }
+]

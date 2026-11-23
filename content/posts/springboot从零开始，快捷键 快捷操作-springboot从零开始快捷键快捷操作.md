@@ -7,6 +7,8 @@ aliases = ["/2020/02_08_964158b2.html"]
 description = "SpringBoot入门视频笔记：Maven建项目、yml配置与取值注解、Profile多环境与打包部署，兼及热部署、actuator监控和微服务组件。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png"
+[taxonomies]
+tags = ["springboot", "快捷键", "idea"]
 +++
 ﻿###### 首先建一个maven 工程
 idea main方法的快捷键是psvm 回车。

@@ -9,6 +9,8 @@ description = "汇总PuTTY实用技巧：改版保存密码、keepalive保活、
 category = "Linux"
 categories = ["Linux"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
+[taxonomies]
+tags = ["ssh", "putty"]
 +++
 # 这是修改版的putty
 

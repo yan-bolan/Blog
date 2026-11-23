@@ -9,6 +9,8 @@ description = "layui 数据表格异步加载一直转圈并报 LAY_TABLE_INDEX 
 category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
+[taxonomies]
+tags = ["layui", "异步", "json"]
 +++
 ﻿返回的数据不符合规范，正确的成功状态码应为："code": 0
 

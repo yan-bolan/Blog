@@ -4,6 +4,8 @@ date = "2022-09-16 21:26:55"
 slug = "543ae1d7"
 aliases = ["/2022/09_16_543ae1d7.html"]
 description = "C# 语法训练记录：委托的声明实例化调用、匿名方法与 lambda 简化、Action 与 Func 泛型委托及协变逆变，并简介扩展方法。"
+[taxonomies]
+tags = ["c#", "委托", "lambda"]
 +++
 # 委托
 

@@ -9,6 +9,8 @@ description = "JavaWeb 报 MySQL 驱动类找不到，因缺 mysql-connector-jav
 category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
+[taxonomies]
+tags = ["java", "mysql", "jdbc", "maven问题"]
 +++
 ﻿如果是少jar包的话，idea,
 ![在这里插入图片描述](http://img.yayi.site/csdn/20191016224859650.png-watermaskStyle)

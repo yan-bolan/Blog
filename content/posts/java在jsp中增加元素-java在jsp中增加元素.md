@@ -9,6 +9,8 @@ description = "收藏 CSDN 与博客园链接，供参考在 JSP 中用 Java 动
 category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
+[taxonomies]
+tags = ["java", "jsp"]
 +++
 ﻿[https://blog.csdn.net/aspenstars/article/details/76023599](https://blog.csdn.net/aspenstars/article/details/76023599)
 session

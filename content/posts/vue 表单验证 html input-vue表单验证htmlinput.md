@@ -7,6 +7,8 @@ aliases = ["/2020/10_11_831c046e.html"]
 description = "介绍用HTML原生属性做表单验证：input的required必填、maxlength限长、pattern正则，比Vue或Element校验更省事。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
+[taxonomies]
+tags = ["vue", "html", "form"]
 +++
 ﻿如果 你用vue  或者 element 的ui 去验证发现很麻烦。
 如果 你只想简单验证：

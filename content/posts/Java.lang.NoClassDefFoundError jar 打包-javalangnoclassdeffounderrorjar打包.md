@@ -7,6 +7,8 @@ aliases = ["/2020/07_30_a07c8ebb.html"]
 description = "排查改pom后打包jar报NoClassDefFoundError：IDEA的artifacts未随依赖更新致jar缺类，重建artifacts解决。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
+[taxonomies]
+tags = ["java", "idea", "maven问题"]
 +++
 ﻿### 更改过pom文件后，运行是没问题，打包jar就Java.lang.NoClassDefFoundError
 ＩＤＥＡ 当时从当时依赖建立的artifacts ，所以依赖改变后artifacts配置并没有更新。所以出来的jar 中没有类，发现jar文件目录中并没有 http 这个包。。java -jar时有问题。IDE时没有问题。

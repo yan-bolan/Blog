@@ -9,6 +9,8 @@ description = "记录获取Bing每日图片：用bing.ioliu.cn与官方HPImageAr
 category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
+[taxonomies]
+tags = ["java", "jsonp", "跨域"]
 +++
 ﻿[https://github.com/xCss/bing/blob/master/readme.md](https://github.com/xCss/bing/blob/master/readme.md)
 

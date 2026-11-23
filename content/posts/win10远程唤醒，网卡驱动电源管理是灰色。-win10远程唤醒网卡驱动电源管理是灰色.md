@@ -9,6 +9,8 @@ description = "解决Win10远程唤醒时网卡电源管理选项灰色不可点
 category = "win10"
 categories = ["win10"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
+[taxonomies]
+tags = ["win10", "网卡"]
 +++
 ﻿没电源管理，更新驱动。bios 
 灰色的：

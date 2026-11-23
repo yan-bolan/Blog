@@ -9,6 +9,8 @@ description = "Halo博客安装成功后自动生成的默认示例文章，含�
 category = "默认分类"
 categories = ["默认分类"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
+[taxonomies]
+tags = ["halo"]
 +++
 ## Hello Halo
 

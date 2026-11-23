@@ -9,6 +9,8 @@ description = "Linux 防火墙排查：外网打不开先查 firewalld/iptables 
 category = "Linux"
 categories = ["Linux"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
+[taxonomies]
+tags = ["linux", "防火墙"]
 +++
 ﻿[https://www.cnblogs.com/yizhipanghu/p/11171211.html](https://www.cnblogs.com/yizhipanghu/p/11171211.html)
 安装的服务器 用curl 试试在本地是否能打开，外网打不开时，可能防火墙原理

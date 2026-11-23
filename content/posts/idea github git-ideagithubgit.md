@@ -9,5 +9,7 @@ description = "收藏一条博客园教程链接，供在 IDEA 中配置 GitHub 
 category = "IDE"
 categories = ["IDE"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
+[taxonomies]
+tags = ["idea", "git", "github"]
 +++
 ﻿https://www.cnblogs.com/yysbolg/p/8566389.html

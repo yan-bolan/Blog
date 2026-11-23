@@ -9,6 +9,8 @@ description = "排查tinymce与layui模块未定义报错：IDEA部署Tomcat根�
 category = "前端"
 categories = ["前端"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
+[taxonomies]
+tags = ["layui", "js", "tomcat"]
 +++
 ﻿路径问题
 ![在这里插入图片描述](http://img.yayi.site/csdn/2019111113180333.png-watermaskStyle)

@@ -7,6 +7,8 @@ aliases = ["/2021/03_20_71a5c8f9.html"]
 description = "记录nginx将80端口HTTP请求301重定向到443 HTTPS的配置要点，并提醒浏览器会缓存301，需禁用缓存才能看到更新效果。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
+[taxonomies]
+tags = ["nginx", "http", "https"]
 +++
 ﻿利用重定向来全部443
 要www 还是不要的好。不知道，听说www不要的话，一些网站有些问题

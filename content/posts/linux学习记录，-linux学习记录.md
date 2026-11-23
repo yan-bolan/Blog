@@ -7,6 +7,8 @@ aliases = ["/2019/12_05_352ddea.html"]
 description = "Linux 学习杂记：curl 与 post 上网、SSH 桥接复制、vmtools 共享文件夹、清华镜像加速、yum 与全局代理、man 查用法等常用命令。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125559-9e794859e7f25a110df951d0b55e4815.png"
+[taxonomies]
+tags = ["linux", "ssh", "vmware"]
 +++
 ﻿HTTPPIE
 CURL

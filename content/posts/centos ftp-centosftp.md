@@ -9,5 +9,7 @@ description = "收藏一条博客园教程链接，供 CentOS 搭建 FTP 服务�
 category = "Linux"
 categories = ["Linux"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
+[taxonomies]
+tags = ["centos7", "ftp"]
 +++
 ﻿https://www.cnblogs.com/toutou/p/9662390.html

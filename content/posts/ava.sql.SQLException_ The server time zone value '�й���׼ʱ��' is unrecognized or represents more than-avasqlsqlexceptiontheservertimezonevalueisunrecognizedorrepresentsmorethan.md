@@ -9,6 +9,8 @@ description = "排查Java连MySQL报server time zone value无法识别：需在J
 category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
+[taxonomies]
+tags = ["java", "mysql", "jdbc"]
 +++
 ﻿，版本不同，或者你连接数据库的url有问题，mysql连接要指定时间区域地域：
 //static final String DB_URL = "jdbc:mysql://localhost:3306/你的数据库?useSSL=false&serverTimezone=UTC";

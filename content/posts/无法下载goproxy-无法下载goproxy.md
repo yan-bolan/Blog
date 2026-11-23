@@ -9,6 +9,8 @@ description = "记录proxy-admin无法下载时的手动安装法：脚本从Git
 category = "Linux"
 categories = ["Linux"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
+[taxonomies]
+tags = ["proxy", "linux"]
 +++
 ﻿手动安装
 #!/bin/bash

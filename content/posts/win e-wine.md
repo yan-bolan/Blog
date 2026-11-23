@@ -9,5 +9,7 @@ description = "Windows相关操作记录条目，正文仅存一张截图，文�
 category = "win10"
 categories = ["win10"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
+[taxonomies]
+tags = ["win10", "wine"]
 +++
 ﻿![在这里插入图片描述](http://img.yayi.site/csdn/20191024103448620.png-watermaskStyle)

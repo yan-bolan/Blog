@@ -9,6 +9,8 @@ description = "改Android版本号：在app模块build.gradle修改并与manifes
 category = "andriod"
 categories = ["andriod"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
+[taxonomies]
+tags = ["android", "gradle"]
 +++
 app
 build.gradle

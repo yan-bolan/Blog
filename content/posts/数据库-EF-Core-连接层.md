@@ -4,6 +4,8 @@ date = "2022-09-09 18:57:54"
 slug = "b8fc92bb"
 aliases = ["/2022/09_09_b8fc92bb.html"]
 description = "整理EF Core数据库连接层入门：对比EF6与三种开发模式，介绍PMC迁移命令、Oracle工厂与连接池，并给出增删改查示例。"
+[taxonomies]
+tags = ["ef", "c#", "oracle"]
 +++
 [EF框架概念及三种模式 - 吾蒸笼 - 博客园](https://www.cnblogs.com/wuzhenglong/p/6477366.html)
 

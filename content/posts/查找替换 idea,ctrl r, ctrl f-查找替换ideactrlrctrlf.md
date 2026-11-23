@@ -9,5 +9,7 @@ description = "记录IDEA中查找与替换的快捷键Ctrl F与Ctrl R，正文�
 category = "IDE"
 categories = ["IDE"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
+[taxonomies]
+tags = ["idea", "快捷键"]
 +++
 ﻿https://blog.csdn.net/qq_40673786/article/details/91906282

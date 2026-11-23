@@ -9,6 +9,8 @@ description = "排查AS运行报Default Activity Not Found：原因是清单缺�
 category = "andriod"
 categories = ["andriod"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311125432-warteergirls.png"
+[taxonomies]
+tags = ["android", "android studio"]
 +++
 ﻿https://blog.csdn.net/DeMonliuhui/article/details/83046252
 

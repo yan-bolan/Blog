@@ -9,6 +9,8 @@ description = "用 window 的 online/offline 事件监听网络连通与断开�
 category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 樹.png"
+[taxonomies]
+tags = ["js", "网络连通"]
 +++
 ```javascript
 window.ononline = function() {

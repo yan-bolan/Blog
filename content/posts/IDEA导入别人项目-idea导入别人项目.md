@@ -9,6 +9,8 @@ description = "记录IDEA导入他人项目报Invalid Maven home directory confi
 category = "笔记"
 categories = ["笔记"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/犬吠·埼 風.png"
+[taxonomies]
+tags = ["idea", "maven问题"]
 +++
 ﻿![在这里插入图片描述](http://img.yayi.site/csdn/20200105095643957.png-watermaskStyle)
 一般要改maven 路径成自己的。我连在哪都 不知道

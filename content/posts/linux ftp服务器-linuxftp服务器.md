@@ -9,6 +9,8 @@ description = "收藏 Linux FTP 服务器搭建相关链接，涵盖安装、用
 category = "Linux"
 categories = ["Linux"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
+[taxonomies]
+tags = ["linux", "ftp"]
 +++
 ﻿安装：https://www.jb51.net/article/101410.htm
 

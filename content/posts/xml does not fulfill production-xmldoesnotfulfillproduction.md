@@ -7,6 +7,8 @@ aliases = ["/2020/06_26_21d24d46.html"]
 description = "解析XML报错does not fulfill production Name：语法描述中圆括号表必选、方括号表可选，只是表示约定，不能照抄进实际代码。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png"
+[taxonomies]
+tags = ["xml", "语法"]
 +++
 ﻿### Character '(' within text '(students' does not fulfill production 'Name'.
 ![在这里插入图片描述](http://img.yayi.site/csdn/20200626202604713.png-watermaskStyle)

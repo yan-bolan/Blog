@@ -4,6 +4,8 @@ date = "2022-09-21 20:01:09"
 slug = "f10092bf"
 aliases = ["/2022/09_21_f10092bf.html"]
 description = "JavaScript学习笔记：涵盖闭包、let/const、Promise链式调用解决回调地狱、apply/call、事件监听与冒泡捕获及事件循环机制。"
+[taxonomies]
+tags = ["js", "闭包", "异步"]
 +++
 ![](https://raw.githubusercontent.com/yan-bolan/picbed/master/img/picgo/20220921200403.png)
 

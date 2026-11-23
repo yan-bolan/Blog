@@ -9,6 +9,8 @@ description = "解决Ubuntu网络图标消失：停止network-manager服务，�
 category = "Linux"
 categories = ["Linux"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+[taxonomies]
+tags = ["linux", "ubuntu"]
 +++
 ﻿```css
 service NetworkManager stop

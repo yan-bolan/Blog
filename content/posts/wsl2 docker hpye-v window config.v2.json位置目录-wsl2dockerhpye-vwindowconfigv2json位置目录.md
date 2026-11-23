@@ -7,6 +7,8 @@ aliases = ["/2021/03_31_3a6fd2e9.html"]
 description = "记录WSL2版Docker Desktop容器配置文件config.v2.json的路径在docker-desktop-data发行版中，默认发行版里找不到。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/東郷·美森.png"
+[taxonomies]
+tags = ["docker", "wsl"]
 +++
 ﻿# docker desktop
 window 现在的是wls2 方式。而不是hpye-v模式。

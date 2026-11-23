@@ -7,6 +7,8 @@ aliases = ["/2020/08_02_4f223e60.html"]
 description = "记录Android Studio代理分IDE与Gradle两层：IDE在Settings设置、留空用系统代理，Gradle在用户目录配置全局生效，以截图为主。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/乃木·園子.png"
+[taxonomies]
+tags = ["android", "gradle", "proxy"]
 +++
 ﻿分为ide 和 gradle的代理
 目前 在ide 4.0 是在setting中设置，

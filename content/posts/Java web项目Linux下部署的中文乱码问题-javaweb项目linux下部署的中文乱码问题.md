@@ -9,6 +9,8 @@ description = "记录Java Web项目Linux部署中文乱码的编码差异：读�
 category = "javaweb"
 categories = ["javaweb"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/三ノ·輪 銀.png"
+[taxonomies]
+tags = ["java", "linux", "encoding"]
 +++
 ﻿linux 读文件用的是 uft8, 输出到response 时用的是GB2312
 window。。。 GB2312, ....UFT-8  

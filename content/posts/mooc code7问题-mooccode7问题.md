@@ -9,5 +9,7 @@ description = "MOOC平台code7问题的记录条目，正文内容缺失，仅�
 category = "win10"
 categories = ["win10"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
+[taxonomies]
+tags = ["win10"]
 +++
 ﻿

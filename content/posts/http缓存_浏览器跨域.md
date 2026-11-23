@@ -6,6 +6,8 @@ aliases = ["/2022/11_18_7350ba96.html"]
 description = "HTTP 强制缓存优先于协商缓存，无策略时按修改时差一成启发缓存，Ctrl+F5 只刷新请求；跨域是浏览器防 CSRF 策略，CORS 需询问目标站是否允许。"
 [extra]
 cover = "https://tva2.sinaimg.cn/large/0072Vf1pgy1foxlhxz1asj31kw0w0e0n.jpg"
+[taxonomies]
+tags = ["http", "缓存", "跨域"]
 +++
 CTRL+F5 只更新了當前請求，子頁面不能更新;
 在IIS中： 採用覆蓋文件; 文件替換情況下: 很久之前就寫好了需求(最後修改日期在之前)，然後現在你更新的時候採用的是文件橫行覆蓋，這時文件修改日期是你寫好需求之時; 瀏覽器發現這是很久之前的更新，不是“最近”的更新    ，

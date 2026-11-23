@@ -4,6 +4,8 @@ date = "2022-09-04 10:49:04"
 slug = "7568c82b"
 aliases = ["/2022/09_04_7568c82b.html"]
 description = "整理ASP.NET的SQLite相对路径方案：连接串用|DataDirectory|或代码拼接BaseDirectory，log4net场景相对路径不生效。"
+[taxonomies]
+tags = ["aspnet", "sqlite", "c#"]
 +++
 sqlite csharp 使用相对路径
 

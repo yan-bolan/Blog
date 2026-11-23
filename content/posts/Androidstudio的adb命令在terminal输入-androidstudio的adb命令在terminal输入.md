@@ -9,5 +9,7 @@ description = "记录在Android Studio自带Terminal中直接输入adb命令的�
 category = "andriod"
 categories = ["andriod"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈.png"
+[taxonomies]
+tags = ["android", "adb"]
 +++
 ﻿![在这里插入图片描述](http://img.yayi.site/csdn/2019101420010229.png-watermaskStyle)

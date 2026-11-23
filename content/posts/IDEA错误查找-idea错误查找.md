@@ -9,6 +9,8 @@ description = "记录IDEA错误定位方法：编辑器右侧横杠标记红为�
 category = "IDE"
 categories = ["IDE"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png"
+[taxonomies]
+tags = ["idea", "调试"]
 +++
 ﻿代码太多，好像滑有定位的键，不过旁边有这个横杠。红为错，黄为告 
 

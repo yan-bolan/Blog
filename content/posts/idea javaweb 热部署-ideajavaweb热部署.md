@@ -7,6 +7,8 @@ aliases = ["/2019/10_08_3106bc6a.html"]
 description = "IDEA JavaWeb 热部署：Tomcat 部署选 war exploded，更新与失焦设为 update classes and resources。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+[taxonomies]
+tags = ["idea", "tomcat", "热部署"]
 +++
 ﻿#### 　一：
 第一步配置tomcat的deplotement里面要选择xxx.war exploded而不是xxx.war。如果是xxx.war的童鞋，请移除再加入xxx.war exploded。然后在tomcat的server里面on update action和on frame deactivation都选择update classes and resources就行了。

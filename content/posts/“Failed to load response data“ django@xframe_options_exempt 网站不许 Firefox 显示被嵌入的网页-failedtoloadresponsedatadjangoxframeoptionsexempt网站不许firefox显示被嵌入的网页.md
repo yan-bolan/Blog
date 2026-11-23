@@ -7,6 +7,8 @@ aliases = ["/2021/04_06_eacc72e0.html"]
 description = "排查Django站点Ajax响应在浏览器中加载失败：实为X-Frame点击劫持防护拦截嵌入，给视图加xframe_options_exempt注解后恢复。"
 [extra]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/20210311124333-The-executioner-and-her-way-of-life.jpg"
+[taxonomies]
+tags = ["django", "python"]
 +++
 ﻿# python django ajax
 

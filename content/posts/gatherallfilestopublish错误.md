@@ -6,6 +6,8 @@ aliases = ["/2022/11_20_881ed5a.html"]
 description = "VS 发布报 GatherAllFilesToPublish 错误，疑因装 VC redist，删 .vs 目录与 csproj 相关 target 行解决。"
 [extra]
 cover = "https://tva2.sinaimg.cn/large/87c01ec7gy1frqdpollutj21hc0u07wh.jpg"
+[taxonomies]
+tags = ["visual studio", "dotnet"]
 +++
 gatherallfilestopublish 错误
 

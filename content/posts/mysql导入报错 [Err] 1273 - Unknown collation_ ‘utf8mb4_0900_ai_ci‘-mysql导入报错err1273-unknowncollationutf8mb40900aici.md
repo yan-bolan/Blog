@@ -9,6 +9,8 @@ description = "解决MySQL导入报1273未知排序规则utf8mb4_0900_ai_ci：�
 category = "数据库"
 categories = ["数据库"]
 cover = "https://cdn.jsdelivr.net/gh/yan-bolan/picbed/img/动漫/結城友奈は勇者である/結城·友奈2.png"
+[taxonomies]
+tags = ["mysql", "字符集"]
 +++
 首先查看你服务器的字符排序规则
 然后把对应的sql文件中，替换成相应的字符集
